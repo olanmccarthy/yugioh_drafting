@@ -1,0 +1,1324 @@
+
+      <tr>
+         <td><a href="/wiki/BP01-EN001" title="BP01-EN001" class="mw-redirect">BP01-EN001</a></td>
+         <td>"<a href="/wiki/Witch_of_the_Black_Forest" title="Witch of the Black Forest">Witch of the Black Forest</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN002" title="BP01-EN002" class="mw-redirect">BP01-EN002</a></td>
+         <td>"<a href="/wiki/Cyber_Jar" title="Cyber Jar">Cyber Jar</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN003" title="BP01-EN003" class="mw-redirect">BP01-EN003</a></td>
+         <td>"<a href="/wiki/Jinzo" title="Jinzo">Jinzo</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN004" title="BP01-EN004" class="mw-redirect">BP01-EN004</a></td>
+         <td>"<a href="/wiki/Injection_Fairy_Lily" title="Injection Fairy Lily">Injection Fairy Lily</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN005" title="BP01-EN005" class="mw-redirect">BP01-EN005</a></td>
+         <td>"<a href="/wiki/Dark_Dust_Spirit" title="Dark Dust Spirit">Dark Dust Spirit</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Spirit_monster" title="Spirit monster">Spirit monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN006" title="BP01-EN006" class="mw-redirect">BP01-EN006</a></td>
+         <td>"<a href="/wiki/Skull_Archfiend_of_Lightning" title="Skull Archfiend of Lightning">Skull Archfiend of Lightning</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN007" title="BP01-EN007" class="mw-redirect">BP01-EN007</a></td>
+         <td>"<a href="/wiki/Dark_Magician_of_Chaos" title="Dark Magician of Chaos">Dark Magician of Chaos</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN008" title="BP01-EN008" class="mw-redirect">BP01-EN008</a></td>
+         <td>"<a href="/wiki/Blowback_Dragon" title="Blowback Dragon">Blowback Dragon</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN009" title="BP01-EN009" class="mw-redirect">BP01-EN009</a></td>
+         <td>"<a href="/wiki/Mobius_the_Frost_Monarch" title="Mobius the Frost Monarch">Mobius the Frost Monarch</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN010" title="BP01-EN010" class="mw-redirect">BP01-EN010</a></td>
+         <td>"<a href="/wiki/Fox_Fire" title="Fox Fire">Fox Fire</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN011" title="BP01-EN011" class="mw-redirect">BP01-EN011</a></td>
+         <td>"<a href="/wiki/Ancient_Gear_Golem" title="Ancient Gear Golem">Ancient Gear Golem</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN012" title="BP01-EN012" class="mw-redirect">BP01-EN012</a></td>
+         <td>"<a href="/wiki/Treeborn_Frog" title="Treeborn Frog">Treeborn Frog</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN013" title="BP01-EN013" class="mw-redirect">BP01-EN013</a></td>
+         <td>"<a href="/wiki/Super_Conductor_Tyranno" title="Super Conductor Tyranno">Super Conductor Tyranno</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN014" title="BP01-EN014" class="mw-redirect">BP01-EN014</a></td>
+         <td>"<a href="/wiki/Gorz_the_Emissary_of_Darkness" title="Gorz the Emissary of Darkness">Gorz the Emissary of Darkness</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN015" title="BP01-EN015" class="mw-redirect">BP01-EN015</a></td>
+         <td>"<a href="/wiki/Raiza_the_Storm_Monarch" title="Raiza the Storm Monarch">Raiza the Storm Monarch</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN016" title="BP01-EN016" class="mw-redirect">BP01-EN016</a></td>
+         <td>"<a href="/wiki/White_Night_Dragon" title="White Night Dragon">White Night Dragon</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN017" title="BP01-EN017" class="mw-redirect">BP01-EN017</a></td>
+         <td>"<a href="/wiki/Deep_Diver" title="Deep Diver">Deep Diver</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN018" title="BP01-EN018" class="mw-redirect">BP01-EN018</a></td>
+         <td>"<a href="/wiki/Caius_the_Shadow_Monarch" title="Caius the Shadow Monarch">Caius the Shadow Monarch</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN019" title="BP01-EN019" class="mw-redirect">BP01-EN019</a></td>
+         <td>"<a href="/wiki/Krebons" title="Krebons">Krebons</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN020" title="BP01-EN020" class="mw-redirect">BP01-EN020</a></td>
+         <td>"<a href="/wiki/Tragoedia" title="Tragoedia">Tragoedia</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN021" title="BP01-EN021" class="mw-redirect">BP01-EN021</a></td>
+         <td>"<a href="/wiki/Obelisk_the_Tormentor" title="Obelisk the Tormentor">Obelisk the Tormentor</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN022" title="BP01-EN022" class="mw-redirect">BP01-EN022</a></td>
+         <td>"<a href="/wiki/Machina_Fortress" title="Machina Fortress">Machina Fortress</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN023" title="BP01-EN023" class="mw-redirect">BP01-EN023</a></td>
+         <td>"<a href="/wiki/Tour_Guide_From_the_Underworld" title="Tour Guide From the Underworld">Tour Guide From the Underworld</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN024" title="BP01-EN024" class="mw-redirect">BP01-EN024</a></td>
+         <td>"<a href="/wiki/Number_39:_Utopia" title="Number 39: Utopia">Number 39: Utopia</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Xyz_Monster" title="Xyz Monster">Xyz Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN025" title="BP01-EN025" class="mw-redirect">BP01-EN025</a></td>
+         <td>"<a href="/wiki/Gachi_Gachi_Gantetsu" title="Gachi Gachi Gantetsu">Gachi Gachi Gantetsu</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Xyz_Monster" title="Xyz Monster">Xyz Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN026" title="BP01-EN026" class="mw-redirect">BP01-EN026</a></td>
+         <td>"<a href="/wiki/Grenosaurus" title="Grenosaurus">Grenosaurus</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Xyz_Monster" title="Xyz Monster">Xyz Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN027" title="BP01-EN027" class="mw-redirect">BP01-EN027</a></td>
+         <td>"<a href="/wiki/Number_17:_Leviathan_Dragon" title="Number 17: Leviathan Dragon">Number 17: Leviathan Dragon</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Xyz_Monster" title="Xyz Monster">Xyz Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN028" title="BP01-EN028" class="mw-redirect">BP01-EN028</a></td>
+         <td>"<a href="/wiki/Wind-Up_Zenmaister" title="Wind-Up Zenmaister">Wind-Up Zenmaister</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Xyz_Monster" title="Xyz Monster">Xyz Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN029" title="BP01-EN029" class="mw-redirect">BP01-EN029</a></td>
+         <td>"<a href="/wiki/Tiras,_Keeper_of_Genesis" title="Tiras, Keeper of Genesis">Tiras, Keeper of Genesis</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Xyz_Monster" title="Xyz Monster">Xyz Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN030" title="BP01-EN030" class="mw-redirect">BP01-EN030</a></td>
+         <td>"<a href="/wiki/Adreus,_Keeper_of_Armageddon" title="Adreus, Keeper of Armageddon">Adreus, Keeper of Armageddon</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Xyz_Monster" title="Xyz Monster">Xyz Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN031" title="BP01-EN031" class="mw-redirect">BP01-EN031</a></td>
+         <td>"<a href="/wiki/Gem-Knight_Pearl" title="Gem-Knight Pearl">Gem-Knight Pearl</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Xyz_Monster" title="Xyz Monster">Xyz Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN032" title="BP01-EN032" class="mw-redirect">BP01-EN032</a></td>
+         <td>"<a href="/wiki/Raigeki" title="Raigeki">Raigeki</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN033" title="BP01-EN033" class="mw-redirect">BP01-EN033</a></td>
+         <td>"<a href="/wiki/Swords_of_Revealing_Light" title="Swords of Revealing Light">Swords of Revealing Light</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN034" title="BP01-EN034" class="mw-redirect">BP01-EN034</a></td>
+         <td>"<a href="/wiki/Pot_of_Greed" title="Pot of Greed">Pot of Greed</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN035" title="BP01-EN035" class="mw-redirect">BP01-EN035</a></td>
+         <td>"<a href="/wiki/Harpie%27s_Feather_Duster" title="Harpie's Feather Duster">Harpie's Feather Duster</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN036" title="BP01-EN036" class="mw-redirect">BP01-EN036</a></td>
+         <td>"<a href="/wiki/Graceful_Charity" title="Graceful Charity">Graceful Charity</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN037" title="BP01-EN037" class="mw-redirect">BP01-EN037</a></td>
+         <td>"<a href="/wiki/Change_of_Heart" title="Change of Heart">Change of Heart</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN038" title="BP01-EN038" class="mw-redirect">BP01-EN038</a></td>
+         <td>"<a href="/wiki/Heavy_Storm" title="Heavy Storm">Heavy Storm</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN039" title="BP01-EN039" class="mw-redirect">BP01-EN039</a></td>
+         <td>"<a href="/wiki/Snatch_Steal" title="Snatch Steal">Snatch Steal</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN040" title="BP01-EN040" class="mw-redirect">BP01-EN040</a></td>
+         <td>"<a href="/wiki/Premature_Burial" title="Premature Burial">Premature Burial</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN041" title="BP01-EN041" class="mw-redirect">BP01-EN041</a></td>
+         <td>"<a href="/wiki/Soul_Exchange" title="Soul Exchange">Soul Exchange</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN042" title="BP01-EN042" class="mw-redirect">BP01-EN042</a></td>
+         <td>"<a href="/wiki/Scapegoat" title="Scapegoat">Scapegoat</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN043" title="BP01-EN043" class="mw-redirect">BP01-EN043</a></td>
+         <td>"<a href="/wiki/United_We_Stand" title="United We Stand">United We Stand</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN044" title="BP01-EN044" class="mw-redirect">BP01-EN044</a></td>
+         <td>"<a href="/wiki/Creature_Swap" title="Creature Swap">Creature Swap</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN045" title="BP01-EN045" class="mw-redirect">BP01-EN045</a></td>
+         <td>"<a href="/wiki/Burden_of_the_Mighty" title="Burden of the Mighty">Burden of the Mighty</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN046" title="BP01-EN046" class="mw-redirect">BP01-EN046</a></td>
+         <td>"<a href="/wiki/Pot_of_Duality" title="Pot of Duality">Pot of Duality</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN047" title="BP01-EN047" class="mw-redirect">BP01-EN047</a></td>
+         <td>"<a href="/wiki/Solemn_Judgment" title="Solemn Judgment">Solemn Judgment</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Counter_Trap_Card" title="Counter Trap Card">Counter</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN048" title="BP01-EN048" class="mw-redirect">BP01-EN048</a></td>
+         <td>"<a href="/wiki/Mirror_Force" title="Mirror Force">Mirror Force</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN049" title="BP01-EN049" class="mw-redirect">BP01-EN049</a></td>
+         <td>"<a href="/wiki/Call_of_the_Haunted" title="Call of the Haunted">Call of the Haunted</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN050" title="BP01-EN050" class="mw-redirect">BP01-EN050</a></td>
+         <td>"<a href="/wiki/Ring_of_Destruction" title="Ring of Destruction">Ring of Destruction</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN051" title="BP01-EN051" class="mw-redirect">BP01-EN051</a></td>
+         <td>"<a href="/wiki/Torrential_Tribute" title="Torrential Tribute">Torrential Tribute</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN052" title="BP01-EN052" class="mw-redirect">BP01-EN052</a></td>
+         <td>"<a href="/wiki/Metal_Reflect_Slime" title="Metal Reflect Slime">Metal Reflect Slime</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN053" title="BP01-EN053" class="mw-redirect">BP01-EN053</a></td>
+         <td>"<a href="/wiki/Skill_Drain" title="Skill Drain">Skill Drain</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN054" title="BP01-EN054" class="mw-redirect">BP01-EN054</a></td>
+         <td>"<a href="/wiki/Divine_Wrath" title="Divine Wrath">Divine Wrath</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Counter_Trap_Card" title="Counter Trap Card">Counter</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN055" title="BP01-EN055" class="mw-redirect">BP01-EN055</a></td>
+         <td>"<a href="/wiki/Dark_Bribe" title="Dark Bribe">Dark Bribe</a>"</td>
+         <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Counter_Trap_Card" title="Counter Trap Card">Counter</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN056" title="BP01-EN056" class="mw-redirect">BP01-EN056</a></td>
+         <td>"<a href="/wiki/Greenkappa" title="Greenkappa">Greenkappa</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN057" title="BP01-EN057" class="mw-redirect">BP01-EN057</a></td>
+         <td>"<a href="/wiki/Penguin_Soldier" title="Penguin Soldier">Penguin Soldier</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN058" title="BP01-EN058" class="mw-redirect">BP01-EN058</a></td>
+         <td>"<a href="/wiki/Mysterious_Guard" title="Mysterious Guard">Mysterious Guard</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN059" title="BP01-EN059" class="mw-redirect">BP01-EN059</a></td>
+         <td>"<a href="/wiki/Exiled_Force" title="Exiled Force">Exiled Force</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN060" title="BP01-EN060" class="mw-redirect">BP01-EN060</a></td>
+         <td>"<a href="/wiki/Old_Vindictive_Magician" title="Old Vindictive Magician">Old Vindictive Magician</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN061" title="BP01-EN061" class="mw-redirect">BP01-EN061</a></td>
+         <td>"<a href="/wiki/Breaker_the_Magical_Warrior" title="Breaker the Magical Warrior">Breaker the Magical Warrior</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN062" title="BP01-EN062" class="mw-redirect">BP01-EN062</a></td>
+         <td>"<a href="/wiki/Grave_Squirmer" title="Grave Squirmer">Grave Squirmer</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN063" title="BP01-EN063" class="mw-redirect">BP01-EN063</a></td>
+         <td>"<a href="/wiki/Ryko,_Lightsworn_Hunter" title="Ryko, Lightsworn Hunter">Ryko, Lightsworn Hunter</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN064" title="BP01-EN064" class="mw-redirect">BP01-EN064</a></td>
+         <td>"<a href="/wiki/Snowman_Eater" title="Snowman Eater">Snowman Eater</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN065" title="BP01-EN065" class="mw-redirect">BP01-EN065</a></td>
+         <td>"<a href="/wiki/Fissure" title="Fissure">Fissure</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN066" title="BP01-EN066" class="mw-redirect">BP01-EN066</a></td>
+         <td>"<a href="/wiki/Tribute_to_The_Doomed" title="Tribute to The Doomed">Tribute to The Doomed</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN067" title="BP01-EN067" class="mw-redirect">BP01-EN067</a></td>
+         <td>"<a href="/wiki/Axe_of_Despair" title="Axe of Despair">Axe of Despair</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN068" title="BP01-EN068" class="mw-redirect">BP01-EN068</a></td>
+         <td>"<a href="/wiki/Mystical_Space_Typhoon" title="Mystical Space Typhoon">Mystical Space Typhoon</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN069" title="BP01-EN069" class="mw-redirect">BP01-EN069</a></td>
+         <td>"<a href="/wiki/Horn_of_the_Unicorn" title="Horn of the Unicorn">Horn of the Unicorn</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN070" title="BP01-EN070" class="mw-redirect">BP01-EN070</a></td>
+         <td>"<a href="/wiki/Offerings_to_the_Doomed" title="Offerings to the Doomed">Offerings to the Doomed</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN071" title="BP01-EN071" class="mw-redirect">BP01-EN071</a></td>
+         <td>"<a href="/wiki/Bait_Doll" title="Bait Doll">Bait Doll</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN072" title="BP01-EN072" class="mw-redirect">BP01-EN072</a></td>
+         <td>"<a href="/wiki/Book_of_Moon" title="Book of Moon">Book of Moon</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN073" title="BP01-EN073" class="mw-redirect">BP01-EN073</a></td>
+         <td>"<a href="/wiki/Autonomous_Action_Unit" title="Autonomous Action Unit">Autonomous Action Unit</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN074" title="BP01-EN074" class="mw-redirect">BP01-EN074</a></td>
+         <td>"<a href="/wiki/Ante" title="Ante">Ante</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN075" title="BP01-EN075" class="mw-redirect">BP01-EN075</a></td>
+         <td>"<a href="/wiki/Big_Bang_Shot" title="Big Bang Shot">Big Bang Shot</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN076" title="BP01-EN076" class="mw-redirect">BP01-EN076</a></td>
+         <td>"<a href="/wiki/Fiend%27s_Sanctuary" title="Fiend's Sanctuary">Fiend's Sanctuary</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN077" title="BP01-EN077" class="mw-redirect">BP01-EN077</a></td>
+         <td>"<a href="/wiki/Different_Dimension_Gate" title="Different Dimension Gate">Different Dimension Gate</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN078" title="BP01-EN078" class="mw-redirect">BP01-EN078</a></td>
+         <td>"<a href="/wiki/Enemy_Controller" title="Enemy Controller">Enemy Controller</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN079" title="BP01-EN079" class="mw-redirect">BP01-EN079</a></td>
+         <td>"<a href="/wiki/Monster_Gate" title="Monster Gate">Monster Gate</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN080" title="BP01-EN080" class="mw-redirect">BP01-EN080</a></td>
+         <td>"<a href="/wiki/Shield_Crush" title="Shield Crush">Shield Crush</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN081" title="BP01-EN081" class="mw-redirect">BP01-EN081</a></td>
+         <td>"<a href="/wiki/Fighting_Spirit" title="Fighting Spirit">Fighting Spirit</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN082" title="BP01-EN082" class="mw-redirect">BP01-EN082</a></td>
+         <td>"<a href="/wiki/Forbidden_Chalice" title="Forbidden Chalice">Forbidden Chalice</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN083" title="BP01-EN083" class="mw-redirect">BP01-EN083</a></td>
+         <td>"<a href="/wiki/Darkworld_Shackles" title="Darkworld Shackles">Darkworld Shackles</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN084" title="BP01-EN084" class="mw-redirect">BP01-EN084</a></td>
+         <td>"<a href="/wiki/Forbidden_Lance" title="Forbidden Lance">Forbidden Lance</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN085" title="BP01-EN085" class="mw-redirect">BP01-EN085</a></td>
+         <td>"<a href="/wiki/Infected_Mail" title="Infected Mail">Infected Mail</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN086" title="BP01-EN086" class="mw-redirect">BP01-EN086</a></td>
+         <td>"<a href="/wiki/Ego_Boost" title="Ego Boost">Ego Boost</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN087" title="BP01-EN087" class="mw-redirect">BP01-EN087</a></td>
+         <td>"<a href="/wiki/Kunai_with_Chain" title="Kunai with Chain">Kunai with Chain</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN088" title="BP01-EN088" class="mw-redirect">BP01-EN088</a></td>
+         <td>"<a href="/wiki/Dust_Tornado" title="Dust Tornado">Dust Tornado</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN089" title="BP01-EN089" class="mw-redirect">BP01-EN089</a></td>
+         <td>"<a href="/wiki/Windstorm_of_Etaqua" title="Windstorm of Etaqua">Windstorm of Etaqua</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN090" title="BP01-EN090" class="mw-redirect">BP01-EN090</a></td>
+         <td>"<a href="/wiki/Magic_Drain" title="Magic Drain">Magic Drain</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Counter_Trap_Card" title="Counter Trap Card">Counter</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN091" title="BP01-EN091" class="mw-redirect">BP01-EN091</a></td>
+         <td>"<a href="/wiki/Magic_Cylinder" title="Magic Cylinder">Magic Cylinder</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN092" title="BP01-EN092" class="mw-redirect">BP01-EN092</a></td>
+         <td>"<a href="/wiki/Shadow_Spell" title="Shadow Spell">Shadow Spell</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN093" title="BP01-EN093" class="mw-redirect">BP01-EN093</a></td>
+         <td>"<a href="/wiki/Blast_with_Chain" title="Blast with Chain">Blast with Chain</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN094" title="BP01-EN094" class="mw-redirect">BP01-EN094</a></td>
+         <td>"<a href="/wiki/Needle_Ceiling" title="Needle Ceiling">Needle Ceiling</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN095" title="BP01-EN095" class="mw-redirect">BP01-EN095</a></td>
+         <td>"<a href="/wiki/Reckless_Greed" title="Reckless Greed">Reckless Greed</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN096" title="BP01-EN096" class="mw-redirect">BP01-EN096</a></td>
+         <td>"<a href="/wiki/Nightmare_Wheel" title="Nightmare Wheel">Nightmare Wheel</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN097" title="BP01-EN097" class="mw-redirect">BP01-EN097</a></td>
+         <td>"<a href="/wiki/Spell_Shield_Type-8" title="Spell Shield Type-8">Spell Shield Type-8</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Counter_Trap_Card" title="Counter Trap Card">Counter</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN098" title="BP01-EN098" class="mw-redirect">BP01-EN098</a></td>
+         <td>"<a href="/wiki/Interdimensional_Matter_Transporter" title="Interdimensional Matter Transporter">Interdimensional Matter Transporter</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN099" title="BP01-EN099" class="mw-redirect">BP01-EN099</a></td>
+         <td>"<a href="/wiki/Compulsory_Evacuation_Device" title="Compulsory Evacuation Device">Compulsory Evacuation Device</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN100" title="BP01-EN100" class="mw-redirect">BP01-EN100</a></td>
+         <td>"<a href="/wiki/Prideful_Roar" title="Prideful Roar">Prideful Roar</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN101" title="BP01-EN101" class="mw-redirect">BP01-EN101</a></td>
+         <td>"<a href="/wiki/Half_or_Nothing" title="Half or Nothing">Half or Nothing</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN102" title="BP01-EN102" class="mw-redirect">BP01-EN102</a></td>
+         <td>"<a href="/wiki/Skill_Successor" title="Skill Successor">Skill Successor</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN103" title="BP01-EN103" class="mw-redirect">BP01-EN103</a></td>
+         <td>"<a href="/wiki/Pixie_Ring" title="Pixie Ring">Pixie Ring</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN104" title="BP01-EN104" class="mw-redirect">BP01-EN104</a></td>
+         <td>"<a href="/wiki/Changing_Destiny" title="Changing Destiny">Changing Destiny</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN105" title="BP01-EN105" class="mw-redirect">BP01-EN105</a></td>
+         <td>"<a href="/wiki/Fiendish_Chain" title="Fiendish Chain">Fiendish Chain</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN106" title="BP01-EN106" class="mw-redirect">BP01-EN106</a></td>
+         <td>"<a href="/wiki/Inverse_Universe" title="Inverse Universe">Inverse Universe</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN107" title="BP01-EN107" class="mw-redirect">BP01-EN107</a></td>
+         <td>"<a href="/wiki/Miracle%27s_Wake" title="Miracle's Wake">Miracle's Wake</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN108" title="BP01-EN108" class="mw-redirect">BP01-EN108</a></td>
+         <td>"<a href="/wiki/Power_Frame" title="Power Frame">Power Frame</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN109" title="BP01-EN109" class="mw-redirect">BP01-EN109</a></td>
+         <td>"<a href="/wiki/Damage_Gate" title="Damage Gate">Damage Gate</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN110" title="BP01-EN110" class="mw-redirect">BP01-EN110</a></td>
+         <td>"<a href="/wiki/Liberty_at_Last!" title="Liberty at Last!">Liberty at Last!</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN111" title="BP01-EN111" class="mw-redirect">BP01-EN111</a></td>
+         <td>"<a href="/wiki/Luster_Dragon" title="Luster Dragon">Luster Dragon</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN112" title="BP01-EN112" class="mw-redirect">BP01-EN112</a></td>
+         <td>"<a href="/wiki/Archfiend_Soldier" title="Archfiend Soldier">Archfiend Soldier</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN113" title="BP01-EN113" class="mw-redirect">BP01-EN113</a></td>
+         <td>"<a href="/wiki/Mad_Dog_of_Darkness" title="Mad Dog of Darkness">Mad Dog of Darkness</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN114" title="BP01-EN114" class="mw-redirect">BP01-EN114</a></td>
+         <td>"<a href="/wiki/Charcoal_Inpachi" title="Charcoal Inpachi">Charcoal Inpachi</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN115" title="BP01-EN115" class="mw-redirect">BP01-EN115</a></td>
+         <td>"<a href="/wiki/Insect_Knight" title="Insect Knight">Insect Knight</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN116" title="BP01-EN116" class="mw-redirect">BP01-EN116</a></td>
+         <td>"<a href="/wiki/Gene-Warped_Warwolf" title="Gene-Warped Warwolf">Gene-Warped Warwolf</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN117" title="BP01-EN117" class="mw-redirect">BP01-EN117</a></td>
+         <td>"<a href="/wiki/Buster_Blader" title="Buster Blader">Buster Blader</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN118" title="BP01-EN118" class="mw-redirect">BP01-EN118</a></td>
+         <td>"<a href="/wiki/Goblin_Attack_Force" title="Goblin Attack Force">Goblin Attack Force</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN119" title="BP01-EN119" class="mw-redirect">BP01-EN119</a></td>
+         <td>"<a href="/wiki/Bazoo_the_Soul-Eater" title="Bazoo the Soul-Eater">Bazoo the Soul-Eater</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN120" title="BP01-EN120" class="mw-redirect">BP01-EN120</a></td>
+         <td>"<a href="/wiki/Zombyra_the_Dark" title="Zombyra the Dark">Zombyra the Dark</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN121" title="BP01-EN121" class="mw-redirect">BP01-EN121</a></td>
+         <td>"<a href="/wiki/Slate_Warrior" title="Slate Warrior">Slate Warrior</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN122" title="BP01-EN122" class="mw-redirect">BP01-EN122</a></td>
+         <td>"<a href="/wiki/Dark_Ruler_Ha_Des" title="Dark Ruler Ha Des">Dark Ruler Ha Des</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN123" title="BP01-EN123" class="mw-redirect">BP01-EN123</a></td>
+         <td>"<a href="/wiki/Freed_the_Matchless_General" title="Freed the Matchless General">Freed the Matchless General</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN124" title="BP01-EN124" class="mw-redirect">BP01-EN124</a></td>
+         <td>"<a href="/wiki/Airknight_Parshath" title="Airknight Parshath">Airknight Parshath</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN125" title="BP01-EN125" class="mw-redirect">BP01-EN125</a></td>
+         <td>"<a href="/wiki/Asura_Priest" title="Asura Priest">Asura Priest</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Spirit_monster" title="Spirit monster">Spirit monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN126" title="BP01-EN126" class="mw-redirect">BP01-EN126</a></td>
+         <td>"<a href="/wiki/Exarion_Universe" title="Exarion Universe">Exarion Universe</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN127" title="BP01-EN127" class="mw-redirect">BP01-EN127</a></td>
+         <td>"<a href="/wiki/Vampire_Lord" title="Vampire Lord">Vampire Lord</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN128" title="BP01-EN128" class="mw-redirect">BP01-EN128</a></td>
+         <td>"<a href="/wiki/Toon_Gemini_Elf" title="Toon Gemini Elf">Toon Gemini Elf</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Toon_monster" title="Toon monster">Toon monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN129" title="BP01-EN129" class="mw-redirect">BP01-EN129</a></td>
+         <td>"<a href="/wiki/King_Tiger_Wanghu" title="King Tiger Wanghu">King Tiger Wanghu</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN130" title="BP01-EN130" class="mw-redirect">BP01-EN130</a></td>
+         <td>"<a href="/wiki/Guardian_Sphinx" title="Guardian Sphinx">Guardian Sphinx</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN131" title="BP01-EN131" class="mw-redirect">BP01-EN131</a></td>
+         <td>"<a href="/wiki/Skilled_White_Magician" title="Skilled White Magician">Skilled White Magician</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN132" title="BP01-EN132" class="mw-redirect">BP01-EN132</a></td>
+         <td>"<a href="/wiki/Zaborg_the_Thunder_Monarch" title="Zaborg the Thunder Monarch">Zaborg the Thunder Monarch</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN133" title="BP01-EN133" class="mw-redirect">BP01-EN133</a></td>
+         <td>"<a href="/wiki/D.D._Assailant" title="D.D. Assailant">D.D. Assailant</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN134" title="BP01-EN134" class="mw-redirect">BP01-EN134</a></td>
+         <td>"<a href="/wiki/Theban_Nightmare" title="Theban Nightmare">Theban Nightmare</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN135" title="BP01-EN135" class="mw-redirect">BP01-EN135</a></td>
+         <td>"<a href="/wiki/The_Tricky" title="The Tricky">The Tricky</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN136" title="BP01-EN136" class="mw-redirect">BP01-EN136</a></td>
+         <td>"<a href="/wiki/Raging_Flame_Sprite" title="Raging Flame Sprite">Raging Flame Sprite</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN137" title="BP01-EN137" class="mw-redirect">BP01-EN137</a></td>
+         <td>"<a href="/wiki/Chiron_the_Mage" title="Chiron the Mage">Chiron the Mage</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN138" title="BP01-EN138" class="mw-redirect">BP01-EN138</a></td>
+         <td>"<a href="/wiki/Cyber_Dragon" title="Cyber Dragon">Cyber Dragon</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN139" title="BP01-EN139" class="mw-redirect">BP01-EN139</a></td>
+         <td>"<a href="/wiki/Cybernetic_Magician" title="Cybernetic Magician">Cybernetic Magician</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN140" title="BP01-EN140" class="mw-redirect">BP01-EN140</a></td>
+         <td>"<a href="/wiki/Goblin_Elite_Attack_Force" title="Goblin Elite Attack Force">Goblin Elite Attack Force</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN141" title="BP01-EN141" class="mw-redirect">BP01-EN141</a></td>
+         <td>"<a href="/wiki/Doomcaliber_Knight" title="Doomcaliber Knight">Doomcaliber Knight</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN142" title="BP01-EN142" class="mw-redirect">BP01-EN142</a></td>
+         <td>"<a href="/wiki/Chainsaw_Insect" title="Chainsaw Insect">Chainsaw Insect</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN143" title="BP01-EN143" class="mw-redirect">BP01-EN143</a></td>
+         <td>"<a href="/wiki/Card_Trooper" title="Card Trooper">Card Trooper</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN144" title="BP01-EN144" class="mw-redirect">BP01-EN144</a></td>
+         <td>"<a href="/wiki/Voltic_Kong" title="Voltic Kong">Voltic Kong</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN145" title="BP01-EN145" class="mw-redirect">BP01-EN145</a></td>
+         <td>"<a href="/wiki/Botanical_Lion" title="Botanical Lion">Botanical Lion</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN146" title="BP01-EN146" class="mw-redirect">BP01-EN146</a></td>
+         <td>"<a href="/wiki/Ancient_Gear_Knight" title="Ancient Gear Knight">Ancient Gear Knight</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Gemini_monster" title="Gemini monster">Gemini monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN147" title="BP01-EN147" class="mw-redirect">BP01-EN147</a></td>
+         <td>"<a href="/wiki/Blizzard_Dragon" title="Blizzard Dragon">Blizzard Dragon</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN148" title="BP01-EN148" class="mw-redirect">BP01-EN148</a></td>
+         <td>"<a href="/wiki/Beast_King_Barbaros" title="Beast King Barbaros">Beast King Barbaros</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN149" title="BP01-EN149" class="mw-redirect">BP01-EN149</a></td>
+         <td>"<a href="/wiki/The_Calculator" title="The Calculator">The Calculator</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN150" title="BP01-EN150" class="mw-redirect">BP01-EN150</a></td>
+         <td>"<a href="/wiki/Gaap_the_Divine_Soldier" title="Gaap the Divine Soldier">Gaap the Divine Soldier</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN151" title="BP01-EN151" class="mw-redirect">BP01-EN151</a></td>
+         <td>"<a href="/wiki/Arcana_Force_XIV_-_Temperance" title="Arcana Force XIV - Temperance">Arcana Force XIV - Temperance</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN152" title="BP01-EN152" class="mw-redirect">BP01-EN152</a></td>
+         <td>"<a href="/wiki/Dark_Valkyria" title="Dark Valkyria">Dark Valkyria</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Gemini_monster" title="Gemini monster">Gemini monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN153" title="BP01-EN153" class="mw-redirect">BP01-EN153</a></td>
+         <td>"<a href="/wiki/Alector,_Sovereign_of_Birds" title="Alector, Sovereign of Birds">Alector, Sovereign of Birds</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN154" title="BP01-EN154" class="mw-redirect">BP01-EN154</a></td>
+         <td>"<a href="/wiki/Twin-Barrel_Dragon" title="Twin-Barrel Dragon">Twin-Barrel Dragon</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN155" title="BP01-EN155" class="mw-redirect">BP01-EN155</a></td>
+         <td>"<a href="/wiki/Abyssal_Kingshark" title="Abyssal Kingshark">Abyssal Kingshark</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN156" title="BP01-EN156" class="mw-redirect">BP01-EN156</a></td>
+         <td>"<a href="/wiki/Jurrac_Protops" title="Jurrac Protops">Jurrac Protops</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN157" title="BP01-EN157" class="mw-redirect">BP01-EN157</a></td>
+         <td>"<a href="/wiki/Hedge_Guard" title="Hedge Guard">Hedge Guard</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN158" title="BP01-EN158" class="mw-redirect">BP01-EN158</a></td>
+         <td>"<a href="/wiki/Fabled_Ashenveil" title="Fabled Ashenveil">Fabled Ashenveil</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN159" title="BP01-EN159" class="mw-redirect">BP01-EN159</a></td>
+         <td>"<a href="/wiki/Backup_Warrior" title="Backup Warrior">Backup Warrior</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN160" title="BP01-EN160" class="mw-redirect">BP01-EN160</a></td>
+         <td>"<a href="/wiki/Ambitious_Gofer" title="Ambitious Gofer">Ambitious Gofer</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN161" title="BP01-EN161" class="mw-redirect">BP01-EN161</a></td>
+         <td>"<a href="/wiki/Power_Giant" title="Power Giant">Power Giant</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN162" title="BP01-EN162" class="mw-redirect">BP01-EN162</a></td>
+         <td>"<a href="/wiki/Card_Guard" title="Card Guard">Card Guard</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN163" title="BP01-EN163" class="mw-redirect">BP01-EN163</a></td>
+         <td>"<a href="/wiki/Yaksha" title="Yaksha">Yaksha</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Spirit_monster" title="Spirit monster">Spirit monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN164" title="BP01-EN164" class="mw-redirect">BP01-EN164</a></td>
+         <td>"<a href="/wiki/Gogogo_Golem" title="Gogogo Golem">Gogogo Golem</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN165" title="BP01-EN165" class="mw-redirect">BP01-EN165</a></td>
+         <td>"<a href="/wiki/Big_Jaws" title="Big Jaws">Big Jaws</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN166" title="BP01-EN166" class="mw-redirect">BP01-EN166</a></td>
+         <td>"<a href="/wiki/Wind-Up_Soldier" title="Wind-Up Soldier">Wind-Up Soldier</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN167" title="BP01-EN167" class="mw-redirect">BP01-EN167</a></td>
+         <td>"<a href="/wiki/Wind-Up_Dog" title="Wind-Up Dog">Wind-Up Dog</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN168" title="BP01-EN168" class="mw-redirect">BP01-EN168</a></td>
+         <td>"<a href="/wiki/Milla_the_Temporal_Magician" title="Milla the Temporal Magician">Milla the Temporal Magician</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN169" title="BP01-EN169" class="mw-redirect">BP01-EN169</a></td>
+         <td>"<a href="/wiki/Ape_Fighter" title="Ape Fighter">Ape Fighter</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN170" title="BP01-EN170" class="mw-redirect">BP01-EN170</a></td>
+         <td>"<a href="/wiki/Wind-Up_Warrior" title="Wind-Up Warrior">Wind-Up Warrior</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN171" title="BP01-EN171" class="mw-redirect">BP01-EN171</a></td>
+         <td>"<a href="/wiki/Giant_Soldier_of_Stone" title="Giant Soldier of Stone">Giant Soldier of Stone</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN172" title="BP01-EN172" class="mw-redirect">BP01-EN172</a></td>
+         <td>"<a href="/wiki/Mask_of_Darkness" title="Mask of Darkness">Mask of Darkness</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN173" title="BP01-EN173" class="mw-redirect">BP01-EN173</a></td>
+         <td>"<a href="/wiki/Morphing_Jar" title="Morphing Jar">Morphing Jar</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN174" title="BP01-EN174" class="mw-redirect">BP01-EN174</a></td>
+         <td>"<a href="/wiki/Muka_Muka" title="Muka Muka">Muka Muka</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN175" title="BP01-EN175" class="mw-redirect">BP01-EN175</a></td>
+         <td>"<a href="/wiki/Blast_Sphere" title="Blast Sphere">Blast Sphere</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN176" title="BP01-EN176" class="mw-redirect">BP01-EN176</a></td>
+         <td>"<a href="/wiki/Big_Shield_Gardna" title="Big Shield Gardna">Big Shield Gardna</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN177" title="BP01-EN177" class="mw-redirect">BP01-EN177</a></td>
+         <td>"<a href="/wiki/Gilasaurus" title="Gilasaurus">Gilasaurus</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN178" title="BP01-EN178" class="mw-redirect">BP01-EN178</a></td>
+         <td>"<a href="/wiki/Possessed_Dark_Soul" title="Possessed Dark Soul">Possessed Dark Soul</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN179" title="BP01-EN179" class="mw-redirect">BP01-EN179</a></td>
+         <td>"<a href="/wiki/Twin-Headed_Behemoth" title="Twin-Headed Behemoth">Twin-Headed Behemoth</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN180" title="BP01-EN180" class="mw-redirect">BP01-EN180</a></td>
+         <td>"<a href="/wiki/Makyura_the_Destructor" title="Makyura the Destructor">Makyura the Destructor</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN181" title="BP01-EN181" class="mw-redirect">BP01-EN181</a></td>
+         <td>"<a href="/wiki/Helping_Robo_for_Combat" title="Helping Robo for Combat">Helping Robo for Combat</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN182" title="BP01-EN182" class="mw-redirect">BP01-EN182</a></td>
+         <td>"<a href="/wiki/Zolga" title="Zolga">Zolga</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN183" title="BP01-EN183" class="mw-redirect">BP01-EN183</a></td>
+         <td>"<a href="/wiki/Chaos_Necromancer" title="Chaos Necromancer">Chaos Necromancer</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN184" title="BP01-EN184" class="mw-redirect">BP01-EN184</a></td>
+         <td>"<a href="/wiki/Stealth_Bird" title="Stealth Bird">Stealth Bird</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN185" title="BP01-EN185" class="mw-redirect">BP01-EN185</a></td>
+         <td>"<a href="/wiki/Hyper_Hammerhead" title="Hyper Hammerhead">Hyper Hammerhead</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN186" title="BP01-EN186" class="mw-redirect">BP01-EN186</a></td>
+         <td>"<a href="/wiki/Grave_Protector" title="Grave Protector">Grave Protector</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN187" title="BP01-EN187" class="mw-redirect">BP01-EN187</a></td>
+         <td>"<a href="/wiki/Night_Assailant" title="Night Assailant">Night Assailant</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN188" title="BP01-EN188" class="mw-redirect">BP01-EN188</a></td>
+         <td>"<a href="/wiki/Pitch-Black_Warwolf" title="Pitch-Black Warwolf">Pitch-Black Warwolf</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN189" title="BP01-EN189" class="mw-redirect">BP01-EN189</a></td>
+         <td>"<a href="/wiki/Dekoichi_the_Battlechanted_Locomotive" title="Dekoichi the Battlechanted Locomotive">Dekoichi the Battlechanted Locomotive</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN190" title="BP01-EN190" class="mw-redirect">BP01-EN190</a></td>
+         <td>"<a href="/wiki/Gyroid" title="Gyroid">Gyroid</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN191" title="BP01-EN191" class="mw-redirect">BP01-EN191</a></td>
+         <td>"<a href="/wiki/Drillroid" title="Drillroid">Drillroid</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN192" title="BP01-EN192" class="mw-redirect">BP01-EN192</a></td>
+         <td>"<a href="/wiki/Gravitic_Orb" title="Gravitic Orb">Gravitic Orb</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN193" title="BP01-EN193" class="mw-redirect">BP01-EN193</a></td>
+         <td>"<a href="/wiki/Cloudian_-_Poison_Cloud" title="Cloudian - Poison Cloud">Cloudian - Poison Cloud</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN194" title="BP01-EN194" class="mw-redirect">BP01-EN194</a></td>
+         <td>"<a href="/wiki/Des_Mosquito" title="Des Mosquito">Des Mosquito</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN195" title="BP01-EN195" class="mw-redirect">BP01-EN195</a></td>
+         <td>"<a href="/wiki/Mad_Reloader" title="Mad Reloader">Mad Reloader</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN196" title="BP01-EN196" class="mw-redirect">BP01-EN196</a></td>
+         <td>"<a href="/wiki/Phantom_of_Chaos" title="Phantom of Chaos">Phantom of Chaos</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN197" title="BP01-EN197" class="mw-redirect">BP01-EN197</a></td>
+         <td>"<a href="/wiki/Cyber_Valley" title="Cyber Valley">Cyber Valley</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN198" title="BP01-EN198" class="mw-redirect">BP01-EN198</a></td>
+         <td>"<a href="/wiki/Blue_Thunder_T-45" title="Blue Thunder T-45">Blue Thunder T-45</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN199" title="BP01-EN199" class="mw-redirect">BP01-EN199</a></td>
+         <td>"<a href="/wiki/Vortex_Trooper" title="Vortex Trooper">Vortex Trooper</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN200" title="BP01-EN200" class="mw-redirect">BP01-EN200</a></td>
+         <td>"<a href="/wiki/DUCKER_Mobile_Cannon" title="DUCKER Mobile Cannon">DUCKER Mobile Cannon</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN201" title="BP01-EN201" class="mw-redirect">BP01-EN201</a></td>
+         <td>"<a href="/wiki/Worm_Barses" title="Worm Barses">Worm Barses</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN202" title="BP01-EN202" class="mw-redirect">BP01-EN202</a></td>
+         <td>"<a href="/wiki/Shield_Warrior" title="Shield Warrior">Shield Warrior</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN203" title="BP01-EN203" class="mw-redirect">BP01-EN203</a></td>
+         <td>"<a href="/wiki/Dark_Resonator" title="Dark Resonator">Dark Resonator</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN204" title="BP01-EN204" class="mw-redirect">BP01-EN204</a></td>
+         <td>"<a href="/wiki/Noisy_Gnat" title="Noisy Gnat">Noisy Gnat</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN205" title="BP01-EN205" class="mw-redirect">BP01-EN205</a></td>
+         <td>"<a href="/wiki/Fabled_Raven" title="Fabled Raven">Fabled Raven</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN206" title="BP01-EN206" class="mw-redirect">BP01-EN206</a></td>
+         <td>"<a href="/wiki/Fortress_Warrior" title="Fortress Warrior">Fortress Warrior</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN207" title="BP01-EN207" class="mw-redirect">BP01-EN207</a></td>
+         <td>"<a href="/wiki/Twin-Sword_Marauder" title="Twin-Sword Marauder">Twin-Sword Marauder</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN208" title="BP01-EN208" class="mw-redirect">BP01-EN208</a></td>
+         <td>"<a href="/wiki/Level_Warrior" title="Level Warrior">Level Warrior</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN209" title="BP01-EN209" class="mw-redirect">BP01-EN209</a></td>
+         <td>"<a href="/wiki/Level_Eater" title="Level Eater">Level Eater</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN210" title="BP01-EN210" class="mw-redirect">BP01-EN210</a></td>
+         <td>"<a href="/wiki/Naturia_Strawberry" title="Naturia Strawberry">Naturia Strawberry</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN211" title="BP01-EN211" class="mw-redirect">BP01-EN211</a></td>
+         <td>"<a href="/wiki/Battle_Fader" title="Battle Fader">Battle Fader</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN212" title="BP01-EN212" class="mw-redirect">BP01-EN212</a></td>
+         <td>"<a href="/wiki/Amazoness_Sage" title="Amazoness Sage">Amazoness Sage</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN213" title="BP01-EN213" class="mw-redirect">BP01-EN213</a></td>
+         <td>"<a href="/wiki/Amazoness_Trainee" title="Amazoness Trainee">Amazoness Trainee</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN214" title="BP01-EN214" class="mw-redirect">BP01-EN214</a></td>
+         <td>"<a href="/wiki/Hardened_Armed_Dragon" title="Hardened Armed Dragon">Hardened Armed Dragon</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN215" title="BP01-EN215" class="mw-redirect">BP01-EN215</a></td>
+         <td>"<a href="/wiki/Blackwing_-_Zephyros_the_Elite" title="Blackwing - Zephyros the Elite">Blackwing - Zephyros the Elite</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN216" title="BP01-EN216" class="mw-redirect">BP01-EN216</a></td>
+         <td>"<a href="/wiki/Tanngrisnir_of_the_Nordic_Beasts" title="Tanngrisnir of the Nordic Beasts">Tanngrisnir of the Nordic Beasts</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN217" title="BP01-EN217" class="mw-redirect">BP01-EN217</a></td>
+         <td>"<a href="/wiki/Shine_Knight" title="Shine Knight">Shine Knight</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN218" title="BP01-EN218" class="mw-redirect">BP01-EN218</a></td>
+         <td>"<a href="/wiki/Gagaga_Magician" title="Gagaga Magician">Gagaga Magician</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN219" title="BP01-EN219" class="mw-redirect">BP01-EN219</a></td>
+         <td>"<a href="/wiki/Goblindbergh" title="Goblindbergh">Goblindbergh</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+      <tr>
+         <td><a href="/wiki/BP01-EN220" title="BP01-EN220" class="mw-redirect">BP01-EN220</a></td>
+         <td>"<a href="/wiki/Psi-Blocker" title="Psi-Blocker">Psi-Blocker</a>"</td>
+         <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Starfoil_Rare" title="Starfoil Rare">Starfoil Rare</a></td>
+         <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+      </tr>
+   </tbody>
+   <tfoot></tfoot>
+</table>

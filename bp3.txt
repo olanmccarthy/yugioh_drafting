@@ -1,0 +1,1322 @@
+
+   <tr>
+      <td><a href="/wiki/BP03-EN001" title="BP03-EN001" class="mw-redirect">BP03-EN001</a></td>
+      <td>"<a href="/wiki/Jerry_Beans_Man" title="Jerry Beans Man">Jerry Beans Man</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN002" title="BP03-EN002" class="mw-redirect">BP03-EN002</a></td>
+      <td>"<a href="/wiki/Bazoo_the_Soul-Eater" title="Bazoo the Soul-Eater">Bazoo the Soul-Eater</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN003" title="BP03-EN003" class="mw-redirect">BP03-EN003</a></td>
+      <td>"<a href="/wiki/Frontier_Wiseman" title="Frontier Wiseman">Frontier Wiseman</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN004" title="BP03-EN004" class="mw-redirect">BP03-EN004</a></td>
+      <td>"<a href="/wiki/Arsenal_Bug" title="Arsenal Bug">Arsenal Bug</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN005" title="BP03-EN005" class="mw-redirect">BP03-EN005</a></td>
+      <td>"<a href="/wiki/Breaker_the_Magical_Warrior" title="Breaker the Magical Warrior">Breaker the Magical Warrior</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN006" title="BP03-EN006" class="mw-redirect">BP03-EN006</a></td>
+      <td>"<a href="/wiki/Mudora" title="Mudora">Mudora</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN007" title="BP03-EN007" class="mw-redirect">BP03-EN007</a></td>
+      <td>"<a href="/wiki/Gale_Lizard" title="Gale Lizard">Gale Lizard</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN008" title="BP03-EN008" class="mw-redirect">BP03-EN008</a></td>
+      <td>"<a href="/wiki/Berserk_Gorilla" title="Berserk Gorilla">Berserk Gorilla</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN009" title="BP03-EN009" class="mw-redirect">BP03-EN009</a></td>
+      <td>"<a href="/wiki/Lord_Poison" title="Lord Poison">Lord Poison</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN010" title="BP03-EN010" class="mw-redirect">BP03-EN010</a></td>
+      <td>"<a href="/wiki/Sacred_Crane" title="Sacred Crane">Sacred Crane</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN011" title="BP03-EN011" class="mw-redirect">BP03-EN011</a></td>
+      <td>"<a href="/wiki/Enraged_Battle_Ox" title="Enraged Battle Ox">Enraged Battle Ox</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN012" title="BP03-EN012" class="mw-redirect">BP03-EN012</a></td>
+      <td>"<a href="/wiki/Hyper_Hammerhead" title="Hyper Hammerhead">Hyper Hammerhead</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN013" title="BP03-EN013" class="mw-redirect">BP03-EN013</a></td>
+      <td>"<a href="/wiki/Slate_Warrior" title="Slate Warrior">Slate Warrior</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN014" title="BP03-EN014" class="mw-redirect">BP03-EN014</a></td>
+      <td>"<a href="/wiki/Toon_Gemini_Elf" title="Toon Gemini Elf">Toon Gemini Elf</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Toon_monster" title="Toon monster">Toon monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN015" title="BP03-EN015" class="mw-redirect">BP03-EN015</a></td>
+      <td>"<a href="/wiki/Chiron_the_Mage" title="Chiron the Mage">Chiron the Mage</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN016" title="BP03-EN016" class="mw-redirect">BP03-EN016</a></td>
+      <td>"<a href="/wiki/Gyroid" title="Gyroid">Gyroid</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN017" title="BP03-EN017" class="mw-redirect">BP03-EN017</a></td>
+      <td>"<a href="/wiki/Goblin_Elite_Attack_Force" title="Goblin Elite Attack Force">Goblin Elite Attack Force</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN018" title="BP03-EN018" class="mw-redirect">BP03-EN018</a></td>
+      <td>"<a href="/wiki/Mythical_Beast_Cerberus" title="Mythical Beast Cerberus">Mythical Beast Cerberus</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN019" title="BP03-EN019" class="mw-redirect">BP03-EN019</a></td>
+      <td>"<a href="/wiki/Machine_King_Prototype" title="Machine King Prototype">Machine King Prototype</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN020" title="BP03-EN020" class="mw-redirect">BP03-EN020</a></td>
+      <td>"<a href="/wiki/Cyber_Phoenix" title="Cyber Phoenix">Cyber Phoenix</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN021" title="BP03-EN021" class="mw-redirect">BP03-EN021</a></td>
+      <td>"<a href="/wiki/Victory_Viper_XX03" title="Victory Viper XX03">Victory Viper XX03</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN022" title="BP03-EN022" class="mw-redirect">BP03-EN022</a></td>
+      <td>"<a href="/wiki/Herald_of_Green_Light" title="Herald of Green Light">Herald of Green Light</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN023" title="BP03-EN023" class="mw-redirect">BP03-EN023</a></td>
+      <td>"<a href="/wiki/Herald_of_Purple_Light" title="Herald of Purple Light">Herald of Purple Light</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN024" title="BP03-EN024" class="mw-redirect">BP03-EN024</a></td>
+      <td>"<a href="/wiki/Submarineroid" title="Submarineroid">Submarineroid</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN025" title="BP03-EN025" class="mw-redirect">BP03-EN025</a></td>
+      <td>"<a href="/wiki/Black_Stego" title="Black Stego">Black Stego</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN026" title="BP03-EN026" class="mw-redirect">BP03-EN026</a></td>
+      <td>"<a href="/wiki/Card_Trooper" title="Card Trooper">Card Trooper</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN027" title="BP03-EN027" class="mw-redirect">BP03-EN027</a></td>
+      <td>"<a href="/wiki/Freya,_Spirit_of_Victory" title="Freya, Spirit of Victory">Freya, Spirit of Victory</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN028" title="BP03-EN028" class="mw-redirect">BP03-EN028</a></td>
+      <td>"<a href="/wiki/Exploder_Dragon" title="Exploder Dragon">Exploder Dragon</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN029" title="BP03-EN029" class="mw-redirect">BP03-EN029</a></td>
+      <td>"<a href="/wiki/Dweller_in_the_Depths" title="Dweller in the Depths">Dweller in the Depths</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN030" title="BP03-EN030" class="mw-redirect">BP03-EN030</a></td>
+      <td>"<a href="/wiki/Winged_Rhynos" title="Winged Rhynos">Winged Rhynos</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN031" title="BP03-EN031" class="mw-redirect">BP03-EN031</a></td>
+      <td>"<a href="/wiki/Blizzard_Dragon" title="Blizzard Dragon">Blizzard Dragon</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN032" title="BP03-EN032" class="mw-redirect">BP03-EN032</a></td>
+      <td>"<a href="/wiki/Evil_HERO_Infernal_Gainer" title="Evil HERO Infernal Gainer">Evil HERO Infernal Gainer</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN033" title="BP03-EN033" class="mw-redirect">BP03-EN033</a></td>
+      <td>"<a href="/wiki/Ancient_Gear_Knight" title="Ancient Gear Knight">Ancient Gear Knight</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Gemini_monster" title="Gemini monster">Gemini monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN034" title="BP03-EN034" class="mw-redirect">BP03-EN034</a></td>
+      <td>"<a href="/wiki/Royal_Firestorm_Guards" title="Royal Firestorm Guards">Royal Firestorm Guards</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN035" title="BP03-EN035" class="mw-redirect">BP03-EN035</a></td>
+      <td>"<a href="/wiki/Dark_Crusader" title="Dark Crusader">Dark Crusader</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN036" title="BP03-EN036" class="mw-redirect">BP03-EN036</a></td>
+      <td>"<a href="/wiki/The_Immortal_Bushi" title="The Immortal Bushi">The Immortal Bushi</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN037" title="BP03-EN037" class="mw-redirect">BP03-EN037</a></td>
+      <td>"<a href="/wiki/Black_Veloci" title="Black Veloci">Black Veloci</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN038" title="BP03-EN038" class="mw-redirect">BP03-EN038</a></td>
+      <td>"<a href="/wiki/Sea_Koala" title="Sea Koala">Sea Koala</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN039" title="BP03-EN039" class="mw-redirect">BP03-EN039</a></td>
+      <td>"<a href="/wiki/Blue_Thunder_T-45" title="Blue Thunder T-45">Blue Thunder T-45</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN040" title="BP03-EN040" class="mw-redirect">BP03-EN040</a></td>
+      <td>"<a href="/wiki/Golden_Flying_Fish" title="Golden Flying Fish">Golden Flying Fish</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN041" title="BP03-EN041" class="mw-redirect">BP03-EN041</a></td>
+      <td>"<a href="/wiki/Aztekipede,_the_Worm_Warrior" title="Aztekipede, the Worm Warrior">Aztekipede, the Worm Warrior</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN042" title="BP03-EN042" class="mw-redirect">BP03-EN042</a></td>
+      <td>"<a href="/wiki/Jain,_Lightsworn_Paladin" title="Jain, Lightsworn Paladin">Jain, Lightsworn Paladin</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN043" title="BP03-EN043" class="mw-redirect">BP03-EN043</a></td>
+      <td>"<a href="/wiki/Diskblade_Rider" title="Diskblade Rider">Diskblade Rider</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN044" title="BP03-EN044" class="mw-redirect">BP03-EN044</a></td>
+      <td>"<a href="/wiki/Magical_Exemplar" title="Magical Exemplar">Magical Exemplar</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN045" title="BP03-EN045" class="mw-redirect">BP03-EN045</a></td>
+      <td>"<a href="/wiki/Rigorous_Reaver" title="Rigorous Reaver">Rigorous Reaver</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN046" title="BP03-EN046" class="mw-redirect">BP03-EN046</a></td>
+      <td>"<a href="/wiki/Mezuki" title="Mezuki">Mezuki</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN047" title="BP03-EN047" class="mw-redirect">BP03-EN047</a></td>
+      <td>"<a href="/wiki/Gonogo" title="Gonogo">Gonogo</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN048" title="BP03-EN048" class="mw-redirect">BP03-EN048</a></td>
+      <td>"<a href="/wiki/Telekinetic_Shocker" title="Telekinetic Shocker">Telekinetic Shocker</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN049" title="BP03-EN049" class="mw-redirect">BP03-EN049</a></td>
+      <td>"<a href="/wiki/Destructotron" title="Destructotron">Destructotron</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN050" title="BP03-EN050" class="mw-redirect">BP03-EN050</a></td>
+      <td>"<a href="/wiki/Herald_of_Orange_Light" title="Herald of Orange Light">Herald of Orange Light</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN051" title="BP03-EN051" class="mw-redirect">BP03-EN051</a></td>
+      <td>"<a href="/wiki/Psychic_Jumper" title="Psychic Jumper">Psychic Jumper</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN052" title="BP03-EN052" class="mw-redirect">BP03-EN052</a></td>
+      <td>"<a href="/wiki/Seed_of_Flame" title="Seed of Flame">Seed of Flame</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN053" title="BP03-EN053" class="mw-redirect">BP03-EN053</a></td>
+      <td>"<a href="/wiki/Cross-Sword_Beetle" title="Cross-Sword Beetle">Cross-Sword Beetle</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN054" title="BP03-EN054" class="mw-redirect">BP03-EN054</a></td>
+      <td>"<a href="/wiki/Defender,_the_Magical_Knight" title="Defender, the Magical Knight">Defender, the Magical Knight</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN055" title="BP03-EN055" class="mw-redirect">BP03-EN055</a></td>
+      <td>"<a href="/wiki/Battlestorm" title="Battlestorm">Battlestorm</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN056" title="BP03-EN056" class="mw-redirect">BP03-EN056</a></td>
+      <td>"<a href="/wiki/Koa%27ki_Meiru_Guardian" title="Koa'ki Meiru Guardian">Koa'ki Meiru Guardian</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN057" title="BP03-EN057" class="mw-redirect">BP03-EN057</a></td>
+      <td>"<a href="/wiki/Koa%27ki_Meiru_Drago" title="Koa'ki Meiru Drago">Koa'ki Meiru Drago</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN058" title="BP03-EN058" class="mw-redirect">BP03-EN058</a></td>
+      <td>"<a href="/wiki/Koa%27ki_Meiru_Doom" title="Koa'ki Meiru Doom">Koa'ki Meiru Doom</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN059" title="BP03-EN059" class="mw-redirect">BP03-EN059</a></td>
+      <td>"<a href="/wiki/Spined_Gillman" title="Spined Gillman">Spined Gillman</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN060" title="BP03-EN060" class="mw-redirect">BP03-EN060</a></td>
+      <td>"<a href="/wiki/Vanguard_of_the_Dragon" title="Vanguard of the Dragon">Vanguard of the Dragon</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN061" title="BP03-EN061" class="mw-redirect">BP03-EN061</a></td>
+      <td>"<a href="/wiki/Koa%27ki_Meiru_War_Arms" title="Koa'ki Meiru War Arms">Koa'ki Meiru War Arms</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN062" title="BP03-EN062" class="mw-redirect">BP03-EN062</a></td>
+      <td>"<a href="/wiki/Tree_Otter" title="Tree Otter">Tree Otter</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN063" title="BP03-EN063" class="mw-redirect">BP03-EN063</a></td>
+      <td>"<a href="/wiki/X-Saber_Airbellum" title="X-Saber Airbellum">X-Saber Airbellum</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN064" title="BP03-EN064" class="mw-redirect">BP03-EN064</a></td>
+      <td>"<a href="/wiki/Sunlight_Unicorn" title="Sunlight Unicorn">Sunlight Unicorn</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN065" title="BP03-EN065" class="mw-redirect">BP03-EN065</a></td>
+      <td>"<a href="/wiki/Card_Guard" title="Card Guard">Card Guard</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN066" title="BP03-EN066" class="mw-redirect">BP03-EN066</a></td>
+      <td>"<a href="/wiki/Koa%27ki_Meiru_Beetle" title="Koa'ki Meiru Beetle">Koa'ki Meiru Beetle</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN067" title="BP03-EN067" class="mw-redirect">BP03-EN067</a></td>
+      <td>"<a href="/wiki/Reptilianne_Gorgon" title="Reptilianne Gorgon">Reptilianne Gorgon</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN068" title="BP03-EN068" class="mw-redirect">BP03-EN068</a></td>
+      <td>"<a href="/wiki/Metabo-Shark" title="Metabo-Shark">Metabo-Shark</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN069" title="BP03-EN069" class="mw-redirect">BP03-EN069</a></td>
+      <td>"<a href="/wiki/Shutendoji" title="Shutendoji">Shutendoji</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN070" title="BP03-EN070" class="mw-redirect">BP03-EN070</a></td>
+      <td>"<a href="/wiki/Gauntlet_Warrior" title="Gauntlet Warrior">Gauntlet Warrior</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN071" title="BP03-EN071" class="mw-redirect">BP03-EN071</a></td>
+      <td>"<a href="/wiki/Shreddder" title="Shreddder">Shreddder</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN072" title="BP03-EN072" class="mw-redirect">BP03-EN072</a></td>
+      <td>"<a href="/wiki/Koa%27ki_Meiru_Sandman" title="Koa'ki Meiru Sandman">Koa'ki Meiru Sandman</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN073" title="BP03-EN073" class="mw-redirect">BP03-EN073</a></td>
+      <td>"<a href="/wiki/Jurrac_Protops" title="Jurrac Protops">Jurrac Protops</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN074" title="BP03-EN074" class="mw-redirect">BP03-EN074</a></td>
+      <td>"<a href="/wiki/Mist_Valley_Falcon" title="Mist Valley Falcon">Mist Valley Falcon</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN075" title="BP03-EN075" class="mw-redirect">BP03-EN075</a></td>
+      <td>"<a href="/wiki/Trident_Warrior" title="Trident Warrior">Trident Warrior</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN076" title="BP03-EN076" class="mw-redirect">BP03-EN076</a></td>
+      <td>"<a href="/wiki/Rhinotaurus" title="Rhinotaurus">Rhinotaurus</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN077" title="BP03-EN077" class="mw-redirect">BP03-EN077</a></td>
+      <td>"<a href="/wiki/Hypnocorn" title="Hypnocorn">Hypnocorn</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN078" title="BP03-EN078" class="mw-redirect">BP03-EN078</a></td>
+      <td>"<a href="/wiki/Stygian_Street_Patrol" title="Stygian Street Patrol">Stygian Street Patrol</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN079" title="BP03-EN079" class="mw-redirect">BP03-EN079</a></td>
+      <td>"<a href="/wiki/Fabled_Ashenveil" title="Fabled Ashenveil">Fabled Ashenveil</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN080" title="BP03-EN080" class="mw-redirect">BP03-EN080</a></td>
+      <td>"<a href="/wiki/Chain_Dog" title="Chain Dog">Chain Dog</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN081" title="BP03-EN081" class="mw-redirect">BP03-EN081</a></td>
+      <td>"<a href="/wiki/Koa%27ki_Meiru_Wall" title="Koa'ki Meiru Wall">Koa'ki Meiru Wall</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN082" title="BP03-EN082" class="mw-redirect">BP03-EN082</a></td>
+      <td>"<a href="/wiki/Genex_Ally_Bellflame" title="Genex Ally Bellflame">Genex Ally Bellflame</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN083" title="BP03-EN083" class="mw-redirect">BP03-EN083</a></td>
+      <td>"<a href="/wiki/Meklord_Army_of_Granel" title="Meklord Army of Granel">Meklord Army of Granel</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN084" title="BP03-EN084" class="mw-redirect">BP03-EN084</a></td>
+      <td>"<a href="/wiki/Silent_Psychic_Wizard" title="Silent Psychic Wizard">Silent Psychic Wizard</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN085" title="BP03-EN085" class="mw-redirect">BP03-EN085</a></td>
+      <td>"<a href="/wiki/Dodger_Dragon" title="Dodger Dragon">Dodger Dragon</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN086" title="BP03-EN086" class="mw-redirect">BP03-EN086</a></td>
+      <td>"<a href="/wiki/Wind-Up_Juggler" title="Wind-Up Juggler">Wind-Up Juggler</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN087" title="BP03-EN087" class="mw-redirect">BP03-EN087</a></td>
+      <td>"<a href="/wiki/Airorca" title="Airorca">Airorca</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN088" title="BP03-EN088" class="mw-redirect">BP03-EN088</a></td>
+      <td>"<a href="/wiki/Time_Escaper" title="Time Escaper">Time Escaper</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN089" title="BP03-EN089" class="mw-redirect">BP03-EN089</a></td>
+      <td>"<a href="/wiki/Lion_Alligator" title="Lion Alligator">Lion Alligator</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN090" title="BP03-EN090" class="mw-redirect">BP03-EN090</a></td>
+      <td>"<a href="/wiki/Friller_Rabca" title="Friller Rabca">Friller Rabca</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN091" title="BP03-EN091" class="mw-redirect">BP03-EN091</a></td>
+      <td>"<a href="/wiki/Vylon_Ohm" title="Vylon Ohm">Vylon Ohm</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN092" title="BP03-EN092" class="mw-redirect">BP03-EN092</a></td>
+      <td>"<a href="/wiki/Shocktopus" title="Shocktopus">Shocktopus</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN093" title="BP03-EN093" class="mw-redirect">BP03-EN093</a></td>
+      <td>"<a href="/wiki/Chow_Len_the_Prophet" title="Chow Len the Prophet">Chow Len the Prophet</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN094" title="BP03-EN094" class="mw-redirect">BP03-EN094</a></td>
+      <td>"<a href="/wiki/Vampiric_Koala" title="Vampiric Koala">Vampiric Koala</a>" (as "Vampire Koala")</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN095" title="BP03-EN095" class="mw-redirect">BP03-EN095</a></td>
+      <td>"<a href="/wiki/Flame_Tiger" title="Flame Tiger">Flame Tiger</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN096" title="BP03-EN096" class="mw-redirect">BP03-EN096</a></td>
+      <td>"<a href="/wiki/Tardy_Orc" title="Tardy Orc">Tardy Orc</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN097" title="BP03-EN097" class="mw-redirect">BP03-EN097</a></td>
+      <td>"<a href="/wiki/Madolche_Baaple" title="Madolche Baaple">Madolche Baaple</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN098" title="BP03-EN098" class="mw-redirect">BP03-EN098</a></td>
+      <td>"<a href="/wiki/Evilswarm_Ketos" title="Evilswarm Ketos">Evilswarm Ketos</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN099" title="BP03-EN099" class="mw-redirect">BP03-EN099</a></td>
+      <td>"<a href="/wiki/Evilswarm_O%27lantern" title="Evilswarm O'lantern">Evilswarm O'lantern</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN100" title="BP03-EN100" class="mw-redirect">BP03-EN100</a></td>
+      <td>"<a href="/wiki/Electromagnetic_Bagworm" title="Electromagnetic Bagworm">Electromagnetic Bagworm</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN101" title="BP03-EN101" class="mw-redirect">BP03-EN101</a></td>
+      <td>"<a href="/wiki/Uminotaurus" title="Uminotaurus">Uminotaurus</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN102" title="BP03-EN102" class="mw-redirect">BP03-EN102</a></td>
+      <td>"<a href="/wiki/Leotaur" title="Leotaur">Leotaur</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN103" title="BP03-EN103" class="mw-redirect">BP03-EN103</a></td>
+      <td>"<a href="/wiki/Aye-Iron" title="Aye-Iron">Aye-Iron</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN104" title="BP03-EN104" class="mw-redirect">BP03-EN104</a></td>
+      <td>"<a href="/wiki/Evilswarm_Thunderbird" title="Evilswarm Thunderbird">Evilswarm Thunderbird</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN105" title="BP03-EN105" class="mw-redirect">BP03-EN105</a></td>
+      <td>"<a href="/wiki/Magical_Undertaker" title="Magical Undertaker">Magical Undertaker</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN106" title="BP03-EN106" class="mw-redirect">BP03-EN106</a></td>
+      <td>"<a href="/wiki/Gentlemander" title="Gentlemander">Gentlemander</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN107" title="BP03-EN107" class="mw-redirect">BP03-EN107</a></td>
+      <td>"<a href="/wiki/Fencing_Fire_Ferret" title="Fencing Fire Ferret">Fencing Fire Ferret</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN108" title="BP03-EN108" class="mw-redirect">BP03-EN108</a></td>
+      <td>"<a href="/wiki/Skelesaurus" title="Skelesaurus">Skelesaurus</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Gemini_monster" title="Gemini monster">Gemini monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN109" title="BP03-EN109" class="mw-redirect">BP03-EN109</a></td>
+      <td>"<a href="/wiki/Knight_Day_Grepher" title="Knight Day Grepher">Knight Day Grepher</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Gemini_monster" title="Gemini monster">Gemini monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN110" title="BP03-EN110" class="mw-redirect">BP03-EN110</a></td>
+      <td>"<a href="/wiki/Gorgonic_Golem" title="Gorgonic Golem">Gorgonic Golem</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN111" title="BP03-EN111" class="mw-redirect">BP03-EN111</a></td>
+      <td>"<a href="/wiki/Ghostrick_Jackfrost" title="Ghostrick Jackfrost">Ghostrick Jackfrost</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN112" title="BP03-EN112" class="mw-redirect">BP03-EN112</a></td>
+      <td>"<a href="/wiki/Black_Brachios" title="Black Brachios">Black Brachios</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN113" title="BP03-EN113" class="mw-redirect">BP03-EN113</a></td>
+      <td>"<a href="/wiki/Tackle_Crusader" title="Tackle Crusader">Tackle Crusader</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN114" title="BP03-EN114" class="mw-redirect">BP03-EN114</a></td>
+      <td>"<a href="/wiki/Stegocyber" title="Stegocyber">Stegocyber</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN115" title="BP03-EN115" class="mw-redirect">BP03-EN115</a></td>
+      <td>"<a href="/wiki/Master_Craftsman_Gamil" title="Master Craftsman Gamil">Master Craftsman Gamil‎‎</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN133" title="BP03-EN133" class="mw-redirect">BP03-EN133</a></td>
+      <td>"<a href="/wiki/Swords_of_Revealing_Light" title="Swords of Revealing Light">Swords of Revealing Light</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN134" title="BP03-EN134" class="mw-redirect">BP03-EN134</a></td>
+      <td>"<a href="/wiki/Rush_Recklessly" title="Rush Recklessly">Rush Recklessly</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN135" title="BP03-EN135" class="mw-redirect">BP03-EN135</a></td>
+      <td>"<a href="/wiki/7_Completed" title="7 Completed">7 Completed</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN136" title="BP03-EN136" class="mw-redirect">BP03-EN136</a></td>
+      <td>"<a href="/wiki/Premature_Burial" title="Premature Burial">Premature Burial</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN137" title="BP03-EN137" class="mw-redirect">BP03-EN137</a></td>
+      <td>"<a href="/wiki/Mask_of_Brutality" title="Mask of Brutality">Mask of Brutality</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN138" title="BP03-EN138" class="mw-redirect">BP03-EN138</a></td>
+      <td>"<a href="/wiki/Offerings_to_the_Doomed" title="Offerings to the Doomed">Offerings to the Doomed</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN139" title="BP03-EN139" class="mw-redirect">BP03-EN139</a></td>
+      <td>"<a href="/wiki/Scapegoat" title="Scapegoat">Scapegoat</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN140" title="BP03-EN140" class="mw-redirect">BP03-EN140</a></td>
+      <td>"<a href="/wiki/The_Warrior_Returning_Alive" title="The Warrior Returning Alive">The Warrior Returning Alive</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN141" title="BP03-EN141" class="mw-redirect">BP03-EN141</a></td>
+      <td>"<a href="/wiki/Dragon%27s_Gunfire" title="Dragon's Gunfire">Dragon's Gunfire</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN142" title="BP03-EN142" class="mw-redirect">BP03-EN142</a></td>
+      <td>"<a href="/wiki/Stamping_Destruction" title="Stamping Destruction">Stamping Destruction</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN143" title="BP03-EN143" class="mw-redirect">BP03-EN143</a></td>
+      <td>"<a href="/wiki/Fusion_Sword_Murasame_Blade" title="Fusion Sword Murasame Blade">Fusion Sword Murasame Blade</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN144" title="BP03-EN144" class="mw-redirect">BP03-EN144</a></td>
+      <td>"<a href="/wiki/Creature_Swap" title="Creature Swap">Creature Swap</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN145" title="BP03-EN145" class="mw-redirect">BP03-EN145</a></td>
+      <td>"<a href="/wiki/Book_of_Life" title="Book of Life">Book of Life</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN146" title="BP03-EN146" class="mw-redirect">BP03-EN146</a></td>
+      <td>"<a href="/wiki/Call_of_the_Mummy" title="Call of the Mummy">Call of the Mummy</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN147" title="BP03-EN147" class="mw-redirect">BP03-EN147</a></td>
+      <td>"<a href="/wiki/Banner_of_Courage" title="Banner of Courage">Banner of Courage</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN148" title="BP03-EN148" class="mw-redirect">BP03-EN148</a></td>
+      <td>"<a href="/wiki/Cestus_of_Dagla" title="Cestus of Dagla">Cestus of Dagla</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN149" title="BP03-EN149" class="mw-redirect">BP03-EN149</a></td>
+      <td>"<a href="/wiki/Enemy_Controller" title="Enemy Controller">Enemy Controller</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN150" title="BP03-EN150" class="mw-redirect">BP03-EN150</a></td>
+      <td>"<a href="/wiki/Earthquake" title="Earthquake">Earthquake</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN151" title="BP03-EN151" class="mw-redirect">BP03-EN151</a></td>
+      <td>"<a href="/wiki/Swords_of_Concealing_Light" title="Swords of Concealing Light">Swords of Concealing Light</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN152" title="BP03-EN152" class="mw-redirect">BP03-EN152</a></td>
+      <td>"<a href="/wiki/Magicians_Unite" title="Magicians Unite">Magicians Unite</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN153" title="BP03-EN153" class="mw-redirect">BP03-EN153</a></td>
+      <td>"<a href="/wiki/Ribbon_of_Rebirth" title="Ribbon of Rebirth">Ribbon of Rebirth</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN154" title="BP03-EN154" class="mw-redirect">BP03-EN154</a></td>
+      <td>"<a href="/wiki/Valhalla,_Hall_of_the_Fallen" title="Valhalla, Hall of the Fallen">Valhalla, Hall of the Fallen</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN155" title="BP03-EN155" class="mw-redirect">BP03-EN155</a></td>
+      <td>"<a href="/wiki/Fighting_Spirit" title="Fighting Spirit">Fighting Spirit</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN156" title="BP03-EN156" class="mw-redirect">BP03-EN156</a></td>
+      <td>"<a href="/wiki/Psi-Station" title="Psi-Station">Psi-Station</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN157" title="BP03-EN157" class="mw-redirect">BP03-EN157</a></td>
+      <td>"<a href="/wiki/Unstable_Evolution" title="Unstable Evolution">Unstable Evolution</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN158" title="BP03-EN158" class="mw-redirect">BP03-EN158</a></td>
+      <td>"<a href="/wiki/Recycling_Batteries" title="Recycling Batteries">Recycling Batteries</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN159" title="BP03-EN159" class="mw-redirect">BP03-EN159</a></td>
+      <td>"<a href="/wiki/Book_of_Eclipse" title="Book of Eclipse">Book of Eclipse</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN160" title="BP03-EN160" class="mw-redirect">BP03-EN160</a></td>
+      <td>"<a href="/wiki/Mark_of_the_Rose" title="Mark of the Rose">Mark of the Rose</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN161" title="BP03-EN161" class="mw-redirect">BP03-EN161</a></td>
+      <td>"<a href="/wiki/Psychokinesis" title="Psychokinesis">Psychokinesis</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN162" title="BP03-EN162" class="mw-redirect">BP03-EN162</a></td>
+      <td>"<a href="/wiki/Miracle_Fertilizer" title="Miracle Fertilizer">Miracle Fertilizer</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN163" title="BP03-EN163" class="mw-redirect">BP03-EN163</a></td>
+      <td>"<a href="/wiki/Psychic_Sword" title="Psychic Sword">Psychic Sword</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN164" title="BP03-EN164" class="mw-redirect">BP03-EN164</a></td>
+      <td>"<a href="/wiki/Forbidden_Chalice" title="Forbidden Chalice">Forbidden Chalice</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN165" title="BP03-EN165" class="mw-redirect">BP03-EN165</a></td>
+      <td>"<a href="/wiki/Raging_Mad_Plants" title="Raging Mad Plants">Raging Mad Plants</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN166" title="BP03-EN166" class="mw-redirect">BP03-EN166</a></td>
+      <td>"<a href="/wiki/Reptilianne_Rage" title="Reptilianne Rage">Reptilianne Rage</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN167" title="BP03-EN167" class="mw-redirect">BP03-EN167</a></td>
+      <td>"<a href="/wiki/Machine_Assembly_Line" title="Machine Assembly Line">Machine Assembly Line</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN168" title="BP03-EN168" class="mw-redirect">BP03-EN168</a></td>
+      <td>"<a href="/wiki/Pyramid_of_Wonders" title="Pyramid of Wonders">Pyramid of Wonders</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN169" title="BP03-EN169" class="mw-redirect">BP03-EN169</a></td>
+      <td>"<a href="/wiki/Cursed_Armaments" title="Cursed Armaments">Cursed Armaments</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN170" title="BP03-EN170" class="mw-redirect">BP03-EN170</a></td>
+      <td>"<a href="/wiki/Wattjustment" title="Wattjustment">Wattjustment</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN171" title="BP03-EN171" class="mw-redirect">BP03-EN171</a></td>
+      <td>"<a href="/wiki/Closed_Forest" title="Closed Forest">Closed Forest</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Field_Spell_Card" title="Field Spell Card">Field</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN172" title="BP03-EN172" class="mw-redirect">BP03-EN172</a></td>
+      <td>"<a href="/wiki/Forbidden_Lance" title="Forbidden Lance">Forbidden Lance</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN173" title="BP03-EN173" class="mw-redirect">BP03-EN173</a></td>
+      <td>"<a href="/wiki/Wonder_Wand" title="Wonder Wand">Wonder Wand</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN174" title="BP03-EN174" class="mw-redirect">BP03-EN174</a></td>
+      <td>"<a href="/wiki/Murmur_of_the_Forest" title="Murmur of the Forest">Murmur of the Forest</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN175" title="BP03-EN175" class="mw-redirect">BP03-EN175</a></td>
+      <td>"<a href="/wiki/Bound_Wand" title="Bound Wand">Bound Wand</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN176" title="BP03-EN176" class="mw-redirect">BP03-EN176</a></td>
+      <td>"<a href="/wiki/Night_Beam" title="Night Beam">Night Beam</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN177" title="BP03-EN177" class="mw-redirect">BP03-EN177</a></td>
+      <td>"<a href="/wiki/Spellbook_of_Wisdom" title="Spellbook of Wisdom">Spellbook of Wisdom</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN178" title="BP03-EN178" class="mw-redirect">BP03-EN178</a></td>
+      <td>"<a href="/wiki/Call_of_the_Atlanteans" title="Call of the Atlanteans">Call of the Atlanteans</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN179" title="BP03-EN179" class="mw-redirect">BP03-EN179</a></td>
+      <td>"<a href="/wiki/One-Shot_Wand" title="One-Shot Wand">One-Shot Wand</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN180" title="BP03-EN180" class="mw-redirect">BP03-EN180</a></td>
+      <td>"<a href="/wiki/Forbidden_Dress" title="Forbidden Dress">Forbidden Dress</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN181" title="BP03-EN181" class="mw-redirect">BP03-EN181</a></td>
+      <td>"<a href="/wiki/Noble_Arms_-_Arfeudutyr" title="Noble Arms - Arfeudutyr">Noble Arms - Arfeudutyr</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN182" title="BP03-EN182" class="mw-redirect">BP03-EN182</a></td>
+      <td>"<a href="/wiki/Noble_Arms_-_Caliburn" title="Noble Arms - Caliburn">Noble Arms - Caliburn</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN183" title="BP03-EN183" class="mw-redirect">BP03-EN183</a></td>
+      <td>"<a href="/wiki/Ayers_Rock_Sunrise" title="Ayers Rock Sunrise">Ayers Rock Sunrise</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN184" title="BP03-EN184" class="mw-redirect">BP03-EN184</a></td>
+      <td>"<a href="/wiki/Forbidden_Scripture" title="Forbidden Scripture">Forbidden Scripture</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN185" title="BP03-EN185" class="mw-redirect">BP03-EN185</a></td>
+      <td>"<a href="/wiki/Card_Advance" title="Card Advance">Card Advance</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN186" title="BP03-EN186" class="mw-redirect">BP03-EN186</a></td>
+      <td>"<a href="/wiki/Bashing_Shield" title="Bashing Shield">Bashing Shield</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN187" title="BP03-EN187" class="mw-redirect">BP03-EN187</a></td>
+      <td>"<a href="/wiki/Call_of_the_Haunted" title="Call of the Haunted">Call of the Haunted</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN188" title="BP03-EN188" class="mw-redirect">BP03-EN188</a></td>
+      <td>"<a href="/wiki/Mirror_Wall" title="Mirror Wall">Mirror Wall</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN189" title="BP03-EN189" class="mw-redirect">BP03-EN189</a></td>
+      <td>"<a href="/wiki/Metalmorph" title="Metalmorph">Metalmorph</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN190" title="BP03-EN190" class="mw-redirect">BP03-EN190</a></td>
+      <td>"<a href="/wiki/Mask_of_Weakness" title="Mask of Weakness">Mask of Weakness</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN191" title="BP03-EN191" class="mw-redirect">BP03-EN191</a></td>
+      <td>"<a href="/wiki/Bark_of_Dark_Ruler" title="Bark of Dark Ruler">Bark of Dark Ruler</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN192" title="BP03-EN192" class="mw-redirect">BP03-EN192</a></td>
+      <td>"<a href="/wiki/Ready_for_Intercepting" title="Ready for Intercepting">Ready for Intercepting</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN193" title="BP03-EN193" class="mw-redirect">BP03-EN193</a></td>
+      <td>"<a href="/wiki/Burst_Breath" title="Burst Breath">Burst Breath</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN194" title="BP03-EN194" class="mw-redirect">BP03-EN194</a></td>
+      <td>"<a href="/wiki/Blast_with_Chain" title="Blast with Chain">Blast with Chain</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN195" title="BP03-EN195" class="mw-redirect">BP03-EN195</a></td>
+      <td>"<a href="/wiki/Tutan_Mask" title="Tutan Mask">Tutan Mask</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Counter_Trap_Card" title="Counter Trap Card">Counter</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN196" title="BP03-EN196" class="mw-redirect">BP03-EN196</a></td>
+      <td>"<a href="/wiki/Windstorm_of_Etaqua" title="Windstorm of Etaqua">Windstorm of Etaqua</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN197" title="BP03-EN197" class="mw-redirect">BP03-EN197</a></td>
+      <td>"<a href="/wiki/Zero_Gravity" title="Zero Gravity">Zero Gravity</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN198" title="BP03-EN198" class="mw-redirect">BP03-EN198</a></td>
+      <td>"<a href="/wiki/Shadow_Spell" title="Shadow Spell">Shadow Spell</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN199" title="BP03-EN199" class="mw-redirect">BP03-EN199</a></td>
+      <td>"<a href="/wiki/Curse_of_Anubis" title="Curse of Anubis">Curse of Anubis</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN200" title="BP03-EN200" class="mw-redirect">BP03-EN200</a></td>
+      <td>"<a href="/wiki/Rare_Metalmorph" title="Rare Metalmorph">Rare Metalmorph</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN201" title="BP03-EN201" class="mw-redirect">BP03-EN201</a></td>
+      <td>"<a href="/wiki/Magical_Arm_Shield" title="Magical Arm Shield">Magical Arm Shield</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN202" title="BP03-EN202" class="mw-redirect">BP03-EN202</a></td>
+      <td>"<a href="/wiki/Dark_Bribe" title="Dark Bribe">Dark Bribe</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Counter_Trap_Card" title="Counter Trap Card">Counter</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN203" title="BP03-EN203" class="mw-redirect">BP03-EN203</a></td>
+      <td>"<a href="/wiki/Chaos_Burst" title="Chaos Burst">Chaos Burst</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN204" title="BP03-EN204" class="mw-redirect">BP03-EN204</a></td>
+      <td>"<a href="/wiki/No_Entry!!" title="No Entry!!">No Entry!!</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN205" title="BP03-EN205" class="mw-redirect">BP03-EN205</a></td>
+      <td>"<a href="/wiki/Hate_Buster" title="Hate Buster">Hate Buster</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN206" title="BP03-EN206" class="mw-redirect">BP03-EN206</a></td>
+      <td>"<a href="/wiki/Miniaturize" title="Miniaturize">Miniaturize</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN207" title="BP03-EN207" class="mw-redirect">BP03-EN207</a></td>
+      <td>"<a href="/wiki/Psychic_Overload" title="Psychic Overload">Psychic Overload</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN208" title="BP03-EN208" class="mw-redirect">BP03-EN208</a></td>
+      <td>"<a href="/wiki/Telepathic_Power" title="Telepathic Power">Telepathic Power</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN209" title="BP03-EN209" class="mw-redirect">BP03-EN209</a></td>
+      <td>"<a href="/wiki/Mind_Over_Matter" title="Mind Over Matter">Mind Over Matter</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Counter_Trap_Card" title="Counter Trap Card">Counter</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN210" title="BP03-EN210" class="mw-redirect">BP03-EN210</a></td>
+      <td>"<a href="/wiki/Kunai_with_Chain" title="Kunai with Chain">Kunai with Chain</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN211" title="BP03-EN211" class="mw-redirect">BP03-EN211</a></td>
+      <td>"<a href="/wiki/Pollinosis" title="Pollinosis">Pollinosis</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Counter_Trap_Card" title="Counter Trap Card">Counter</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN212" title="BP03-EN212" class="mw-redirect">BP03-EN212</a></td>
+      <td>"<a href="/wiki/Plant_Food_Chain" title="Plant Food Chain">Plant Food Chain</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN213" title="BP03-EN213" class="mw-redirect">BP03-EN213</a></td>
+      <td>"<a href="/wiki/Miracle_Locus" title="Miracle Locus">Miracle Locus</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN214" title="BP03-EN214" class="mw-redirect">BP03-EN214</a></td>
+      <td>"<a href="/wiki/Skill_Successor" title="Skill Successor">Skill Successor</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN215" title="BP03-EN215" class="mw-redirect">BP03-EN215</a></td>
+      <td>"<a href="/wiki/Alien_Brain" title="Alien Brain">Alien Brain</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN216" title="BP03-EN216" class="mw-redirect">BP03-EN216</a></td>
+      <td>"<a href="/wiki/Forgotten_Temple_of_the_Deep" title="Forgotten Temple of the Deep">Forgotten Temple of the Deep</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN217" title="BP03-EN217" class="mw-redirect">BP03-EN217</a></td>
+      <td>"<a href="/wiki/Psi-Curse" title="Psi-Curse">Psi-Curse</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN218" title="BP03-EN218" class="mw-redirect">BP03-EN218</a></td>
+      <td>"<a href="/wiki/Damage_Gate" title="Damage Gate">Damage Gate</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN219" title="BP03-EN219" class="mw-redirect">BP03-EN219</a></td>
+      <td>"<a href="/wiki/Super_Rush_Recklessly" title="Super Rush Recklessly">Super Rush Recklessly</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN220" title="BP03-EN220" class="mw-redirect">BP03-EN220</a></td>
+      <td>"<a href="/wiki/Miracle%27s_Wake" title="Miracle's Wake">Miracle's Wake</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN221" title="BP03-EN221" class="mw-redirect">BP03-EN221</a></td>
+      <td>"<a href="/wiki/Nordic_Relic_Laevateinn" title="Nordic Relic Laevateinn">Nordic Relic Laevateinn</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN222" title="BP03-EN222" class="mw-redirect">BP03-EN222</a></td>
+      <td>"<a href="/wiki/Psychic_Reactor" title="Psychic Reactor">Psychic Reactor</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN223" title="BP03-EN223" class="mw-redirect">BP03-EN223</a></td>
+      <td>"<a href="/wiki/Poseidon_Wave" title="Poseidon Wave">Poseidon Wave</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN224" title="BP03-EN224" class="mw-redirect">BP03-EN224</a></td>
+      <td>"<a href="/wiki/Raigeki_Bottle" title="Raigeki Bottle">Raigeki Bottle</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN225" title="BP03-EN225" class="mw-redirect">BP03-EN225</a></td>
+      <td>"<a href="/wiki/Butterflyoke" title="Butterflyoke">Butterflyoke</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN226" title="BP03-EN226" class="mw-redirect">BP03-EN226</a></td>
+      <td>"<a href="/wiki/Dimension_Gate" title="Dimension Gate">Dimension Gate</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN227" title="BP03-EN227" class="mw-redirect">BP03-EN227</a></td>
+      <td>"<a href="/wiki/Breakthrough_Skill" title="Breakthrough Skill">Breakthrough Skill</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN228" title="BP03-EN228" class="mw-redirect">BP03-EN228</a></td>
+      <td>"<a href="/wiki/Pinpoint_Guard" title="Pinpoint Guard">Pinpoint Guard</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN229" title="BP03-EN229" class="mw-redirect">BP03-EN229</a></td>
+      <td>"<a href="/wiki/Memory_Loss" title="Memory Loss">Memory Loss</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN230" title="BP03-EN230" class="mw-redirect">BP03-EN230</a></td>
+      <td>"<a href="/wiki/Butterspy_Protection" title="Butterspy Protection">Butterspy Protection</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN231" title="BP03-EN231" class="mw-redirect">BP03-EN231</a></td>
+      <td>"<a href="/wiki/Intrigue_Shield" title="Intrigue Shield">Intrigue Shield</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN232" title="BP03-EN232" class="mw-redirect">BP03-EN232</a></td>
+      <td>"<a href="/wiki/Inspiration" title="Inspiration">Inspiration</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN233" title="BP03-EN233" class="mw-redirect">BP03-EN233</a></td>
+      <td>"<a href="/wiki/Ghosts_From_the_Past" title="Ghosts From the Past">Ghosts From the Past</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN234" title="BP03-EN234" class="mw-redirect">BP03-EN234</a></td>
+      <td>"<a href="/wiki/Unbreakable_Spirit" title="Unbreakable Spirit">Unbreakable Spirit</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN235" title="BP03-EN235" class="mw-redirect">BP03-EN235</a></td>
+      <td>"<a href="/wiki/Typhoon" title="Typhoon">Typhoon</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN236" title="BP03-EN236" class="mw-redirect">BP03-EN236</a></td>
+      <td>"<a href="/wiki/Swamp_Mirrorer" title="Swamp Mirrorer">Swamp Mirrorer</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP03-EN237" title="BP03-EN237" class="mw-redirect">BP03-EN237</a></td>
+      <td>"<a href="/wiki/Quantum_Cat" title="Quantum Cat">Quantum Cat</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Shatterfoil_Rare" title="Shatterfoil Rare">Shatterfoil Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+</tbody>

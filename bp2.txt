@@ -1,0 +1,1274 @@
+
+   <tr>
+      <td><a href="/wiki/BP02-EN001" title="BP02-EN001" class="mw-redirect">BP02-EN001</a></td>
+      <td>"<a href="/wiki/Luster_Dragon" title="Luster Dragon">Luster Dragon</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN002" title="BP02-EN002" class="mw-redirect">BP02-EN002</a></td>
+      <td>"<a href="/wiki/Gene-Warped_Warwolf" title="Gene-Warped Warwolf">Gene-Warped Warwolf</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN003" title="BP02-EN003" class="mw-redirect">BP02-EN003</a></td>
+      <td>"<a href="/wiki/Frostosaurus" title="Frostosaurus">Frostosaurus</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN004" title="BP02-EN004" class="mw-redirect">BP02-EN004</a></td>
+      <td>"<a href="/wiki/Alexandrite_Dragon" title="Alexandrite Dragon">Alexandrite Dragon</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Monster" title="Normal Monster">Normal Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN005" title="BP02-EN005" class="mw-redirect">BP02-EN005</a></td>
+      <td>"<a href="/wiki/Magician_of_Faith" title="Magician of Faith">Magician of Faith</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN006" title="BP02-EN006" class="mw-redirect">BP02-EN006</a></td>
+      <td>"<a href="/wiki/Maha_Vailo" title="Maha Vailo">Maha Vailo</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN007" title="BP02-EN007" class="mw-redirect">BP02-EN007</a></td>
+      <td>"<a href="/wiki/Cyber_Jar" title="Cyber Jar">Cyber Jar</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN008" title="BP02-EN008" class="mw-redirect">BP02-EN008</a></td>
+      <td>"<a href="/wiki/Goblin_Attack_Force" title="Goblin Attack Force">Goblin Attack Force</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN009" title="BP02-EN009" class="mw-redirect">BP02-EN009</a></td>
+      <td>"<a href="/wiki/The_Fiend_Megacyber" title="The Fiend Megacyber">The Fiend Megacyber</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN010" title="BP02-EN010" class="mw-redirect">BP02-EN010</a></td>
+      <td>"<a href="/wiki/Revival_Jam" title="Revival Jam">Revival Jam</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN011" title="BP02-EN011" class="mw-redirect">BP02-EN011</a></td>
+      <td>"<a href="/wiki/Kycoo_the_Ghost_Destroyer" title="Kycoo the Ghost Destroyer">Kycoo the Ghost Destroyer</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN012" title="BP02-EN012" class="mw-redirect">BP02-EN012</a></td>
+      <td>"<a href="/wiki/Bazoo_the_Soul-Eater" title="Bazoo the Soul-Eater">Bazoo the Soul-Eater</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN013" title="BP02-EN013" class="mw-redirect">BP02-EN013</a></td>
+      <td>"<a href="/wiki/Gilasaurus" title="Gilasaurus">Gilasaurus</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN014" title="BP02-EN014" class="mw-redirect">BP02-EN014</a></td>
+      <td>"<a href="/wiki/Zombyra_the_Dark" title="Zombyra the Dark">Zombyra the Dark</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN015" title="BP02-EN015" class="mw-redirect">BP02-EN015</a></td>
+      <td>"<a href="/wiki/Sinister_Serpent" title="Sinister Serpent">Sinister Serpent</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN016" title="BP02-EN016" class="mw-redirect">BP02-EN016</a></td>
+      <td>"<a href="/wiki/Airknight_Parshath" title="Airknight Parshath">Airknight Parshath</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN017" title="BP02-EN017" class="mw-redirect">BP02-EN017</a></td>
+      <td>"<a href="/wiki/Twin-Headed_Behemoth" title="Twin-Headed Behemoth">Twin-Headed Behemoth</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN018" title="BP02-EN018" class="mw-redirect">BP02-EN018</a></td>
+      <td>"<a href="/wiki/Injection_Fairy_Lily" title="Injection Fairy Lily">Injection Fairy Lily</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN019" title="BP02-EN019" class="mw-redirect">BP02-EN019</a></td>
+      <td>"<a href="/wiki/Helping_Robo_for_Combat" title="Helping Robo for Combat">Helping Robo for Combat</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN020" title="BP02-EN020" class="mw-redirect">BP02-EN020</a></td>
+      <td>"<a href="/wiki/Little-Winguard" title="Little-Winguard">Little-Winguard</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN021" title="BP02-EN021" class="mw-redirect">BP02-EN021</a></td>
+      <td>"<a href="/wiki/D.D._Warrior_Lady" title="D.D. Warrior Lady">D.D. Warrior Lady</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN022" title="BP02-EN022" class="mw-redirect">BP02-EN022</a></td>
+      <td>"<a href="/wiki/Zolga" title="Zolga">Zolga</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN023" title="BP02-EN023" class="mw-redirect">BP02-EN023</a></td>
+      <td>"<a href="/wiki/Dark_Magician_of_Chaos" title="Dark Magician of Chaos">Dark Magician of Chaos</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN024" title="BP02-EN024" class="mw-redirect">BP02-EN024</a></td>
+      <td>"<a href="/wiki/Hyper_Hammerhead" title="Hyper Hammerhead">Hyper Hammerhead</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN025" title="BP02-EN025" class="mw-redirect">BP02-EN025</a></td>
+      <td>"<a href="/wiki/Mataza_the_Zapper" title="Mataza the Zapper">Mataza the Zapper</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN026" title="BP02-EN026" class="mw-redirect">BP02-EN026</a></td>
+      <td>"<a href="/wiki/Guardian_Angel_Joan" title="Guardian Angel Joan">Guardian Angel Joan</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN027" title="BP02-EN027" class="mw-redirect">BP02-EN027</a></td>
+      <td>"<a href="/wiki/Slate_Warrior" title="Slate Warrior">Slate Warrior</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Flip_monster" title="Flip monster">Flip monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN028" title="BP02-EN028" class="mw-redirect">BP02-EN028</a></td>
+      <td>"<a href="/wiki/D.D._Assailant" title="D.D. Assailant">D.D. Assailant</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN029" title="BP02-EN029" class="mw-redirect">BP02-EN029</a></td>
+      <td>"<a href="/wiki/Ninja_Grandmaster_Sasuke" title="Ninja Grandmaster Sasuke">Ninja Grandmaster Sasuke</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN030" title="BP02-EN030" class="mw-redirect">BP02-EN030</a></td>
+      <td>"<a href="/wiki/Pitch-Black_Warwolf" title="Pitch-Black Warwolf">Pitch-Black Warwolf</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN031" title="BP02-EN031" class="mw-redirect">BP02-EN031</a></td>
+      <td>"<a href="/wiki/Mirage_Dragon" title="Mirage Dragon">Mirage Dragon</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN032" title="BP02-EN032" class="mw-redirect">BP02-EN032</a></td>
+      <td>"<a href="/wiki/Big_Shield_Gardna" title="Big Shield Gardna">Big Shield Gardna</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN033" title="BP02-EN033" class="mw-redirect">BP02-EN033</a></td>
+      <td>"<a href="/wiki/Toon_Gemini_Elf" title="Toon Gemini Elf">Toon Gemini Elf</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Toon_monster" title="Toon monster">Toon monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN034" title="BP02-EN034" class="mw-redirect">BP02-EN034</a></td>
+      <td>"<a href="/wiki/Chiron_the_Mage" title="Chiron the Mage">Chiron the Mage</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN035" title="BP02-EN035" class="mw-redirect">BP02-EN035</a></td>
+      <td>"<a href="/wiki/Ancient_Gear_Golem" title="Ancient Gear Golem">Ancient Gear Golem</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN036" title="BP02-EN036" class="mw-redirect">BP02-EN036</a></td>
+      <td>"<a href="/wiki/Gyroid" title="Gyroid">Gyroid</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN037" title="BP02-EN037" class="mw-redirect">BP02-EN037</a></td>
+      <td>"<a href="/wiki/Steamroid" title="Steamroid">Steamroid</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN038" title="BP02-EN038" class="mw-redirect">BP02-EN038</a></td>
+      <td>"<a href="/wiki/Drillroid" title="Drillroid">Drillroid</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN039" title="BP02-EN039" class="mw-redirect">BP02-EN039</a></td>
+      <td>"<a href="/wiki/Cyber_Dragon" title="Cyber Dragon">Cyber Dragon</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN040" title="BP02-EN040" class="mw-redirect">BP02-EN040</a></td>
+      <td>"<a href="/wiki/Goblin_Elite_Attack_Force" title="Goblin Elite Attack Force">Goblin Elite Attack Force</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN041" title="BP02-EN041" class="mw-redirect">BP02-EN041</a></td>
+      <td>"<a href="/wiki/Exarion_Universe" title="Exarion Universe">Exarion Universe</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN042" title="BP02-EN042" class="mw-redirect">BP02-EN042</a></td>
+      <td>"<a href="/wiki/Mythical_Beast_Cerberus" title="Mythical Beast Cerberus">Mythical Beast Cerberus</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN043" title="BP02-EN043" class="mw-redirect">BP02-EN043</a></td>
+      <td>"<a href="/wiki/Treeborn_Frog" title="Treeborn Frog">Treeborn Frog</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN044" title="BP02-EN044" class="mw-redirect">BP02-EN044</a></td>
+      <td>"<a href="/wiki/Submarineroid" title="Submarineroid">Submarineroid</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN045" title="BP02-EN045" class="mw-redirect">BP02-EN045</a></td>
+      <td>"<a href="/wiki/Ultimate_Tyranno" title="Ultimate Tyranno">Ultimate Tyranno</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN046" title="BP02-EN046" class="mw-redirect">BP02-EN046</a></td>
+      <td>"<a href="/wiki/Super_Conductor_Tyranno" title="Super Conductor Tyranno">Super Conductor Tyranno</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN047" title="BP02-EN047" class="mw-redirect">BP02-EN047</a></td>
+      <td>"<a href="/wiki/Brain_Crusher" title="Brain Crusher">Brain Crusher</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN048" title="BP02-EN048" class="mw-redirect">BP02-EN048</a></td>
+      <td>"<a href="/wiki/Card_Trooper" title="Card Trooper">Card Trooper</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN049" title="BP02-EN049" class="mw-redirect">BP02-EN049</a></td>
+      <td>"<a href="/wiki/Blockman" title="Blockman">Blockman</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN050" title="BP02-EN050" class="mw-redirect">BP02-EN050</a></td>
+      <td>"<a href="/wiki/Spell_Striker" title="Spell Striker">Spell Striker</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN051" title="BP02-EN051" class="mw-redirect">BP02-EN051</a></td>
+      <td>"<a href="/wiki/Winged_Rhynos" title="Winged Rhynos">Winged Rhynos</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN052" title="BP02-EN052" class="mw-redirect">BP02-EN052</a></td>
+      <td>"<a href="/wiki/Necro_Gardna" title="Necro Gardna">Necro Gardna</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN053" title="BP02-EN053" class="mw-redirect">BP02-EN053</a></td>
+      <td>"<a href="/wiki/Herald_of_Creation" title="Herald of Creation">Herald of Creation</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN054" title="BP02-EN054" class="mw-redirect">BP02-EN054</a></td>
+      <td>"<a href="/wiki/Evil_HERO_Malicious_Edge" title="Evil HERO Malicious Edge">Evil HERO Malicious Edge</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN055" title="BP02-EN055" class="mw-redirect">BP02-EN055</a></td>
+      <td>"<a href="/wiki/Truckroid" title="Truckroid">Truckroid</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN056" title="BP02-EN056" class="mw-redirect">BP02-EN056</a></td>
+      <td>"<a href="/wiki/Ancient_Gear_Knight" title="Ancient Gear Knight">Ancient Gear Knight</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Gemini_monster" title="Gemini monster">Gemini monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN057" title="BP02-EN057" class="mw-redirect">BP02-EN057</a></td>
+      <td>"<a href="/wiki/Dragon_Ice" title="Dragon Ice">Dragon Ice</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN058" title="BP02-EN058" class="mw-redirect">BP02-EN058</a></td>
+      <td>"<a href="/wiki/Copycat" title="Copycat">Copycat</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN059" title="BP02-EN059" class="mw-redirect">BP02-EN059</a></td>
+      <td>"<a href="/wiki/Cyber_Valley" title="Cyber Valley">Cyber Valley</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN060" title="BP02-EN060" class="mw-redirect">BP02-EN060</a></td>
+      <td>"<a href="/wiki/Darklord_Zerato" title="Darklord Zerato">Darklord Zerato</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN061" title="BP02-EN061" class="mw-redirect">BP02-EN061</a></td>
+      <td>"<a href="/wiki/Belial_-_Marquis_of_Darkness" title="Belial - Marquis of Darkness">Belial - Marquis of Darkness</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN062" title="BP02-EN062" class="mw-redirect">BP02-EN062</a></td>
+      <td>"<a href="/wiki/Doomcaliber_Knight" title="Doomcaliber Knight">Doomcaliber Knight</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN063" title="BP02-EN063" class="mw-redirect">BP02-EN063</a></td>
+      <td>"<a href="/wiki/Exodius_the_Ultimate_Forbidden_Lord" title="Exodius the Ultimate Forbidden Lord">Exodius the Ultimate Forbidden Lord</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN064" title="BP02-EN064" class="mw-redirect">BP02-EN064</a></td>
+      <td>"<a href="/wiki/Dark_Valkyria" title="Dark Valkyria">Dark Valkyria</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Gemini_monster" title="Gemini monster">Gemini monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN065" title="BP02-EN065" class="mw-redirect">BP02-EN065</a></td>
+      <td>"<a href="/wiki/Phantom_Dragon" title="Phantom Dragon">Phantom Dragon</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN066" title="BP02-EN066" class="mw-redirect">BP02-EN066</a></td>
+      <td>"<a href="/wiki/Shield_Warrior" title="Shield Warrior">Shield Warrior</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN067" title="BP02-EN067" class="mw-redirect">BP02-EN067</a></td>
+      <td>"<a href="/wiki/Dark_Resonator" title="Dark Resonator">Dark Resonator</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN068" title="BP02-EN068" class="mw-redirect">BP02-EN068</a></td>
+      <td>"<a href="/wiki/Krebons" title="Krebons">Krebons</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN069" title="BP02-EN069" class="mw-redirect">BP02-EN069</a></td>
+      <td>"<a href="/wiki/The_Tricky" title="The Tricky">The Tricky</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN070" title="BP02-EN070" class="mw-redirect">BP02-EN070</a></td>
+      <td>"<a href="/wiki/Splendid_Venus" title="Splendid Venus">Splendid Venus</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN071" title="BP02-EN071" class="mw-redirect">BP02-EN071</a></td>
+      <td>"<a href="/wiki/Plaguespreader_Zombie" title="Plaguespreader Zombie">Plaguespreader Zombie</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN072" title="BP02-EN072" class="mw-redirect">BP02-EN072</a></td>
+      <td>"<a href="/wiki/Machine_Lord_%C3%9Cr" title="Machine Lord Ür">Machine Lord Ür</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN073" title="BP02-EN073" class="mw-redirect">BP02-EN073</a></td>
+      <td>"<a href="/wiki/Mosaic_Manticore" title="Mosaic Manticore">Mosaic Manticore</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN074" title="BP02-EN074" class="mw-redirect">BP02-EN074</a></td>
+      <td>"<a href="/wiki/Botanical_Lion" title="Botanical Lion">Botanical Lion</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN075" title="BP02-EN075" class="mw-redirect">BP02-EN075</a></td>
+      <td>"<a href="/wiki/Blizzard_Dragon" title="Blizzard Dragon">Blizzard Dragon</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN076" title="BP02-EN076" class="mw-redirect">BP02-EN076</a></td>
+      <td>"<a href="/wiki/Des_Mosquito" title="Des Mosquito">Des Mosquito</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN077" title="BP02-EN077" class="mw-redirect">BP02-EN077</a></td>
+      <td>"<a href="/wiki/Dandylion" title="Dandylion">Dandylion</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN078" title="BP02-EN078" class="mw-redirect">BP02-EN078</a></td>
+      <td>"<a href="/wiki/Fortress_Warrior" title="Fortress Warrior">Fortress Warrior</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN079" title="BP02-EN079" class="mw-redirect">BP02-EN079</a></td>
+      <td>"<a href="/wiki/Twin-Sword_Marauder" title="Twin-Sword Marauder">Twin-Sword Marauder</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN080" title="BP02-EN080" class="mw-redirect">BP02-EN080</a></td>
+      <td>"<a href="/wiki/Beast_King_Barbaros" title="Beast King Barbaros">Beast King Barbaros</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN081" title="BP02-EN081" class="mw-redirect">BP02-EN081</a></td>
+      <td>"<a href="/wiki/Hedge_Guard" title="Hedge Guard">Hedge Guard</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN082" title="BP02-EN082" class="mw-redirect">BP02-EN082</a></td>
+      <td>"<a href="/wiki/Card_Guard" title="Card Guard">Card Guard</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN083" title="BP02-EN083" class="mw-redirect">BP02-EN083</a></td>
+      <td>"<a href="/wiki/White_Night_Dragon" title="White Night Dragon">White Night Dragon</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN084" title="BP02-EN084" class="mw-redirect">BP02-EN084</a></td>
+      <td>"<a href="/wiki/Beast_Machine_King_Barbaros_%C3%9Cr" title="Beast Machine King Barbaros Ür">Beast Machine King Barbaros Ür</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN085" title="BP02-EN085" class="mw-redirect">BP02-EN085</a></td>
+      <td>"<a href="/wiki/Evocator_Chevalier" title="Evocator Chevalier">Evocator Chevalier</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Gemini_monster" title="Gemini monster">Gemini monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN086" title="BP02-EN086" class="mw-redirect">BP02-EN086</a></td>
+      <td>"<a href="/wiki/Battle_Fader" title="Battle Fader">Battle Fader</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN087" title="BP02-EN087" class="mw-redirect">BP02-EN087</a></td>
+      <td>"<a href="/wiki/Oracle_of_the_Sun" title="Oracle of the Sun">Oracle of the Sun</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN088" title="BP02-EN088" class="mw-redirect">BP02-EN088</a></td>
+      <td>"<a href="/wiki/Samurai_of_the_Ice_Barrier" title="Samurai of the Ice Barrier">Samurai of the Ice Barrier</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN089" title="BP02-EN089" class="mw-redirect">BP02-EN089</a></td>
+      <td>"<a href="/wiki/Jurrac_Titano" title="Jurrac Titano">Jurrac Titano</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN090" title="BP02-EN090" class="mw-redirect">BP02-EN090</a></td>
+      <td>"<a href="/wiki/Darklord_Desire" title="Darklord Desire">Darklord Desire</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN091" title="BP02-EN091" class="mw-redirect">BP02-EN091</a></td>
+      <td>"<a href="/wiki/Power_Giant" title="Power Giant">Power Giant</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN092" title="BP02-EN092" class="mw-redirect">BP02-EN092</a></td>
+      <td>"<a href="/wiki/Anarchist_Monk_Ranshin" title="Anarchist Monk Ranshin">Anarchist Monk Ranshin</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN093" title="BP02-EN093" class="mw-redirect">BP02-EN093</a></td>
+      <td>"<a href="/wiki/Ape_Fighter" title="Ape Fighter">Ape Fighter</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN094" title="BP02-EN094" class="mw-redirect">BP02-EN094</a></td>
+      <td>"<a href="/wiki/Tanngrisnir_of_the_Nordic_Beasts" title="Tanngrisnir of the Nordic Beasts">Tanngrisnir of the Nordic Beasts</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN095" title="BP02-EN095" class="mw-redirect">BP02-EN095</a></td>
+      <td>"<a href="/wiki/Chaos_Hunter" title="Chaos Hunter">Chaos Hunter</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN096" title="BP02-EN096" class="mw-redirect">BP02-EN096</a></td>
+      <td>"<a href="/wiki/Axe_Dragonute" title="Axe Dragonute">Axe Dragonute</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN097" title="BP02-EN097" class="mw-redirect">BP02-EN097</a></td>
+      <td>"<a href="/wiki/Vylon_Soldier" title="Vylon Soldier">Vylon Soldier</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN098" title="BP02-EN098" class="mw-redirect">BP02-EN098</a></td>
+      <td>"<a href="/wiki/Blackwing_-_Zephyros_the_Elite" title="Blackwing - Zephyros the Elite">Blackwing - Zephyros the Elite</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN099" title="BP02-EN099" class="mw-redirect">BP02-EN099</a></td>
+      <td>"<a href="/wiki/Zubaba_Knight" title="Zubaba Knight">Zubaba Knight</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN100" title="BP02-EN100" class="mw-redirect">BP02-EN100</a></td>
+      <td>"<a href="/wiki/Gogogo_Golem" title="Gogogo Golem">Gogogo Golem</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN101" title="BP02-EN101" class="mw-redirect">BP02-EN101</a></td>
+      <td>"<a href="/wiki/Needle_Sunfish" title="Needle Sunfish">Needle Sunfish</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN102" title="BP02-EN102" class="mw-redirect">BP02-EN102</a></td>
+      <td>"<a href="/wiki/Shocktopus" title="Shocktopus">Shocktopus</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN103" title="BP02-EN103" class="mw-redirect">BP02-EN103</a></td>
+      <td>"<a href="/wiki/Photon_Thrasher" title="Photon Thrasher">Photon Thrasher</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN104" title="BP02-EN104" class="mw-redirect">BP02-EN104</a></td>
+      <td>"<a href="/wiki/Interplanetarypurplythorny_Dragon" title="Interplanetarypurplythorny Dragon">Interplanetarypurplythorny Dragon</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN105" title="BP02-EN105" class="mw-redirect">BP02-EN105</a></td>
+      <td>"<a href="/wiki/Tour_Bus_From_the_Underworld" title="Tour Bus From the Underworld">Tour Bus From the Underworld</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN106" title="BP02-EN106" class="mw-redirect">BP02-EN106</a></td>
+      <td>"<a href="/wiki/Vylon_Tetra" title="Vylon Tetra">Vylon Tetra</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN107" title="BP02-EN107" class="mw-redirect">BP02-EN107</a></td>
+      <td>"<a href="/wiki/Vylon_Stella" title="Vylon Stella">Vylon Stella</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN108" title="BP02-EN108" class="mw-redirect">BP02-EN108</a></td>
+      <td>"<a href="/wiki/Vylon_Prism" title="Vylon Prism">Vylon Prism</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect</a> <a href="/wiki/Tuner_monster" title="Tuner monster">Tuner monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN109" title="BP02-EN109" class="mw-redirect">BP02-EN109</a></td>
+      <td>"<a href="/wiki/Photon_Wyvern" title="Photon Wyvern">Photon Wyvern</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN110" title="BP02-EN110" class="mw-redirect">BP02-EN110</a></td>
+      <td>"<a href="/wiki/Tasuke_Knight" title="Tasuke Knight">Tasuke Knight</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN111" title="BP02-EN111" class="mw-redirect">BP02-EN111</a></td>
+      <td>"<a href="/wiki/Gagaga_Gardna" title="Gagaga Gardna">Gagaga Gardna</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN112" title="BP02-EN112" class="mw-redirect">BP02-EN112</a></td>
+      <td>"<a href="/wiki/Cardcar_D" title="Cardcar D">Cardcar D</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN113" title="BP02-EN113" class="mw-redirect">BP02-EN113</a></td>
+      <td>"<a href="/wiki/Flame_Tiger" title="Flame Tiger">Flame Tiger</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN114" title="BP02-EN114" class="mw-redirect">BP02-EN114</a></td>
+      <td>"<a href="/wiki/Tardy_Orc" title="Tardy Orc">Tardy Orc</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN115" title="BP02-EN115" class="mw-redirect">BP02-EN115</a></td>
+      <td>"<a href="/wiki/Bull_Blader" title="Bull Blader">Bull Blader</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN116" title="BP02-EN116" class="mw-redirect">BP02-EN116</a></td>
+      <td>"<a href="/wiki/Solar_Wind_Jammer" title="Solar Wind Jammer">Solar Wind Jammer</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN117" title="BP02-EN117" class="mw-redirect">BP02-EN117</a></td>
+      <td>"<a href="/wiki/Mermail_Abyssmegalo" title="Mermail Abyssmegalo">Mermail Abyssmegalo</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN118" title="BP02-EN118" class="mw-redirect">BP02-EN118</a></td>
+      <td>"<a href="/wiki/Dododo_Bot" title="Dododo Bot">Dododo Bot</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN119" title="BP02-EN119" class="mw-redirect">BP02-EN119</a></td>
+      <td>"<a href="/wiki/Bacon_Saver" title="Bacon Saver">Bacon Saver</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN120" title="BP02-EN120" class="mw-redirect">BP02-EN120</a></td>
+      <td>"<a href="/wiki/Amarylease" title="Amarylease">Amarylease</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN121" title="BP02-EN121" class="mw-redirect">BP02-EN121</a></td>
+      <td>"<a href="/wiki/Hyper-Ancient_Shark_Megalodon" title="Hyper-Ancient Shark Megalodon">Hyper-Ancient Shark Megalodon</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN122" title="BP02-EN122" class="mw-redirect">BP02-EN122</a></td>
+      <td>"<a href="/wiki/Pyrotech_Mech_-_Shiryu" title="Pyrotech Mech - Shiryu">Pyrotech Mech - Shiryu</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN123" title="BP02-EN123" class="mw-redirect">BP02-EN123</a></td>
+      <td>"<a href="/wiki/Aye-Iron" title="Aye-Iron">Aye-Iron</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN124" title="BP02-EN124" class="mw-redirect">BP02-EN124</a></td>
+      <td>"<a href="/wiki/Mecha_Phantom_Beast_Hamstrat" title="Mecha Phantom Beast Hamstrat">Mecha Phantom Beast Hamstrat</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Effect_Monster" title="Effect Monster">Effect Monster</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN128" title="BP02-EN128" class="mw-redirect">BP02-EN128</a></td>
+      <td>"<a href="/wiki/Monster_Reborn" title="Monster Reborn">Monster Reborn</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN129" title="BP02-EN129" class="mw-redirect">BP02-EN129</a></td>
+      <td>"<a href="/wiki/Pot_of_Greed" title="Pot of Greed">Pot of Greed</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN130" title="BP02-EN130" class="mw-redirect">BP02-EN130</a></td>
+      <td>"<a href="/wiki/Shield_%26_Sword" title="Shield &amp; Sword">Shield &amp; Sword</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN131" title="BP02-EN131" class="mw-redirect">BP02-EN131</a></td>
+      <td>"<a href="/wiki/Axe_of_Despair" title="Axe of Despair">Axe of Despair</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN132" title="BP02-EN132" class="mw-redirect">BP02-EN132</a></td>
+      <td>"<a href="/wiki/Malevolent_Nuzzler" title="Malevolent Nuzzler">Malevolent Nuzzler</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN133" title="BP02-EN133" class="mw-redirect">BP02-EN133</a></td>
+      <td>"<a href="/wiki/Rush_Recklessly" title="Rush Recklessly">Rush Recklessly</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN134" title="BP02-EN134" class="mw-redirect">BP02-EN134</a></td>
+      <td>"<a href="/wiki/Horn_of_the_Unicorn" title="Horn of the Unicorn">Horn of the Unicorn</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN135" title="BP02-EN135" class="mw-redirect">BP02-EN135</a></td>
+      <td>"<a href="/wiki/Premature_Burial" title="Premature Burial">Premature Burial</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN136" title="BP02-EN136" class="mw-redirect">BP02-EN136</a></td>
+      <td>"<a href="/wiki/Scapegoat" title="Scapegoat">Scapegoat</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN137" title="BP02-EN137" class="mw-redirect">BP02-EN137</a></td>
+      <td>"<a href="/wiki/Graceful_Charity" title="Graceful Charity">Graceful Charity</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN138" title="BP02-EN138" class="mw-redirect">BP02-EN138</a></td>
+      <td>"<a href="/wiki/Book_of_Moon" title="Book of Moon">Book of Moon</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN139" title="BP02-EN139" class="mw-redirect">BP02-EN139</a></td>
+      <td>"<a href="/wiki/Reasoning" title="Reasoning">Reasoning</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN140" title="BP02-EN140" class="mw-redirect">BP02-EN140</a></td>
+      <td>"<a href="/wiki/Autonomous_Action_Unit" title="Autonomous Action Unit">Autonomous Action Unit</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN141" title="BP02-EN141" class="mw-redirect">BP02-EN141</a></td>
+      <td>"<a href="/wiki/Big_Bang_Shot" title="Big Bang Shot">Big Bang Shot</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN142" title="BP02-EN142" class="mw-redirect">BP02-EN142</a></td>
+      <td>"<a href="/wiki/Riryoku" title="Riryoku">Riryoku</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN143" title="BP02-EN143" class="mw-redirect">BP02-EN143</a></td>
+      <td>"<a href="/wiki/Gravity_Axe_-_Grarl" title="Gravity Axe - Grarl">Gravity Axe - Grarl</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN144" title="BP02-EN144" class="mw-redirect">BP02-EN144</a></td>
+      <td>"<a href="/wiki/Enemy_Controller" title="Enemy Controller">Enemy Controller</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN145" title="BP02-EN145" class="mw-redirect">BP02-EN145</a></td>
+      <td>"<a href="/wiki/Earthquake" title="Earthquake">Earthquake</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN146" title="BP02-EN146" class="mw-redirect">BP02-EN146</a></td>
+      <td>"<a href="/wiki/Shrink" title="Shrink">Shrink</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN147" title="BP02-EN147" class="mw-redirect">BP02-EN147</a></td>
+      <td>"<a href="/wiki/Swords_of_Concealing_Light" title="Swords of Concealing Light">Swords of Concealing Light</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN148" title="BP02-EN148" class="mw-redirect">BP02-EN148</a></td>
+      <td>"<a href="/wiki/Nightmare%27s_Steelcage" title="Nightmare's Steelcage">Nightmare's Steelcage</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN149" title="BP02-EN149" class="mw-redirect">BP02-EN149</a></td>
+      <td>"<a href="/wiki/Mausoleum_of_the_Emperor" title="Mausoleum of the Emperor">Mausoleum of the Emperor</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Field_Spell_Card" title="Field Spell Card">Field</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN150" title="BP02-EN150" class="mw-redirect">BP02-EN150</a></td>
+      <td>"<a href="/wiki/Card_Trader" title="Card Trader">Card Trader</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN151" title="BP02-EN151" class="mw-redirect">BP02-EN151</a></td>
+      <td>"<a href="/wiki/Fiend%27s_Sanctuary" title="Fiend's Sanctuary">Fiend's Sanctuary</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN152" title="BP02-EN152" class="mw-redirect">BP02-EN152</a></td>
+      <td>"<a href="/wiki/Union_Attack" title="Union Attack">Union Attack</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN153" title="BP02-EN153" class="mw-redirect">BP02-EN153</a></td>
+      <td>"<a href="/wiki/Fighting_Spirit" title="Fighting Spirit">Fighting Spirit</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN154" title="BP02-EN154" class="mw-redirect">BP02-EN154</a></td>
+      <td>"<a href="/wiki/Star_Blast" title="Star Blast">Star Blast</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN155" title="BP02-EN155" class="mw-redirect">BP02-EN155</a></td>
+      <td>"<a href="/wiki/Forbidden_Chalice" title="Forbidden Chalice">Forbidden Chalice</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN156" title="BP02-EN156" class="mw-redirect">BP02-EN156</a></td>
+      <td>"<a href="/wiki/Reptilianne_Rage" title="Reptilianne Rage">Reptilianne Rage</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN157" title="BP02-EN157" class="mw-redirect">BP02-EN157</a></td>
+      <td>"<a href="/wiki/Rocket_Pilder" title="Rocket Pilder">Rocket Pilder</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN158" title="BP02-EN158" class="mw-redirect">BP02-EN158</a></td>
+      <td>"<a href="/wiki/Half_Shut" title="Half Shut">Half Shut</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN159" title="BP02-EN159" class="mw-redirect">BP02-EN159</a></td>
+      <td>"<a href="/wiki/Cursed_Armaments" title="Cursed Armaments">Cursed Armaments</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN160" title="BP02-EN160" class="mw-redirect">BP02-EN160</a></td>
+      <td>"<a href="/wiki/Pot_of_Duality" title="Pot of Duality">Pot of Duality</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN161" title="BP02-EN161" class="mw-redirect">BP02-EN161</a></td>
+      <td>"<a href="/wiki/Axe_of_Fools" title="Axe of Fools">Axe of Fools</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Equip_Spell_Card" title="Equip Spell Card">Equip</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN162" title="BP02-EN162" class="mw-redirect">BP02-EN162</a></td>
+      <td>"<a href="/wiki/Forbidden_Lance" title="Forbidden Lance">Forbidden Lance</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN163" title="BP02-EN163" class="mw-redirect">BP02-EN163</a></td>
+      <td>"<a href="/wiki/Blustering_Winds" title="Blustering Winds">Blustering Winds</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN164" title="BP02-EN164" class="mw-redirect">BP02-EN164</a></td>
+      <td>"<a href="/wiki/Ego_Boost" title="Ego Boost">Ego Boost</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN165" title="BP02-EN165" class="mw-redirect">BP02-EN165</a></td>
+      <td>"<a href="/wiki/Shard_of_Greed" title="Shard of Greed">Shard of Greed</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Spell_Card" title="Continuous Spell Card">Continuous</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN166" title="BP02-EN166" class="mw-redirect">BP02-EN166</a></td>
+      <td>"<a href="/wiki/Full-Force_Strike" title="Full-Force Strike">Full-Force Strike</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN167" title="BP02-EN167" class="mw-redirect">BP02-EN167</a></td>
+      <td>"<a href="/wiki/Photon_Sanctuary" title="Photon Sanctuary">Photon Sanctuary</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Spell_Card" title="Normal Spell Card">Normal</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN168" title="BP02-EN168" class="mw-redirect">BP02-EN168</a></td>
+      <td>"<a href="/wiki/Forbidden_Dress" title="Forbidden Dress">Forbidden Dress</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Quick-Play_Spell_Card" title="Quick-Play Spell Card">Quick-Play</a> <a href="/wiki/Spell_Card" title="Spell Card">Spell Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN169" title="BP02-EN169" class="mw-redirect">BP02-EN169</a></td>
+      <td>"<a href="/wiki/Reverse_Trap" title="Reverse Trap">Reverse Trap</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN170" title="BP02-EN170" class="mw-redirect">BP02-EN170</a></td>
+      <td>"<a href="/wiki/Waboku" title="Waboku">Waboku</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN171" title="BP02-EN171" class="mw-redirect">BP02-EN171</a></td>
+      <td>"<a href="/wiki/Call_of_the_Haunted" title="Call of the Haunted">Call of the Haunted</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN172" title="BP02-EN172" class="mw-redirect">BP02-EN172</a></td>
+      <td>"<a href="/wiki/Mirror_Wall" title="Mirror Wall">Mirror Wall</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN173" title="BP02-EN173" class="mw-redirect">BP02-EN173</a></td>
+      <td>"<a href="/wiki/Metalmorph" title="Metalmorph">Metalmorph</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN174" title="BP02-EN174" class="mw-redirect">BP02-EN174</a></td>
+      <td>"<a href="/wiki/Mask_of_Weakness" title="Mask of Weakness">Mask of Weakness</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN175" title="BP02-EN175" class="mw-redirect">BP02-EN175</a></td>
+      <td>"<a href="/wiki/Reckless_Greed" title="Reckless Greed">Reckless Greed</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN176" title="BP02-EN176" class="mw-redirect">BP02-EN176</a></td>
+      <td>"<a href="/wiki/Rope_of_Life" title="Rope of Life">Rope of Life</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN177" title="BP02-EN177" class="mw-redirect">BP02-EN177</a></td>
+      <td>"<a href="/wiki/Windstorm_of_Etaqua" title="Windstorm of Etaqua">Windstorm of Etaqua</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN178" title="BP02-EN178" class="mw-redirect">BP02-EN178</a></td>
+      <td>"<a href="/wiki/Zero_Gravity" title="Zero Gravity">Zero Gravity</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN179" title="BP02-EN179" class="mw-redirect">BP02-EN179</a></td>
+      <td>"<a href="/wiki/A_Hero_Emerges" title="A Hero Emerges">A Hero Emerges</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN180" title="BP02-EN180" class="mw-redirect">BP02-EN180</a></td>
+      <td>"<a href="/wiki/Embodiment_of_Apophis" title="Embodiment of Apophis">Embodiment of Apophis</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN181" title="BP02-EN181" class="mw-redirect">BP02-EN181</a></td>
+      <td>"<a href="/wiki/Draining_Shield" title="Draining Shield">Draining Shield</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN182" title="BP02-EN182" class="mw-redirect">BP02-EN182</a></td>
+      <td>"<a href="/wiki/Curse_of_Anubis" title="Curse of Anubis">Curse of Anubis</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN183" title="BP02-EN183" class="mw-redirect">BP02-EN183</a></td>
+      <td>"<a href="/wiki/Labyrinth_of_Nightmare_(card)" title="Labyrinth of Nightmare (card)">Labyrinth of Nightmare</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN184" title="BP02-EN184" class="mw-redirect">BP02-EN184</a></td>
+      <td>"<a href="/wiki/Threatening_Roar" title="Threatening Roar">Threatening Roar</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN185" title="BP02-EN185" class="mw-redirect">BP02-EN185</a></td>
+      <td>"<a href="/wiki/Rising_Energy" title="Rising Energy">Rising Energy</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN186" title="BP02-EN186" class="mw-redirect">BP02-EN186</a></td>
+      <td>"<a href="/wiki/Magical_Arm_Shield" title="Magical Arm Shield">Magical Arm Shield</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN187" title="BP02-EN187" class="mw-redirect">BP02-EN187</a></td>
+      <td>"<a href="/wiki/Shattered_Axe" title="Shattered Axe">Shattered Axe</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN188" title="BP02-EN188" class="mw-redirect">BP02-EN188</a></td>
+      <td>"<a href="/wiki/Stronghold_the_Moving_Fortress" title="Stronghold the Moving Fortress">Stronghold the Moving Fortress</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN189" title="BP02-EN189" class="mw-redirect">BP02-EN189</a></td>
+      <td>"<a href="/wiki/Strike_Slash" title="Strike Slash">Strike Slash</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN190" title="BP02-EN190" class="mw-redirect">BP02-EN190</a></td>
+      <td>"<a href="/wiki/No_Entry!!" title="No Entry!!">No Entry!!</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN191" title="BP02-EN191" class="mw-redirect">BP02-EN191</a></td>
+      <td>"<a href="/wiki/Cloning" title="Cloning">Cloning</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN192" title="BP02-EN192" class="mw-redirect">BP02-EN192</a></td>
+      <td>"<a href="/wiki/Sinister_Seeds" title="Sinister Seeds">Sinister Seeds</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN193" title="BP02-EN193" class="mw-redirect">BP02-EN193</a></td>
+      <td>"<a href="/wiki/Metal_Reflect_Slime" title="Metal Reflect Slime">Metal Reflect Slime</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN194" title="BP02-EN194" class="mw-redirect">BP02-EN194</a></td>
+      <td>"<a href="/wiki/Zoma_the_Spirit" title="Zoma the Spirit">Zoma the Spirit</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN195" title="BP02-EN195" class="mw-redirect">BP02-EN195</a></td>
+      <td>"<a href="/wiki/Miniaturize" title="Miniaturize">Miniaturize</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN196" title="BP02-EN196" class="mw-redirect">BP02-EN196</a></td>
+      <td>"<a href="/wiki/Spacegate" title="Spacegate">Spacegate</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN197" title="BP02-EN197" class="mw-redirect">BP02-EN197</a></td>
+      <td>"<a href="/wiki/Overworked" title="Overworked">Overworked</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN198" title="BP02-EN198" class="mw-redirect">BP02-EN198</a></td>
+      <td>"<a href="/wiki/Kunai_with_Chain" title="Kunai with Chain">Kunai with Chain</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN199" title="BP02-EN199" class="mw-redirect">BP02-EN199</a></td>
+      <td>"<a href="/wiki/Prideful_Roar" title="Prideful Roar">Prideful Roar</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN200" title="BP02-EN200" class="mw-redirect">BP02-EN200</a></td>
+      <td>"<a href="/wiki/Time_Machine" title="Time Machine">Time Machine</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN201" title="BP02-EN201" class="mw-redirect">BP02-EN201</a></td>
+      <td>"<a href="/wiki/Half_or_Nothing" title="Half or Nothing">Half or Nothing</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN202" title="BP02-EN202" class="mw-redirect">BP02-EN202</a></td>
+      <td>"<a href="/wiki/Miracle_Locus" title="Miracle Locus">Miracle Locus</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN203" title="BP02-EN203" class="mw-redirect">BP02-EN203</a></td>
+      <td>"<a href="/wiki/Skill_Successor" title="Skill Successor">Skill Successor</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN204" title="BP02-EN204" class="mw-redirect">BP02-EN204</a></td>
+      <td>"<a href="/wiki/Power_Frame" title="Power Frame">Power Frame</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN205" title="BP02-EN205" class="mw-redirect">BP02-EN205</a></td>
+      <td>"<a href="/wiki/Damage_Gate" title="Damage Gate">Damage Gate</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN206" title="BP02-EN206" class="mw-redirect">BP02-EN206</a></td>
+      <td>"<a href="/wiki/Miracle%27s_Wake" title="Miracle's Wake">Miracle's Wake</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN207" title="BP02-EN207" class="mw-redirect">BP02-EN207</a></td>
+      <td>"<a href="/wiki/Half_Counter" title="Half Counter">Half Counter</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN208" title="BP02-EN208" class="mw-redirect">BP02-EN208</a></td>
+      <td>"<a href="/wiki/The_Golden_Apples" title="The Golden Apples">The Golden Apples</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN209" title="BP02-EN209" class="mw-redirect">BP02-EN209</a></td>
+      <td>"<a href="/wiki/Tiki_Curse" title="Tiki Curse">Tiki Curse</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN210" title="BP02-EN210" class="mw-redirect">BP02-EN210</a></td>
+      <td>"<a href="/wiki/Tiki_Soul" title="Tiki Soul">Tiki Soul</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN211" title="BP02-EN211" class="mw-redirect">BP02-EN211</a></td>
+      <td>"<a href="/wiki/Impenetrable_Attack" title="Impenetrable Attack">Impenetrable Attack</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN212" title="BP02-EN212" class="mw-redirect">BP02-EN212</a></td>
+      <td>"<a href="/wiki/Memory_of_an_Adversary" title="Memory of an Adversary">Memory of an Adversary</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN213" title="BP02-EN213" class="mw-redirect">BP02-EN213</a></td>
+      <td>"<a href="/wiki/Dimension_Gate" title="Dimension Gate">Dimension Gate</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Continuous_Trap_Card" title="Continuous Trap Card">Continuous</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN214" title="BP02-EN214" class="mw-redirect">BP02-EN214</a></td>
+      <td>"<a href="/wiki/Spikeshield_with_Chain" title="Spikeshield with Chain">Spikeshield with Chain</a>"</td>
+      <td><a href="/wiki/Rare" title="Rare">Rare</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+   <tr>
+      <td><a href="/wiki/BP02-EN215" title="BP02-EN215" class="mw-redirect">BP02-EN215</a></td>
+      <td>"<a href="/wiki/Breakthrough_Skill" title="Breakthrough Skill">Breakthrough Skill</a>"</td>
+      <td><a href="/wiki/Common" title="Common">Common</a><br><a href="/wiki/Mosaic_Rare" title="Mosaic Rare">Mosaic Rare</a></td>
+      <td><a href="/wiki/Normal_Trap_Card" title="Normal Trap Card">Normal</a> <a href="/wiki/Trap_Card" title="Trap Card">Trap Card</a></td>
+   </tr>
+</tbody>
