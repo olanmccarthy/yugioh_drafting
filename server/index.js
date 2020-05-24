@@ -46,20 +46,31 @@ function generateSinglePack(number){
   else if (number === 3){
     starfoil = starfoil.concat(['Grenosaurus', "Leviair the Sea Dragon", "Number 10: Illumiknight", "Number 20: Giga-Brilliant", "Lavalval Ignis", "Evigishki Merrowgeist", "Daigusto Emeral", "Gagaga Cowboy", "Heroic Champion - Kusanagi", "Giant Soldier of Steel", "Diamond Dire Wolf", "Tin Archduke", "Fairy Cheer Girl", "Number 44: Sky Pegasus", "Ghostrick Alucard", "Tri-Edge Levia"])
   }
-  var starfoilBeingChosen = Math.floor((Math.random() * starfoil.length));
-  pack.push(starfoil[starfoilBeingChosen]);
 
-  //rare
-  var rareBeingChosen = Math.floor((Math.random() * rareCopy.length));
-  pack.push(rareCopy[rareBeingChosen]);
+  if (number == 5){
+    var starfoilBeingChosen = Math.floor((Math.random() * starfoil.length));
+    pack.push(starfoil[starfoilBeingChosen]);
 
-  //commons
-  for (var i = 0; i < 3; i++){
-    var commonBeingChosen = Math.floor((Math.random() * commonCopy.length));
-    pack.push(commonCopy[commonBeingChosen]);
-    commonCopy.splice(commonBeingChosen, 1);
+    //rare
+    var rareBeingChosen = Math.floor((Math.random() * rareCopy.length));
+    pack.push(rareCopy[rareBeingChosen]);
+
+    //commons
+    for (var i = 0; i < 3; i++){
+      var commonBeingChosen = Math.floor((Math.random() * commonCopy.length));
+      pack.push(commonCopy[commonBeingChosen]);
+      commonCopy.splice(commonBeingChosen, 1);
+    }
+    return pack
+  } else {
+    for (var i = 0; i < 5; i++){
+      var commonBeingChosen = Math.floor((Math.random() * commonCopy.length));
+      pack.push(commonCopy[commonBeingChosen]);
+      commonCopy.splice(commonBeingChosen, 1);
+    }
   }
-  return pack
+
+
 }
 
 function generatePack(number){
