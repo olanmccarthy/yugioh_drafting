@@ -9,7 +9,7 @@ app.get('/', function(req, res) {
 
 app.use('/client', express.static(__dirname + '/client'));
 
-serv.listen(2000);
+serv.listen(2004);
 console.log('*** STARTING SERVER ***');
 
 var playerCount = 1;
