@@ -15,6 +15,7 @@ console.log('*** STARTING SERVER ***');
 var playerCount = 1;
 var SOCKET_LIST = {};
 var PLAYER_LIST = {};
+var disconnected_id = null;
 
 var Player = function(id){
   var self = {
@@ -39,16 +40,24 @@ var io = require('socket.io')(serv, {});
 
 io.sockets.on('connection', function(socket){
   console.log('socket connection');
-  socket.id = Math.random();
-  SOCKET_LIST[socket.id] = socket;
-  var player = Player(socket.id);
-  player.currentPack = player.packs.pop();
-  PLAYER_LIST[socket.id] = player;
+  if(playerCount > 4){ //someone dc'd
+    console.log('player count > 4')
+    socket.id = disconnected_id;
+    SOCKET_LIST[socket.id] = socket;
+    var player = PLAYER_LIST[socket.id];
+    console.log("player: " + player);
+  } else { //new connection
+    console.log('player count =< 4')
+    socket.id = Math.random();
+    SOCKET_LIST[socket.id] = socket;
+    var player = Player(socket.id);
+    player.currentPack = player.packs.pop();
+    PLAYER_LIST[socket.id] = player;
+    console.log("player: " + player);
+  }
 
   socket.on('disconnect', function(){
-    delete SOCKET_LIST[socket.id];
-    delete PLAYER_LIST[socket.id];
-    playerCount --;
+    disconnected_id = socket.id
     console.log('socket disconnection')
   });
 

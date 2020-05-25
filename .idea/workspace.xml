@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbc4851d-e7c7-427a-87c7-9c82651105dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="dbc4851d-e7c7-427a-87c7-9c82651105dd" name="Default Changelist" comment="fixed dark format having multiples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,11 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
@@ -92,8 +97,16 @@
       <workItem from="1566815004435" duration="14197000" />
       <workItem from="1566975854852" duration="6371000" />
       <workItem from="1566984647978" duration="6499000" />
-      <workItem from="1590420450600" duration="1767000" />
+      <workItem from="1590420450600" duration="2835000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed dark format having multiples">
+      <created>1590422302455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590422302455</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,15 +123,23 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed dark format having multiples" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed dark format having multiples" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="162" y="127" width="1658" height="853" key="DiffContextDialog" timestamp="1590422012243">
+    <state x="162" y="127" width="1658" height="853" key="DiffContextDialog" timestamp="1590423267071">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="162" y="127" width="1658" height="853" key="DiffContextDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1590422012243" />
+    <state x="162" y="127" width="1658" height="853" key="DiffContextDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1590423267071" />
     <state x="772" y="237" width="427" height="640" key="RollbackChangesDialog" timestamp="1590422075359">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
     <state x="772" y="237" width="427" height="640" key="RollbackChangesDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1590422075359" />
+    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590422306282">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/62.27.1858.1053@62.27.1858.1053" timestamp="1590422306282" />
     <state x="654" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1590421187345">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
