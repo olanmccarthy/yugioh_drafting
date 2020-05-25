@@ -8,32 +8,33 @@ var goatRares = ['Sinister Serpent', 'Jinzo', 'BLS', 'Breaker the Magical Warrio
 var goatCommons = ['Thunder Dragon', 'Magical Merchant', "Gravekeeper's Spy", "Gravekeeper's Guard", 'Dekoichi the Battlechanted Locomotive', 'Bazoo the Soul Eater', 'Dark Mimic LVL 1', 'Skilled Dark Magician', 'Skilled White Magician', 'Shining Angel', 'Mystic Tomato', 'UFO Turtle', 'Pyramid Turtle', 'Giant Rat', 'Penguin Soldier', 'Berserk Gorilla', 'D.D Assailant', 'Don Zaloog', 'Exiled Force', 'Mystic Swordsman LVL 2', 'Ninja Grandmaster Sasuke', 'King Tiger Wanghu', 'Gearfried the Iron Knight', 'Asura Priest', 'Sacred Crane', 'Blade Knight', 'Zaborg the Thunder Monarch', 'Big Shield Gardna', 'Des Koala', 'Newdoria', 'Mask of Darkness', 'Iron Blacksmith Kotetsu', 'Armed Samurai Ben Kei', 'Thestalos the Firestorm Monarch', 'Ryu Kokki', 'Enraged Battle Ox', 'Spell Canceller', 'Gyaku Gire Panda', 'Des Wombat', 'Kycoo the Ghost Destroyer', 'Sacred Phoenix of Nephtys', 'Reflect Bounder', 'Twin-Headed Behemoth', 'Dark Scorpion - Meanea the Thorn', 'Swarm of Scarabs', 'Swarm of Locusts', 'Des Locooda', 'Swarm of Scarabs', 'Swarm of Locusts', 'Des Locooda', 'Mataza the Zapper', 'Chiron the Mage', 'Apprentice Magician', 'Old Vindictive Magician', 'Rescue Cat', 'Zombrya the Dark', 'Legendary Ju-Jitsu Master', 'Medusa Worm', 'D.D Warrior Lady', 'Mobius the Frost Monarch', 'Abyss Soldier', 'Night Assailant', 'Magician of Faith', 'Chaos Sorceror', 'Tsukuyomi', 'Spirit Reaper', 'Vampire Lord', 'Airknight Parsath', 'Smoke Grenade of the Thief', 'Monster Gate', 'Mind Control', 'Brain Control', 'Soul Exchange', 'Monster Reincarnation', 'Wave Motion Cannon', 'Book of Taiyou', 'Axe of Despair', 'Big Bang Shot', 'Book of Moon', 'Enemy Controller', 'Smashing Ground', 'Book of Life', 'My Body as a Shield', 'Dragged Down from the Grave', 'Upstart Goblin', 'Offerings to the Doomed', 'The Warrior Returning Alive', 'Fissure', 'Wicked-Breaking Flamberge - Baou', 'Swords of Concealing Light', 'Last Will', 'Lightining Vortex', 'Swords of Revealing Light', 'Card Destruction', 'United We Stand', 'Mage Power', 'Nobleman of Crossout', 'Creature Swap', 'Reinforcement of the Army', 'Giant Trunade', 'Reasoning', 'Scapegoat', 'Dust Tornado', 'Phoenix Wing Wind Blast', 'Raigeki Break', 'Jar of Greed', 'Secret Barrel', 'Just Deserts', 'Ojama Trio', 'Spell Shield Type A', 'Widespread Ruin', 'Light of Intervention', 'Threatening Roar', 'Magic Jammer', 'Seven Tools of the Bandit', 'Royal Decree', 'Anti-Spell Fragrance', 'Waboku', 'Bottomless Trap Hole', 'Blast With Chain', 'Mind Crush', 'Needle Ceiling', 'Divine Wrath', 'Xing Zhen Hu', 'Magic Drain', 'Deck Devastation Virus', 'Magical Cylinder', 'Ceasefire', 'Last Turn', 'Trap Dustshoot', 'Skill Drain', 'Sakuretsu Armour', 'Solemn Judgment', 'Compulsory Evacuation Device'];
 var darks = ['Aloof Lupine', ' Axe Dragonute', ' Blast Sphere', ' BM-4 Blast Spider', ' Chaos Dragon Levianeer', ' Curse Necrofear', ' D.D Patrol Plane', ' D.D. Survivor', ' Dark General Freed', ' Dark Horus', ' Dark Hunter', ' Dark Magician of Chaos', ' Dark Nephtys', ' Darkflare Dragon', ' Darknight Parshath', ' Despair from the Dark', ' Desperado Barrel Dragon', ' Destiny Hero - Doom Lord', ' Destiny Hero - Double Dude', ' Dharc the Dark Charmer', ' Diablos King of the Abyss', ' Don Zaloog', ' Doomsdayt Horror', ' Double Coston', ' Elementsaber Molehu', ' Flash Assailant', ' Fusilier Dragon', ' the Dual-Mode Beast', ' Goblin Decoy Squad', ' Jack Wyvern', ' Lancer Dragonute', ' Malice', ' Lady of Lament', ' Necroface', ' Prometheus', ' King of Shadows', ' Red Eyes Darkness Metal Dragon', ' Scapeghost', ' Shadowpriestess of Ohm', ' The Dark Creator', ' Trance Archfiend', ' Twin-Barrel Dragon', ' Castle of Dragon Souls', ' Dark Mirror Force', ' Dark Spirit Art - Greed', ' Darklight', ' Destruction Jammer', ' Destructive Draw', ' Different Dimension Encounter', ' Dimension Reflector', ' Escape from the Dark Dimension', ' Fiend Griefing', ' Hidden Soldiers', ' Paleozoic Dinomischus', ' Premature Return', ' Rainbow Life', ' Rope of Life', ' Storm Dragons Return', ' Tiki Curse', ' Tiki Soul', ' Trap of Darkness', ' Fairy Box', ' Guarded Trasure', 'Heart of Clear Water', 'Hidden Armoury', 'Megamorph', 'Overdone Burial', ' Pot of acquisitiveness', 'Roullette Spider', 'Solitary Sword of Poison', ' Stop Defense', 'Summon Dice', 'Sword of Dark Rites', 'The Bgeinning of the End', 'Tornado', ' Break! Draw!', 'Burial from a Different Dimension', 'Chaos End', 'Chaos Greed', 'Chosen One', 'Cost Down', 'Cup of Ace', 'Cursed Armaments', 'D.D.R. - Different Dimension Reincarnation', 'Dangerous Machine Type-6', 'Dark Mambele', 'Darkworld Shackles', 'Dicephoon', 'Different Dimension Gate', 'Double Attack', 'Double Spell', 'Dragged Down into the Grave', 'Final Destiny', 'gold moon coin', ' guardian axe grawrl', ' Blackwing Bora The Spear', ' Breaker The Dark Magical Warrior', 'Caius The shadow Monarch', 'Kycoo The Ghost Destroyer', 'Mask Of Darkness', 'Mystic Tomato', ' Pitch Black Warewolf', 'Plague Wolf', 'Regenerating Mummy', 'Spirit Reaper', ' Witch Doctor of Chaos', 'Dark Core', 'Lightning Vortex', 'Magical Stone Excavation', 'Monster Reincarnation', 'Mystical SpaceTyphoon', 'Scapegoat', 'Accumulated Fortune', 'Call of the Haunted', 'Divine Wrath', 'Embodiement of Apophis', 'Jar of Greed', 'Karma Cut', ' Raigeki Break', ' Torrential Tribute']
 function generateSinglePack(number){
+  console.log('generateSinglePack running');
   var rareCopy;
   var commonCopy;
   switch (number) {
     case 1:
-      rareCopy = BP1rares;
-      commonCopy = BP1commons;
+      rareCopy = [...BP1rares];
+      commonCopy = [...BP1commons];
       break;
     case 2:
-      rareCopy = BP2rares;
-      commonCopy = BP2commons;
+      rareCopy = [...BP2rares];
+      commonCopy = [...BP2commons];
       break;
     case 3:
-      rareCopy = BP3rares;
-      commonCopy = BP3commons;
+      rareCopy = [...BP3rares];
+      commonCopy = [...BP3commons];
       break;
     case 4:
-      rareCopy = goatRares;
-      commonCopy = goatCommons;
+      rareCopy = [...goatRares];
+      commonCopy = [...goatCommons];
       break;
     case 5:
-      rareCopy = darks;
-      commonCopy = darks;
+      rareCopy = [...darks];
+      commonCopy = [...darks];
       break;
     default:
-      rareCopy = BP1rares;
-      commonCopy = BP1commons;
+      rareCopy = [...BP1rares];
+      commonCopy = [...BP1commons];
   }
 
   var pack = [];
@@ -75,6 +76,7 @@ function generateSinglePack(number){
 }
 
 function generatePack(number){
+  console.log("generatePack running")
   if(number !== 5){
     var pack1 = generateSinglePack(number);
     var pack2 = generateSinglePack(number);
