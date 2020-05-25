@@ -47,7 +47,7 @@ function generateSinglePack(number){
     starfoil = starfoil.concat(['Grenosaurus', "Leviair the Sea Dragon", "Number 10: Illumiknight", "Number 20: Giga-Brilliant", "Lavalval Ignis", "Evigishki Merrowgeist", "Daigusto Emeral", "Gagaga Cowboy", "Heroic Champion - Kusanagi", "Giant Soldier of Steel", "Diamond Dire Wolf", "Tin Archduke", "Fairy Cheer Girl", "Number 44: Sky Pegasus", "Ghostrick Alucard", "Tri-Edge Levia"])
   }
 
-  if (number == 5){
+  if (number !== 5){
     var starfoilBeingChosen = Math.floor((Math.random() * starfoil.length));
     pack.push(starfoil[starfoilBeingChosen]);
 
@@ -63,20 +63,26 @@ function generateSinglePack(number){
     }
     return pack
   } else {
-    for (var i = 0; i < 5; i++){
+    for (var i = 0; i < 10; i++){
       var commonBeingChosen = Math.floor((Math.random() * commonCopy.length));
       pack.push(commonCopy[commonBeingChosen]);
       commonCopy.splice(commonBeingChosen, 1);
     }
+    return pack;
   }
 
 
 }
 
 function generatePack(number){
-  var pack1 = generateSinglePack(number);
-  var pack2 = generateSinglePack(number);
-  return pack1.concat(pack2)
+  if(number !== 5){
+    var pack1 = generateSinglePack(number);
+    var pack2 = generateSinglePack(number);
+    return pack1.concat(pack2);
+  }
+  else {
+    return generateSinglePack(number);
+  }
 }
 
 module.exports = { generatePack };
