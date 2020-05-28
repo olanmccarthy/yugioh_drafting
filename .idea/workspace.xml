@@ -19,31 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbc4851d-e7c7-427a-87c7-9c82651105dd" name="Default Changelist" comment="fixed dark format having multiples">
-      <change afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
+    <list default="true" id="dbc4851d-e7c7-427a-87c7-9c82651105dd" name="Default Changelist" comment="made 5 players">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>;</find>
-      <find>&lt;/</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>:</replace>
-      <replace>,</replace>
-      <replace>&lt;/</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="json_setlist" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,7 +116,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed dark format having multiples" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed dark format having multiples" />
+    <MESSAGE value="made 5 players" />
+    <option name="LAST_COMMIT_MESSAGE" value="made 5 players" />
   </component>
   <component name="WindowStateProjectService">
     <state x="162" y="127" width="1658" height="853" key="DiffContextDialog" timestamp="1590423267071">

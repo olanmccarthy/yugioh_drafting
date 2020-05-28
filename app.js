@@ -9,7 +9,7 @@ app.get('/', function(req, res) {
 
 app.use('/client', express.static(__dirname + '/client'));
 
-serv.listen(2008);
+serv.listen(2010);
 console.log('*** STARTING SERVER ***');
 
 var playerCount = 1;
@@ -82,7 +82,7 @@ setInterval(function(){
       playerReadyCount ++;
     }
   }
-  if (playerReadyCount === 4){ //everyone is ready
+  if (playerReadyCount === 5){ //everyone is ready
     //swap currentPacks into outgoingPacks
     var outgoingPacks = [];
     var count = 0;
