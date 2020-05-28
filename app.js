@@ -1,7 +1,25 @@
 var express = require('express');
 var app = express();
+var fs = require("fs");
 var serv = require('http').Server(app);
 var { generatePack } = require('./server');
+var masterSetData = fs.readFileSync('./sets/index.json');
+
+var masterSet = JSON.parse(masterSetData);
+console.log("MASTER SET:");
+console.log(masterSet);
+
+//port number to server is listening to
+var port = 2009;
+//number of players drafting
+var players = 4;
+//name of set being drafted
+var setName = process.argv[2];
+var pathName = "./sets/" + setName + ".json"
+
+var currentSet = masterSet.sets[setName];
+console.log("CURRENT SET:");
+console.log(currentSet);
 
 app.get('/', function(req, res) {
   res.sendFile(__dirname + '/client/index.html')
@@ -9,8 +27,8 @@ app.get('/', function(req, res) {
 
 app.use('/client', express.static(__dirname + '/client'));
 
-serv.listen(2008);
-console.log('*** STARTING SERVER ***');
+serv.listen(port);
+console.log('*** STARTING SERVER @ leela.netsoc.co:' + port + ' ***');
 
 var playerCount = 1;
 var SOCKET_LIST = {};
@@ -22,12 +40,7 @@ var Player = function(id){
     id: id,
     deck : [],
     isReady : false,
-    packs : [
-      generatePack(5),
-      generatePack(5),
-      generatePack(5),
-      generatePack(5),
-      generatePack(5)],
+    packs : generatePacks(currentSet),
     currentPack : [],
     outgoingPack: [],
     playerNo: playerCount,
@@ -40,14 +53,14 @@ var io = require('socket.io')(serv, {});
 
 io.sockets.on('connection', function(socket){
   console.log('socket connection');
-  if(playerCount > 4){ //someone dc'd
-    console.log('player count > 4')
+  if(playerCount > players){ //someone dc'd
+    console.log('player count > ' + players)
     socket.id = disconnected_id;
     SOCKET_LIST[socket.id] = socket;
     var player = PLAYER_LIST[socket.id];
     console.log("player: " + player);
   } else { //new connection
-    console.log('player count =< 4')
+    console.log('player count =< ' + players)
     socket.id = Math.random();
     SOCKET_LIST[socket.id] = socket;
     var player = Player(socket.id);
@@ -73,6 +86,14 @@ io.sockets.on('connection', function(socket){
   })
 });
 
+function generatePacks(currentSet){
+  var packs = [];
+  for(let i = 0; i < currentSet.amountOfPacks; i++){
+    packs.push(generatePack(currentSet.setName));
+  }
+  return packs;
+}
+
 setInterval(function(){
   var playerReadyCount = 0;
   for (var i in PLAYER_LIST){ //check all players are ready
@@ -82,7 +103,7 @@ setInterval(function(){
       playerReadyCount ++;
     }
   }
-  if (playerReadyCount === 4){ //everyone is ready
+  if (playerReadyCount === players){ //everyone is ready
     //swap currentPacks into outgoingPacks
     var outgoingPacks = [];
     var count = 0;

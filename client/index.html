@@ -18,12 +18,12 @@
     context.clearRect(0, 0, 1280, 900);
     for (var i in data.currentPack){
       context.fillText(i, packX - 10, packY);
-      context.fillText(data.currentPack[i], packX, packY);
+      context.fillText(data.currentPack[i].name, packX, packY);
       packY = packY + 30;
     }
     context.fillText('Deck:', deckX, deckY - 15);
     for (var j in data.deck){
-      context.fillText(data.deck[j], deckX, deckY);
+      context.fillText(data.deck[j].name, deckX, deckY);
       deckY = deckY + 15;
     }
   });
