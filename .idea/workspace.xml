@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590422302455</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="made 5 players">
+      <created>1590697510634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590697510634</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,10 +139,10 @@
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
     <state x="772" y="237" width="427" height="640" key="RollbackChangesDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1590422075359" />
-    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590422306282">
+    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590697545939">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/62.27.1858.1053@62.27.1858.1053" timestamp="1590422306282" />
+    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/62.27.1858.1053@62.27.1858.1053" timestamp="1590697545939" />
     <state x="654" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1590421187345">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>

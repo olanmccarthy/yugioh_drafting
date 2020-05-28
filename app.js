@@ -40,7 +40,7 @@ var io = require('socket.io')(serv, {});
 
 io.sockets.on('connection', function(socket){
   console.log('socket connection');
-  if(playerCount > 4){ //someone dc'd
+  if(playerCount > 5){ //someone dc'd
     console.log('player count > 4')
     socket.id = disconnected_id;
     SOCKET_LIST[socket.id] = socket;
