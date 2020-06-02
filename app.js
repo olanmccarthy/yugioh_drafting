@@ -1,7 +1,21 @@
 var express = require('express');
 var app = express();
+var fs = require("fs");
 var serv = require('http').Server(app);
 var { generatePack } = require('./server');
+var masterSetData = fs.readFileSync('./sets/index.json');
+
+var masterSet = JSON.parse(masterSetData);
+
+//port number to server is listening to
+var port = 2015;
+//number of players drafting
+var players = parseInt(process.argv[3]);
+//name of set being drafted
+var setName = process.argv[2];
+var pathName = "./sets/" + setName + ".json"
+
+var currentSet = masterSet.sets[setName];
 
 app.get('/', function(req, res) {
   res.sendFile(__dirname + '/client/index.html')
@@ -9,8 +23,8 @@ app.get('/', function(req, res) {
 
 app.use('/client', express.static(__dirname + '/client'));
 
-serv.listen(2011);
-console.log('*** STARTING SERVER ***');
+serv.listen(port);
+console.log('*** STARTING SERVER @ leela.netsoc.co:' + port + ' ***');
 
 var playerCount = 1;
 var SOCKET_LIST = {};
@@ -22,12 +36,7 @@ var Player = function(id){
     id: id,
     deck : [],
     isReady : false,
-    packs : [
-      generatePack(5),
-      generatePack(5),
-      generatePack(5),
-      generatePack(5),
-      generatePack(5)],
+    packs : generatePacks(currentSet),
     currentPack : [],
     outgoingPack: [],
     playerNo: playerCount,
@@ -40,21 +49,23 @@ var io = require('socket.io')(serv, {});
 
 io.sockets.on('connection', function(socket){
   console.log('socket connection');
-  if(playerCount > 5){ //someone dc'd
-    console.log('player count > 4')
+  if(playerCount > players){ //someone dc'd
+    //console.log('player count > ' + players)
     socket.id = disconnected_id;
     SOCKET_LIST[socket.id] = socket;
     var player = PLAYER_LIST[socket.id];
-    console.log("player: " + player);
+    //console.log("player: " + player);
   } else { //new connection
-    console.log('player count =< 4')
+    //console.log('player count =< ' + players)
     socket.id = Math.random();
     SOCKET_LIST[socket.id] = socket;
     var player = Player(socket.id);
     player.currentPack = player.packs.pop();
     PLAYER_LIST[socket.id] = player;
-    console.log("player: " + player);
+    //console.log("player: " + player);
   }
+  //draw initial pack
+  socket.emit('drawPack', player.currentPack);
 
   socket.on('disconnect', function(){
     disconnected_id = socket.id
@@ -62,7 +73,7 @@ io.sockets.on('connection', function(socket){
   });
 
   socket.on('cardChosen', function(data){
-    console.log('player', player.id, ' choose ', data.cardChosen);
+    //console.log('player', player.id, ' choose ', data.cardChosen);
     if (!player.isReady){
       player.deck.push(player.currentPack[data.cardChosen]);
       player.currentPack.splice(data.cardChosen, 1);
@@ -73,6 +84,14 @@ io.sockets.on('connection', function(socket){
   })
 });
 
+function generatePacks(currentSet){
+  var packs = [];
+  for(let i = 0; i < currentSet.amountOfPacks; i++){
+    packs.push(generatePack(currentSet.setName));
+  }
+  return packs;
+}
+
 setInterval(function(){
   var playerReadyCount = 0;
   for (var i in PLAYER_LIST){ //check all players are ready
@@ -82,7 +101,9 @@ setInterval(function(){
       playerReadyCount ++;
     }
   }
-  if (playerReadyCount === 5){ //everyone is ready
+
+  if (playerReadyCount === players){ //everyone is ready
+    console.log('all players ready to swap')
     //swap currentPacks into outgoingPacks
     var outgoingPacks = [];
     var count = 0;
@@ -98,12 +119,16 @@ setInterval(function(){
     }
     for (var n in PLAYER_LIST){
       if (PLAYER_LIST[n].currentPack.length === 0){ //players still without packs after swap
-        console.log('players still without packs after swap');
+        //console.log('players still without packs after swap');
         for (var k in PLAYER_LIST){
           PLAYER_LIST[k].currentPack = PLAYER_LIST[k].packs.pop();
         }
         break;
       }
+    }
+    for (var j in SOCKET_LIST){ //sends updated data
+      var socket = SOCKET_LIST[j];
+      socket.emit('drawPack', PLAYER_LIST[j].currentPack);
     }
   }
   for (var j in SOCKET_LIST){ //sends updated data

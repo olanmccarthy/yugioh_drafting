@@ -1,3 +1,5 @@
+var fs = require("fs");
+
 var BP1rares = ['Witch of the Black Forest', 'Cyber Jar', 'Jinzo', 'Injection Fairy Lily', 'Dark Dust Spirit', 'Skull Archfiend of Lightning', 'Dark Magician of Chaos', 'Blowback Dragon', 'Mobius the Frost Monarch', 'Fox Fire', 'Ancient Gear Golem', 'Treeborn Frog', 'Super Conductor Tyranno', 'Gorz the Emissary of Darkness', 'Raiza the Storm Monarch', 'White Night Dragon', 'Deep Diver', 'Caius the Shadow Monarch', 'Krebons', 'Tragoedia', 'Obelisk the Tormentor', 'Machina Fortress', 'Tour Guide From the Underworld', 'Number 39: Utopia', 'Gachi Gachi Gantetsu', 'Grenosaurus', 'Number 17: Leviathan Dragon', 'Wind-Up Zenmaister', 'Tiras, Keeper of Genesis', 'Adreus, Keeper of Armageddon', 'Gem-Knight Pearl', 'Raigeki', 'Swords of Revealing Light', 'Pot of Greed', "Harpie's Feather Duster", 'Graceful Charity', 'Change of Heart', 'Heavy Storm', 'Snatch Steal', 'Premature Burial', 'Soul Exchange', 'Scapegoat', 'United We Stand', 'Creature Swap', 'Burden of the Mighty', 'Pot of Duality', 'Solemn Judgment', 'Mirror Force', 'Call of the Haunted', 'Ring of Destruction', 'Torrential Tribute', 'Metal Reflect Slime', 'Skill Drain', 'Divine Wrath', 'Dark Bribe'];
 var BP1commons = ['Greenkappa', 'Penguin Soldier', 'Mysterious Guard', 'Exiled Force', 'Old Vindictive Magician', 'Breaker the Magical Warrior', 'Grave Squirmer', 'Ryko, Lightsworn Hunter', 'Snowman Eater', 'Fissure', 'Tribute to The Doomed', 'Axe of Despair', 'Mystical Space Typhoon', 'Horn of the Unicorn', 'Offerings to the Doomed', 'Bait Doll', 'Book of Moon', 'Autonomous Action Unit', 'Ante', 'Big Bang Shot', "Fiend's Sanctuary", 'Different Dimension Gate', 'Enemy Controller', 'Monster Gate', 'Shield Crush', 'Fighting Spirit', 'Forbidden Chalice', 'Darkworld Shackles', 'Forbidden Lance', 'Infected Mail', 'Ego Boost', 'Kunai with Chain', 'Dust Tornado', 'Windstorm of Etaqua', 'Magic Drain', 'Magic Cylinder', 'Shadow Spell', 'Blast with Chain', 'Needle Ceiling', 'Reckless Greed', 'Nightmare Wheel', 'Spell Shield Type-8', 'Interdimensional Matter Transporter', 'Compulsory Evacuation Device', 'Prideful Roar', 'Half or Nothing', 'Skill Successor', 'Pixie Ring', 'Changing Destiny', 'Fiendish Chain', 'Inverse Universe', "Miracle's Wake", 'Power Frame', 'Damage Gate', 'Liberty at Last!', 'Luster Dragon', 'Archfiend Soldier', 'Mad Dog of Darkness', 'Charcoal Inpachi', 'Insect Knight', 'Gene-Warped Warwolf', 'Buster Blader', 'Goblin Attack Force', 'Bazoo the Soul-Eater', 'Zombyra the Dark', 'Slate Warrior', 'Dark Ruler Ha Des', 'Freed the Matchless General', 'Airknight Parshath', 'Asura Priest', 'Exarion Universe', 'Vampire Lord', 'Toon Gemini Elf', 'King Tiger Wanghu', 'Guardian Sphinx', 'Skilled White Magician', 'Zaborg the Thunder Monarch', 'D.D. Assailant', 'Theban Nightmare', 'The Tricky', 'Raging Flame Sprite', 'Chiron the Mage', 'Cyber Dragon', 'Cybernetic Magician', 'Goblin Elite Attack Force', 'Doomcaliber Knight', 'Chainsaw Insect', 'Card Trooper', 'Voltic Kong', 'Botanical Lion', 'Ancient Gear Knight', 'Blizzard Dragon', 'Beast King Barbaros', 'The Calculator', 'Gaap the Divine Soldier', 'Arcana Force XIV - Temperance', 'Dark Valkyria', 'Alector, Sovereign of Birds', 'Twin-Barrel Dragon', 'Abyssal Kingshark', 'Jurrac Protops', 'Hedge Guard', 'Fabled Ashenveil', 'Backup Warrior', 'Ambitious Gofer', 'Power Giant', 'Card Guard', 'Yaksha', 'Gogogo Golem', 'Big Jaws', 'Wind-Up Soldier', 'Wind-Up Dog', 'Milla the Temporal Magician', 'Ape Fighter', 'Wind-Up Warrior', 'Giant Soldier of Stone', 'Mask of Darkness', 'Morphing Jar', 'Muka Muka', 'Blast Sphere', 'Big Shield Gardna', 'Gilasaurus', 'Possessed Dark Soul', 'Twin-Headed Behemoth', 'Makyura the Destructor', 'Helping Robo for Combat', 'Zolga', 'Chaos Necromancer', 'Stealth Bird', 'Hyper Hammerhead', 'Grave Protector', 'Night Assailant', 'Pitch-Black Warwolf', 'Dekoichi the Battlechanted Locomotive', 'Gyroid', 'Drillroid', 'Gravitic Orb', 'Cloudian - Poison Cloud', 'Des Mosquito', 'Mad Reloader', 'Phantom of Chaos', 'Cyber Valley', 'Blue Thunder T-45', 'Vortex Trooper', 'DUCKER Mobile Cannon', 'Worm Barses', 'Shield Warrior', 'Dark Resonator', 'Noisy Gnat', 'Fabled Raven', 'Fortress Warrior', 'Twin-Sword Marauder', 'Level Warrior', 'Level Eater', 'Naturia Strawberry', 'Battle Fader', 'Amazoness Sage', 'Amazoness Trainee', 'Hardened Armed Dragon', 'Blackwing - Zephyros the Elite', 'Tanngrisnir of the Nordic Beasts', 'Shine Knight', 'Gagaga Magician', 'Goblindbergh', 'Psi-Blocker'];
 var BP2rares = ['Frostosaurus', 'Magician of Faith', 'Cyber Jar', 'The Fiend Megacyber', 'Airknight Parshath', 'Injection Fairy Lily', 'D.D. Warrior Lady', 'Dark Magician of Chaos', 'Guardian Angel Joan', 'Slate Warrior', 'D.D. Assailant', 'Ancient Gear Golem', 'Ultimate Tyranno', 'Super Conductor Tyranno', 'Brain Crusher', 'Evil HERO Malicious Edge', 'Truckroid', 'Cyber Valley', 'Darklord Zerato', 'Belial - Marquis of Darkness', 'Dark Valkyria', 'Phantom Dragon', 'Krebons', 'Splendid Venus', 'Mosaic Manticore', 'Beast King Barbaros', 'White Night Dragon', 'Beast Machine King Barbaros \xc3\x9cr', 'Jurrac Titano', 'Darklord Desire', 'Chaos Hunter', 'Photon Wyvern', 'Cardcar D', 'Bull Blader', 'Mermail Abyssmegalo', 'Hyper-Ancient Shark Megalodon', 'Pyrotech Mech - Shiryu', 'Monster Reborn', 'Pot of Greed', 'Premature Burial', 'Graceful Charity', 'Card Trader', 'Pot of Duality', 'Shard of Greed', 'Full-Force Strike', 'Call of the Haunted', 'Reckless Greed', 'The Golden Apples', 'Memory of an Adversary', 'Spikeshield with Chain'];
@@ -7,84 +9,41 @@ var BP3rares = ['Arsenal Bug', 'Breaker the Magical Warrior', 'Mudora', 'Berserk
 var goatRares = ['Sinister Serpent', 'Jinzo', 'BLS', 'Breaker the Magical Warrior', 'Tribe Infecting Virus', 'Sangan', 'Injection Fairy Lilly', 'Cyber Jar', 'Morphing Jar', 'Dark Magician of Chaos', 'Heavy Storm', 'Snatch Steal', 'Premature Burial', 'Pot of Greed', 'Delinquent Duo', 'Graceful Charity', 'Dimension Fusion', 'Mystical Space Typhoon', 'Level Limit Area B', 'Mirror Force', 'Torrential Tribute', 'Call of the Haunted', 'Ring of Destruction', 'Return from the Different Dimension', 'Gravity Bind'];
 var goatCommons = ['Thunder Dragon', 'Magical Merchant', "Gravekeeper's Spy", "Gravekeeper's Guard", 'Dekoichi the Battlechanted Locomotive', 'Bazoo the Soul Eater', 'Dark Mimic LVL 1', 'Skilled Dark Magician', 'Skilled White Magician', 'Shining Angel', 'Mystic Tomato', 'UFO Turtle', 'Pyramid Turtle', 'Giant Rat', 'Penguin Soldier', 'Berserk Gorilla', 'D.D Assailant', 'Don Zaloog', 'Exiled Force', 'Mystic Swordsman LVL 2', 'Ninja Grandmaster Sasuke', 'King Tiger Wanghu', 'Gearfried the Iron Knight', 'Asura Priest', 'Sacred Crane', 'Blade Knight', 'Zaborg the Thunder Monarch', 'Big Shield Gardna', 'Des Koala', 'Newdoria', 'Mask of Darkness', 'Iron Blacksmith Kotetsu', 'Armed Samurai Ben Kei', 'Thestalos the Firestorm Monarch', 'Ryu Kokki', 'Enraged Battle Ox', 'Spell Canceller', 'Gyaku Gire Panda', 'Des Wombat', 'Kycoo the Ghost Destroyer', 'Sacred Phoenix of Nephtys', 'Reflect Bounder', 'Twin-Headed Behemoth', 'Dark Scorpion - Meanea the Thorn', 'Swarm of Scarabs', 'Swarm of Locusts', 'Des Locooda', 'Swarm of Scarabs', 'Swarm of Locusts', 'Des Locooda', 'Mataza the Zapper', 'Chiron the Mage', 'Apprentice Magician', 'Old Vindictive Magician', 'Rescue Cat', 'Zombrya the Dark', 'Legendary Ju-Jitsu Master', 'Medusa Worm', 'D.D Warrior Lady', 'Mobius the Frost Monarch', 'Abyss Soldier', 'Night Assailant', 'Magician of Faith', 'Chaos Sorceror', 'Tsukuyomi', 'Spirit Reaper', 'Vampire Lord', 'Airknight Parsath', 'Smoke Grenade of the Thief', 'Monster Gate', 'Mind Control', 'Brain Control', 'Soul Exchange', 'Monster Reincarnation', 'Wave Motion Cannon', 'Book of Taiyou', 'Axe of Despair', 'Big Bang Shot', 'Book of Moon', 'Enemy Controller', 'Smashing Ground', 'Book of Life', 'My Body as a Shield', 'Dragged Down from the Grave', 'Upstart Goblin', 'Offerings to the Doomed', 'The Warrior Returning Alive', 'Fissure', 'Wicked-Breaking Flamberge - Baou', 'Swords of Concealing Light', 'Last Will', 'Lightining Vortex', 'Swords of Revealing Light', 'Card Destruction', 'United We Stand', 'Mage Power', 'Nobleman of Crossout', 'Creature Swap', 'Reinforcement of the Army', 'Giant Trunade', 'Reasoning', 'Scapegoat', 'Dust Tornado', 'Phoenix Wing Wind Blast', 'Raigeki Break', 'Jar of Greed', 'Secret Barrel', 'Just Deserts', 'Ojama Trio', 'Spell Shield Type A', 'Widespread Ruin', 'Light of Intervention', 'Threatening Roar', 'Magic Jammer', 'Seven Tools of the Bandit', 'Royal Decree', 'Anti-Spell Fragrance', 'Waboku', 'Bottomless Trap Hole', 'Blast With Chain', 'Mind Crush', 'Needle Ceiling', 'Divine Wrath', 'Xing Zhen Hu', 'Magic Drain', 'Deck Devastation Virus', 'Magical Cylinder', 'Ceasefire', 'Last Turn', 'Trap Dustshoot', 'Skill Drain', 'Sakuretsu Armour', 'Solemn Judgment', 'Compulsory Evacuation Device'];
 var darks = ['Aloof Lupine', ' Axe Dragonute', ' Blast Sphere', ' Chaos Dragon Levianeer', ' Curse Necrofear', ' D.D Patrol Plane', ' D.D. Survivor', ' Dark General Freed', ' Dark Horus', ' Dark Hunter', ' Dark Magician of Chaos', ' Dark Nephtys', ' Darkflare Dragon', ' Darknight Parshath', 'Desperado Barrel Dragon', ' Destiny Hero - Doom Lord', ' Destiny Hero - Double Dude', ' Dharc the Dark Charmer', ' Don Zaloog', ' Doomsday Horror', ' Double Coston', ' Elementsaber Molehu', ' Flash Assailant', ' Fusilier Dragon the Dual-Mode Beast', ' Goblin Decoy Squad', ' Jack Wyvern', ' Lancer Dragonute', ' Malice Lady of Lament', ' Necroface', ' Prometheus King of Shadows', ' Red Eyes Darkness Metal Dragon', ' Scapeghost', ' Shadowpriestess of Ohm', ' The Dark Creator', ' Trance Archfiend', ' Twin-Barrel Dragon', ' Dark Mirror Force', ' Dark Spirit Art - Greed', ' Darklight', ' Destruction Jammer', ' Destructive Draw', ' Different Dimension Encounter', ' Dimension Reflector', ' Escape from the Dark Dimension', ' Fiend Griefing', ' Paleozoic Dinomischus', ' Premature Return', ' Rainbow Life', ' Rope of Life', ' Storm Dragons Return', ' Tiki Curse', ' Tiki Soul', ' Fairy Box', ' Guarded Trasure', 'Heart of Clear Water', 'Hidden Armoury', 'Megamorph', 'Overdone Burial', ' Pot of Acquisitiveness', 'Roullette Spider', 'Solitary Sword of Poison', ' Stop Defense', 'Summon Dice', 'Sword of Dark Rites', 'The Beginning of the End', 'Tornado', ' Break! Draw!', 'Burial from a Different Dimension', 'Chaos End', 'Cost Down', 'Cup of Ace', 'Cursed Armaments', 'D.D.R. - Different Dimension Reincarnation', 'Dangerous Machine Type-6', 'Dark Mambele', 'Darkworld Shackles', 'Dicephoon', 'Different Dimension Gate', 'Double Attack', 'Double Spell', 'Dragged Down into the Grave', 'Final Destiny', 'Gold Moon Coin', 'Gravity Axe - Grawrl', ' Blackwing Bora The Spear', ' Breaker The Dark Magical Warrior', 'Caius The Shadow Monarch', 'Kycoo The Ghost Destroyer', 'Mask Of Darkness', 'Mystic Tomato', ' Pitch Black Warwolf', 'Plague Wolf', 'Regenerating Mummy', 'Spirit Reaper', ' Witch Doctor of Chaos', 'Dark Core', 'Lightning Vortex', 'Magical Stone Excavation', 'Monster Reincarnation', 'Mystical Space Typhoon', 'Scapegoat', 'Accumulated Fortune', 'Call of the Haunted', 'Divine Wrath', 'Embodiement of Apophis', 'Jar of Greed', 'Karma Cut', ' Raigeki Break', ' Torrential Tribute', 'Blowback Dragon' ]
-function generateSinglePack(number){
-  console.log('generateSinglePack running');
-  var rareCopy;
-  var commonCopy;
-  switch (number) {
-    case 1:
-      rareCopy = [...BP1rares];
-      commonCopy = [...BP1commons];
-      break;
-    case 2:
-      rareCopy = [...BP2rares];
-      commonCopy = [...BP2commons];
-      break;
-    case 3:
-      rareCopy = [...BP3rares];
-      commonCopy = [...BP3commons];
-      break;
-    case 4:
-      rareCopy = [...goatRares];
-      commonCopy = [...goatCommons];
-      break;
-    case 5:
-      rareCopy = [...darks];
-      commonCopy = [...darks];
-      break;
-    default:
-      rareCopy = [...BP1rares];
-      commonCopy = [...BP1commons];
-  }
+
+
+function generatePack(setName){
+  //create a single pack from a set name
+
+  var pathName = "sets/" + setName + ".json";
+  var setData = fs.readFileSync(pathName);
+  var set = JSON.parse(setData);
+
+  var rareCopy = set.rares;
+  var commonCopy = set.commons;
+  var starfoilCopy = set.starfoils;
 
   var pack = [];
 
-  //starfoils
-  var starfoil = rareCopy.concat(commonCopy);
-  if (number === 2){
-    starfoil = starfoil.concat(['Obelisk', 'Slifer', 'Winged Dragon of Ra'])
-  }
-  else if (number === 3){
-    starfoil = starfoil.concat(['Grenosaurus', "Leviair the Sea Dragon", "Number 10: Illumiknight", "Number 20: Giga-Brilliant", "Lavalval Ignis", "Evigishki Merrowgeist", "Daigusto Emeral", "Gagaga Cowboy", "Heroic Champion - Kusanagi", "Giant Soldier of Steel", "Diamond Dire Wolf", "Tin Archduke", "Fairy Cheer Girl", "Number 44: Sky Pegasus", "Ghostrick Alucard", "Tri-Edge Levia"])
+  for(let i = 0; i < set.commonsPerPack; i++){
+    var commonBeingChosen = Math.floor((Math.random() * commonCopy.length));
+    pack.push(commonCopy[commonBeingChosen]);
+    commonCopy.splice(commonBeingChosen, 1);
   }
 
-  if (number !== 5){
-    var starfoilBeingChosen = Math.floor((Math.random() * starfoil.length));
-    pack.push(starfoil[starfoilBeingChosen]);
-
-    //rare
+  for(let j = 0; j < set.raresPerPack; j++){
     var rareBeingChosen = Math.floor((Math.random() * rareCopy.length));
     pack.push(rareCopy[rareBeingChosen]);
-
-    //commons
-    for (var i = 0; i < 3; i++){
-      var commonBeingChosen = Math.floor((Math.random() * commonCopy.length));
-      pack.push(commonCopy[commonBeingChosen]);
-      commonCopy.splice(commonBeingChosen, 1);
-    }
-    return pack
-  } else {
-    for (var i = 0; i < 10; i++){
-      var commonBeingChosen = Math.floor((Math.random() * commonCopy.length));
-      pack.push(commonCopy[commonBeingChosen]);
-      commonCopy.splice(commonBeingChosen, 1);
-    }
-    return pack;
+    rareCopy.splice(rareBeingChosen, 1);
   }
 
-
-}
-
-function generatePack(number){
-  console.log("generatePack running")
-  if(number !== 5){
-    var pack1 = generateSinglePack(number);
-    var pack2 = generateSinglePack(number);
-    return pack1.concat(pack2);
+  for(let k = 0; k < set.starfoilsPerPack; k++){
+    var starfoilBeingChosen = Math.floor((Math.random() * starfoilCopy.length));
+    pack.push(starfoilCopy[starfoilBeingChosen]);
+    starfoilCopy.splice(starfoilBeingChosen, 1);
   }
-  else {
-    return generateSinglePack(number);
-  }
+
+  return pack;
+
 }
 
 module.exports = { generatePack };

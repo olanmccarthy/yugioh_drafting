@@ -1,0 +1,12 @@
+{
+  "sets": {
+    "Dark": {
+      "setName": "Dark",
+      "amountOfPacks": 3
+    },
+    "BP1": {
+      "setName": "BP1",
+      "amountOfPacks": 5
+    }
+  }
+}
