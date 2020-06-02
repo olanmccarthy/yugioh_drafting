@@ -6,20 +6,16 @@ var { generatePack } = require('./server');
 var masterSetData = fs.readFileSync('./sets/index.json');
 
 var masterSet = JSON.parse(masterSetData);
-console.log("MASTER SET:");
-console.log(masterSet);
 
 //port number to server is listening to
-var port = 2009;
+var port = 2015;
 //number of players drafting
-var players = 4;
+var players = parseInt(process.argv[3]);
 //name of set being drafted
 var setName = process.argv[2];
 var pathName = "./sets/" + setName + ".json"
 
 var currentSet = masterSet.sets[setName];
-console.log("CURRENT SET:");
-console.log(currentSet);
 
 app.get('/', function(req, res) {
   res.sendFile(__dirname + '/client/index.html')
@@ -54,20 +50,22 @@ var io = require('socket.io')(serv, {});
 io.sockets.on('connection', function(socket){
   console.log('socket connection');
   if(playerCount > players){ //someone dc'd
-    console.log('player count > ' + players)
+    //console.log('player count > ' + players)
     socket.id = disconnected_id;
     SOCKET_LIST[socket.id] = socket;
     var player = PLAYER_LIST[socket.id];
-    console.log("player: " + player);
+    //console.log("player: " + player);
   } else { //new connection
-    console.log('player count =< ' + players)
+    //console.log('player count =< ' + players)
     socket.id = Math.random();
     SOCKET_LIST[socket.id] = socket;
     var player = Player(socket.id);
     player.currentPack = player.packs.pop();
     PLAYER_LIST[socket.id] = player;
-    console.log("player: " + player);
+    //console.log("player: " + player);
   }
+  //draw initial pack
+  socket.emit('drawPack', player.currentPack);
 
   socket.on('disconnect', function(){
     disconnected_id = socket.id
@@ -75,7 +73,7 @@ io.sockets.on('connection', function(socket){
   });
 
   socket.on('cardChosen', function(data){
-    console.log('player', player.id, ' choose ', data.cardChosen);
+    //console.log('player', player.id, ' choose ', data.cardChosen);
     if (!player.isReady){
       player.deck.push(player.currentPack[data.cardChosen]);
       player.currentPack.splice(data.cardChosen, 1);
@@ -104,6 +102,7 @@ setInterval(function(){
     }
   }
   if (playerReadyCount === players){ //everyone is ready
+    console.log('all players ready to swap')
     //swap currentPacks into outgoingPacks
     var outgoingPacks = [];
     var count = 0;
@@ -119,12 +118,16 @@ setInterval(function(){
     }
     for (var n in PLAYER_LIST){
       if (PLAYER_LIST[n].currentPack.length === 0){ //players still without packs after swap
-        console.log('players still without packs after swap');
+        //console.log('players still without packs after swap');
         for (var k in PLAYER_LIST){
           PLAYER_LIST[k].currentPack = PLAYER_LIST[k].packs.pop();
         }
         break;
       }
+    }
+    for (var j in SOCKET_LIST){ //sends updated data
+      var socket = SOCKET_LIST[j];
+      socket.emit('drawPack', PLAYER_LIST[j].currentPack);
     }
   }
   for (var j in SOCKET_LIST){ //sends updated data

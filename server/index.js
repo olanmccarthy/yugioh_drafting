@@ -17,9 +17,7 @@ function generatePack(setName){
   var pathName = "sets/" + setName + ".json";
   var setData = fs.readFileSync(pathName);
   var set = JSON.parse(setData);
-  console.log('*** SET ' + pathName + ' ***');
 
-  console.log('generateSinglePack running');
   var rareCopy = set.rares;
   var commonCopy = set.commons;
   var starfoilCopy = set.starfoils;
@@ -43,7 +41,7 @@ function generatePack(setName){
     pack.push(starfoilCopy[starfoilBeingChosen]);
     starfoilCopy.splice(starfoilBeingChosen, 1);
   }
-  console.log(pack);
+
   return pack;
 
 }

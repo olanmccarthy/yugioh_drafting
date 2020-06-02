@@ -20,7 +20,7 @@
   }
 
   function draw(){
-    context.clearRect(0,0, width, height); //clean frame
+    //context.clearRect(0,0, width, height); //clean frame
     context.font = "25px Arial";
     if (player === null){
       //draw player options
