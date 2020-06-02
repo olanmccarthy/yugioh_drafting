@@ -101,6 +101,7 @@ setInterval(function(){
       playerReadyCount ++;
     }
   }
+
   if (playerReadyCount === players){ //everyone is ready
     console.log('all players ready to swap')
     //swap currentPacks into outgoingPacks
