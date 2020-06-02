@@ -8,7 +8,7 @@ var masterSetData = fs.readFileSync('./sets/index.json');
 var masterSet = JSON.parse(masterSetData);
 
 //port number to server is listening to
-var port = 2015;
+var port = 2021;
 //number of players drafting
 var players = parseInt(process.argv[3]);
 //name of set being drafted
@@ -81,6 +81,12 @@ io.sockets.on('connection', function(socket){
       player.currentPack = [];
       player.isReady = true;
     }
+  })
+
+  socket.on('exportDeck', function(){
+    var ids = [];
+    player.deck.forEach(card => ids.push(card.id));
+    socket.emit("downloadDeck", ids);
   })
 });
 
