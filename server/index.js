@@ -18,31 +18,61 @@ function generatePack(setName){
   var setData = fs.readFileSync(pathName);
   var set = JSON.parse(setData);
 
-  var rareCopy = set.rares;
-  var commonCopy = set.commons;
-  var starfoilCopy = set.starfoils;
+  if (setName !== 'BP1') {
+    var rareCopy = set.rares;
+    var commonCopy = set.commons;
+    var starfoilCopy = set.starfoils;
 
-  var pack = [];
+    var pack = [];
 
-  for(let i = 0; i < set.commonsPerPack; i++){
-    var commonBeingChosen = Math.floor((Math.random() * commonCopy.length));
-    pack.push(commonCopy[commonBeingChosen]);
-    commonCopy.splice(commonBeingChosen, 1);
+    for(let i = 0; i < set.commonsPerPack; i++){
+      var commonBeingChosen = Math.floor((Math.random() * commonCopy.length));
+      pack.push(commonCopy[commonBeingChosen]);
+      commonCopy.splice(commonBeingChosen, 1);
+    }
+
+    for(let j = 0; j < set.raresPerPack; j++){
+      var rareBeingChosen = Math.floor((Math.random() * rareCopy.length));
+      pack.push(rareCopy[rareBeingChosen]);
+      rareCopy.splice(rareBeingChosen, 1);
+    }
+
+    for(let k = 0; k < set.starfoilsPerPack; k++){
+      var starfoilBeingChosen = Math.floor((Math.random() * starfoilCopy.length));
+      pack.push(starfoilCopy[starfoilBeingChosen]);
+      starfoilCopy.splice(starfoilBeingChosen, 1);
+    }
+
+    return pack;
+  } else {
+    let pack = [];
+
+    for(let k = 0; k < set.starfoilsPerPack; k++){
+      let starfoilBeingChosen = Math.floor((Math.random() * set.starfoils.length));
+      pack.push(set.starfoils[starfoilBeingChosen]);
+    }
+
+    for(let j = 0; j < set.raresPerPack; j++){
+      let rareBeingChosen = Math.floor((Math.random() * set.rares.length));
+      pack.push(set.rares[rareBeingChosen]);
+    }
+
+    //split the remaining commons into their 3 slots and give from each
+    const slot1 = set.commons;
+    const slot2 = slot1.splice(55);
+    const slot3 = slot2.splice(60);
+
+    for(let i = 0; i < (set.commonsPerPack / 3); i++){
+      const slot1BeingChosen = Math.floor((Math.random() * slot1.length));
+      pack.push(slot1[slot1BeingChosen]);
+      const slot2BeingChosen = Math.floor((Math.random() * slot2.length));
+      pack.push(slot2[slot2BeingChosen]);
+      const slot3BeingChosen = Math.floor((Math.random() * slot3.length));
+      pack.push(slot3[slot3BeingChosen]);
+    }
+
+    return pack
   }
-
-  for(let j = 0; j < set.raresPerPack; j++){
-    var rareBeingChosen = Math.floor((Math.random() * rareCopy.length));
-    pack.push(rareCopy[rareBeingChosen]);
-    rareCopy.splice(rareBeingChosen, 1);
-  }
-
-  for(let k = 0; k < set.starfoilsPerPack; k++){
-    var starfoilBeingChosen = Math.floor((Math.random() * starfoilCopy.length));
-    pack.push(starfoilCopy[starfoilBeingChosen]);
-    starfoilCopy.splice(starfoilBeingChosen, 1);
-  }
-
-  return pack;
 
 }
 
