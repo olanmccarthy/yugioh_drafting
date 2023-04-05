@@ -62,10 +62,14 @@
                     var ul = document.createElement("ul");
                     for (var j in data.deck){
                         //deckY = deckY + 15;
-                        var li = document.createElement('li');
-                        ul.appendChild(li);
-                        li.innerHTML = li.innerHTML + data.deck[j].name;
-
+                        try {
+                            const name = data.deck[j].name
+                            var li = document.createElement('li');
+                            ul.appendChild(li);
+                            li.innerHTML = li.innerHTML + name;
+                        } catch (e) {
+                            console.log('blank card in decklist')
+                        }
                     }
                     document.getElementById("deck").appendChild(ul);
                 });
