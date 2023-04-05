@@ -90,14 +90,9 @@
                 })
                 socket.on('downloadDeck', function (deck) {
                     console.log(deck);
-                    var text = "#created by ...\n#main\n";
-                    deck.forEach(id => text += id + "\n");
-                    text += "#extra\n";
-                    text += "!side"
-                    console.log(text);
 
                     var element = document.createElement('a');
-                    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+                    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(deck));
                     element.setAttribute('download', 'deck.ydk');
 
                     element.style.display = 'none';

@@ -85,13 +85,19 @@ io.sockets.on('connection', function(socket){
 
   socket.on('exportDeck', function(){
     var ids = [];
+    let main = "#created by ...\n#main\n";
+    let extra = "#extra\n!side\n";
     player.deck.forEach(card => {
       try {
-        ids.push(card.id)
+        if (card.isExtra) {
+          extra += card.id + "\n";
+        } else {
+          main += card.id + "\n";
+        }
       } catch (e) {
       }
     });
-    socket.emit("downloadDeck", ids);
+    socket.emit("downloadDeck", main + extra);
   })
 });
 
