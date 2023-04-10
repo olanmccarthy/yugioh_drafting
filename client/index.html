@@ -3,57 +3,7 @@
     <meta charset="utf-8" />
     <title>Battle Pack Draft</title>
     <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
-</head>
-<body>
-    <div>
-        <div id="images" style="float: left;width: 70%;">
-            <div style="display: inline-block">
-                <img src="blank.png" id="0" height="350" width="240">
-                <p>0</p>
-            </div>
-            <div style="display: inline-block">
-                <img src="blank.png" id="1" height="350" width="240">
-                <p>1</p>
-            </div>
-            <div style="display: inline-block">
-                <img src="blank.png" id="2" height="350" width="240">
-                <p>2</p>
-            </div>
-            <div style="display: inline-block">
-                <img src="blank.png" id="3" height="350" width="240">
-                <p>3</p>
-            </div>
-            <div style="display: inline-block">
-                <img src="blank.png" id="4" height="350" width="240">
-                <p>4</p>
-            </div>
-            <div style="display: inline-block">
-                <img src="blank.png" id="5" height="350" width="240">
-                <p>5</p>
-            </div>
-            <div style="display: inline-block">
-                <img src="blank.png" id="6" height="350" width="240">
-                <p>6</p>
-            </div>
-            <div style="display: inline-block">
-                <img src="blank.png" id="7" height="350" width="240">
-                <p>7</p>
-            </div>
-            <div style="display: inline-block">
-                <img src="blank.png" id="8" height="350" width="240">
-                <p>8</p>
-            </div>
-            <div style="display: inline-block">
-                <img src="blank.png" id="9" height="350" width="240">
-                <p>9</p>
-            </div>
-        </div>
-
-    </div>
-        <div id="deck" style="float: right;">
-            <p>Deck:</p>
-
-            <script>
+    <script>
                 var socket = io();
                 //var context = document.getElementById('ctx').getContext('2d');
 
@@ -164,7 +114,61 @@
                     console.log("exporting!");
                     socket.emit('exportDeck', {})
                 }
+                function onClick(id){
+                    img = document.getElementById(`${id}`);
+                    img.style.cssText = "opacity: 0.5;";
+                    socket.emit('cardChosen', { cardChosen: id})
+                }
             </script>
+</head>
+<body>
+    <div>
+        <div id="images" style="float: left;width: 70%;">
+            <div style="display: inline-block">
+                <img src="blank.png" id="0" height="350" width="240" onclick="onClick(0)">
+                <p>0</p>
+            </div>
+            <div style="display: inline-block">
+                <img src="blank.png" id="1" height="350" width="240" onclick="onClick(1)">
+                <p>1</p>
+            </div>
+            <div style="display: inline-block">
+                <img src="blank.png" id="2" height="350" width="240" onclick="onClick(2)">
+                <p>2</p>
+            </div>
+            <div style="display: inline-block">
+                <img src="blank.png" id="3" height="350" width="240" onclick="onClick(3)">
+                <p>3</p>
+            </div>
+            <div style="display: inline-block">
+                <img src="blank.png" id="4" height="350" width="240" onclick="onClick(4)">
+                <p>4</p>
+            </div>
+            <div style="display: inline-block">
+                <img src="blank.png" id="5" height="350" width="240" onclick="onClick(5)">
+                <p>5</p>
+            </div>
+            <div style="display: inline-block">
+                <img src="blank.png" id="6" height="350" width="240" onclick="onClick(6)">
+                <p>6</p>
+            </div>
+            <div style="display: inline-block">
+                <img src="blank.png" id="7" height="350" width="240" onclick="onClick(7)">
+                <p>7</p>
+            </div>
+            <div style="display: inline-block">
+                <img src="blank.png" id="8" height="350" width="240" onclick="onClick(8)">
+                <p>8</p>
+            </div>
+            <div style="display: inline-block">
+                <img src="blank.png" id="9" height="350" width="240" onclick="onClick(9)">
+                <p>9</p>
+            </div>
+        </div>
+
+    </div>
+        <div id="deck" style="float: right;">
+            <p>Deck:</p>
         </div>
         <button onclick="exportDeck()">Export Deck</button>
     </div>
