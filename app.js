@@ -55,13 +55,11 @@ var io = require('socket.io')(serv, {});
 io.sockets.on('connection', function(socket){
   console.log('socket connection');
   if(playerCount > players){ //someone dc'd
-    //console.log('player count > ' + players)
     socket.id = disconnected_id;
     SOCKET_LIST[socket.id] = socket;
     var player = PLAYER_LIST[socket.id];
     //console.log("player: " + player);
   } else { //new connection
-    //console.log('player count =< ' + players)
     socket.id = Math.random();
     SOCKET_LIST[socket.id] = socket;
     var player = Player(socket.id);
@@ -74,6 +72,7 @@ io.sockets.on('connection', function(socket){
 
   socket.on('disconnect', function(){
     disconnected_id = socket.id
+    playerCount --;
     console.log('socket disconnection')
   });
 
