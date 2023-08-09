@@ -18,33 +18,7 @@ function generatePack(setName){
   var setData = fs.readFileSync(pathName);
   var set = JSON.parse(setData);
 
-  if (setName !== 'BP1') {
-    var rareCopy = set.rares;
-    var commonCopy = set.commons;
-    var starfoilCopy = set.starfoils;
-
-    var pack = [];
-
-    for(let i = 0; i < set.commonsPerPack; i++){
-      var commonBeingChosen = Math.floor((Math.random() * commonCopy.length));
-      pack.push(commonCopy[commonBeingChosen]);
-      commonCopy.splice(commonBeingChosen, 1);
-    }
-
-    for(let j = 0; j < set.raresPerPack; j++){
-      var rareBeingChosen = Math.floor((Math.random() * rareCopy.length));
-      pack.push(rareCopy[rareBeingChosen]);
-      rareCopy.splice(rareBeingChosen, 1);
-    }
-
-    for(let k = 0; k < set.starfoilsPerPack; k++){
-      var starfoilBeingChosen = Math.floor((Math.random() * starfoilCopy.length));
-      pack.push(starfoilCopy[starfoilBeingChosen]);
-      starfoilCopy.splice(starfoilBeingChosen, 1);
-    }
-
-    return pack;
-  } else {
+  if (setName === 'BP1') {
     let pack = [];
 
     for(let k = 0; k < set.starfoilsPerPack; k++){
@@ -72,8 +46,33 @@ function generatePack(setName){
     }
 
     return pack
-  }
+  } else {
+    var rareCopy = set.rares;
+    var commonCopy = set.commons;
+    var starfoilCopy = set.starfoils;
 
+    var pack = [];
+
+    for(let i = 0; i < set.commonsPerPack; i++){
+      var commonBeingChosen = Math.floor((Math.random() * commonCopy.length));
+      pack.push(commonCopy[commonBeingChosen]);
+      commonCopy.splice(commonBeingChosen, 1);
+    }
+
+    for(let j = 0; j < set.raresPerPack; j++){
+      var rareBeingChosen = Math.floor((Math.random() * rareCopy.length));
+      pack.push(rareCopy[rareBeingChosen]);
+      rareCopy.splice(rareBeingChosen, 1);
+    }
+
+    for(let k = 0; k < set.starfoilsPerPack; k++){
+      var starfoilBeingChosen = Math.floor((Math.random() * starfoilCopy.length));
+      pack.push(starfoilCopy[starfoilBeingChosen]);
+      starfoilCopy.splice(starfoilBeingChosen, 1);
+    }
+
+    return pack;
+  }
 }
 
 module.exports = { generatePack };

@@ -103,8 +103,14 @@ io.sockets.on('connection', function(socket){
 
 function generatePacks(currentSet){
   var packs = [];
-  for(let i = 0; i < currentSet.amountOfPacks; i++){
-    packs.push(generatePack(currentSet.setName));
+  if (currentSet.setName === 'BP2') {
+    packs.push(generatePack('BP2'));
+    packs.push(generatePack('BP2-Reinforcements'));
+    packs.push(generatePack('BP2'));
+  } else {
+    for(let i = 0; i < currentSet.amountOfPacks; i++){
+      packs.push(generatePack(currentSet.setName));
+    }
   }
   return packs;
 }
