@@ -18,7 +18,11 @@ var pathName = "./sets/" + setName + ".json"
 var currentSet = masterSet.sets[setName];
 
 app.get('/', function(req, res) {
-  res.sendFile(__dirname + '/client/index.html')
+  if (setName === 'BP2') {
+    res.sendFile(__dirname + '/client/bp2.html')
+  } else {
+    res.sendFile(__dirname + '/client/index.html')
+  }
 });
 
 app.use('/client', express.static(__dirname + '/client'));

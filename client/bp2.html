@@ -1,0 +1,144 @@
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Battle Pack Draft</title>
+    <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+    <script>
+        var socket = io();
+        //var context = document.getElementById('ctx').getContext('2d');
+        var chosen = false;
+        socket.on('updateData', function(data){
+            document.getElementById('deck').innerHTML = '';
+            var ul = document.createElement("ul");
+            for (var j in data.deck){
+                //deckY = deckY + 15;
+                try {
+                    const name = data.deck[j].name
+                    var li = document.createElement('li');
+                    ul.appendChild(li);
+                    li.innerHTML = li.innerHTML + name;
+                } catch (e) {
+                    console.log('blank card in decklist')
+                }
+            }
+            document.getElementById("deck").appendChild(ul);
+        });
+        socket.on('drawPack', function(pack){
+            //called when a new pack has just been passed or opened
+            chosen = false;
+            //clear all img items to have blanks
+            for(var k = 0; k < 15; k++){
+                var img = document.getElementById(k);
+                img.src = "blank.png";
+                img.style.cssText = "";
+            }
+            //fill relevant ones with card images
+            for (var card in pack){
+                var img = document.getElementById(card);
+                img.src = 'https://images.ygoprodeck.com/images/cards/' + pack[card].id + '.jpg';
+                console.log(img.src);
+            }
+        })
+        socket.on('downloadDeck', function (deck) {
+            console.log(deck);
+
+            var element = document.createElement('a');
+            element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(deck));
+            element.setAttribute('download', 'deck.ydk');
+
+            element.style.display = 'none';
+            document.body.appendChild(element);
+
+            element.click();
+
+            document.body.removeChild(element);
+        })
+        var code;
+
+        function exportDeck(){
+            console.log("exporting!");
+            socket.emit('exportDeck', {})
+        }
+        function onClick(id){
+            if (!chosen) {
+                img = document.getElementById(`${id}`);
+                img.style.cssText = "opacity: 0.5;";
+                socket.emit('cardChosen', { cardChosen: id})
+                chosen = true;
+            }
+        }
+    </script>
+</head>
+<body>
+<div>
+    <div id="images" style="float: left;width: 70%;">
+        <div style="display: inline-block">
+            <img src="blank.png" id="0" height="350" width="240" onclick="onClick(0)">
+            <p>0</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="1" height="350" width="240" onclick="onClick(1)">
+            <p>1</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="2" height="350" width="240" onclick="onClick(2)">
+            <p>2</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="3" height="350" width="240" onclick="onClick(3)">
+            <p>3</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="4" height="350" width="240" onclick="onClick(4)">
+            <p>4</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="5" height="350" width="240" onclick="onClick(5)">
+            <p>5</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="6" height="350" width="240" onclick="onClick(6)">
+            <p>6</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="7" height="350" width="240" onclick="onClick(7)">
+            <p>7</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="8" height="350" width="240" onclick="onClick(8)">
+            <p>8</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="9" height="350" width="240" onclick="onClick(9)">
+            <p>9</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="10" height="350" width="240" onclick="onClick(10)">
+            <p>10</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="11" height="350" width="240" onclick="onClick(11)">
+            <p>11</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="12" height="350" width="240" onclick="onClick(12)">
+            <p>12</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="13" height="350" width="240" onclick="onClick(13)">
+            <p>13</p>
+        </div>
+        <div style="display: inline-block">
+            <img src="blank.png" id="14" height="350" width="240" onclick="onClick(14)">
+            <p>14</p>
+        </div>
+    </div>
+
+</div>
+<div id="deck" style="float: right;">
+    <p>Deck:</p>
+</div>
+<button onclick="exportDeck()">Export Deck</button>
+</div>
+</body>
+</html>
