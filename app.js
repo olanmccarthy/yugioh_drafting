@@ -106,7 +106,7 @@ io.sockets.on('connection', function(socket){
 });
 
 function generatePacks(currentSet){
-  var packs = [];
+  let packs = [];
   if (currentSet.setName === 'BP2') {
     packs.push(generatePack('BP2'));
     packs.push(generatePack('BP2-Reinforcements'));
@@ -119,11 +119,10 @@ function generatePacks(currentSet){
   return packs;
 }
 
-setInterval(function(){
-  var playerReadyCount = 0;
+setInterval(() => {
+  let playerReadyCount = 0;
   for (var i in PLAYER_LIST){ //check all players are ready
     var player = PLAYER_LIST[i];
-    //console.log('checking player:', player);
     if (player.isReady){
       playerReadyCount ++;
     }
@@ -132,34 +131,49 @@ setInterval(function(){
   if (playerReadyCount === players){ //everyone is ready
     console.log('all players ready to swap')
     //swap currentPacks into outgoingPacks
-    var outgoingPacks = [];
-    var count = 0;
-    for (var l in PLAYER_LIST){
+    let outgoingPacks = [];
+    let count = 0;
+    let passRight = true;
+    for (let l in PLAYER_LIST){
       outgoingPacks.push(PLAYER_LIST[l].outgoingPack);
       PLAYER_LIST[l].outgoingPack = [];
     }
-    outgoingPacks.push(outgoingPacks.shift());
-    for (var m in PLAYER_LIST){
+
+    //change order of outgoingPacks so player recieves new pack
+    if (passRight) {
+      outgoingPacks.push(outgoingPacks.shift());
+    } else {
+      outgoingPacks.push(outgoingPacks.pop());
+    }
+
+    for (let m in PLAYER_LIST){
       PLAYER_LIST[m].currentPack = outgoingPacks[count];
       PLAYER_LIST[m].isReady = false;
       count ++;
     }
-    for (var n in PLAYER_LIST){
-      if (PLAYER_LIST[n].currentPack.length === 0){ //players still without packs after swap
-        //console.log('players still without packs after swap');
-        for (var k in PLAYER_LIST){
+
+    for (let n in PLAYER_LIST){
+      //check if its time to open a new pack
+      //why this is in a for loop that breaks at index 0 if triggered I'm not sure
+      if (PLAYER_LIST[n].currentPack.length === 0){
+        //players still without packs after swap
+
+        //every one opens a new pack
+        for (let k in PLAYER_LIST) {
           PLAYER_LIST[k].currentPack = PLAYER_LIST[k].packs.pop();
         }
+        //swap direction packs are being swapped
+        passRight = !passRight;
         break;
       }
     }
-    for (var j in SOCKET_LIST){ //sends updated data
-      var socket = SOCKET_LIST[j];
+    for (let j in SOCKET_LIST){ //sends updated data
+      const socket = SOCKET_LIST[j];
       socket.emit('drawPack', PLAYER_LIST[j].currentPack);
     }
   }
-  for (var j in SOCKET_LIST){ //sends updated data
-    var socket = SOCKET_LIST[j];
-    socket.emit('updateData', PLAYER_LIST[j]);
+  for (let n in SOCKET_LIST){ //sends updated data
+    const sock = SOCKET_LIST[n];
+    sock.emit('updateData', PLAYER_LIST[n]);
   }
 },1000/25);
