@@ -7,6 +7,7 @@
         var socket = io();
         //var context = document.getElementById('ctx').getContext('2d');
         var chosen = false;
+        var currentPack = [];
         socket.on('updateData', function(data){
             document.getElementById('deck').innerHTML = '';
             var ul = document.createElement("ul");
@@ -26,6 +27,7 @@
         socket.on('drawPack', function(pack){
             //called when a new pack has just been passed or opened
             chosen = false;
+            currentPack = pack;
             //clear all img items to have blanks
             for(var k = 0; k < 15; k++){
                 var img = document.getElementById(k);
@@ -60,7 +62,9 @@
             socket.emit('exportDeck', {})
         }
         function onClick(id){
-            if (!chosen) {
+            if (!chosen && (parseInt(id) < currentPack.length)) {
+                console.log(id);
+                console.log(currentPack);
                 img = document.getElementById(`${id}`);
                 img.style.cssText = "opacity: 0.5;";
                 socket.emit('cardChosen', { cardChosen: id})
