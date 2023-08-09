@@ -34,6 +34,7 @@ var playerCount = 1;
 var SOCKET_LIST = {};
 var PLAYER_LIST = {};
 var disconnected_id = null;
+let passRight = true;
 
 var Player = function(id){
   var self = {
@@ -129,11 +130,9 @@ setInterval(() => {
   }
 
   if (playerReadyCount === players){ //everyone is ready
-    console.log('all players ready to swap')
     //swap currentPacks into outgoingPacks
     let outgoingPacks = [];
     let count = 0;
-    let passRight = true;
     for (let l in PLAYER_LIST){
       outgoingPacks.push(PLAYER_LIST[l].outgoingPack);
       PLAYER_LIST[l].outgoingPack = [];
@@ -143,7 +142,7 @@ setInterval(() => {
     if (passRight) {
       outgoingPacks.push(outgoingPacks.shift());
     } else {
-      outgoingPacks.push(outgoingPacks.pop());
+      outgoingPacks = [outgoingPacks.pop(), ...outgoingPacks];
     }
 
     for (let m in PLAYER_LIST){
