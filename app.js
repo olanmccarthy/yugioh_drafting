@@ -106,7 +106,7 @@ io.sockets.on('connection', function(socket){
 });
 
 function generatePacks(currentSet){
-  let packs = [];
+  var packs = [];
   if (currentSet.setName === 'BP2') {
     packs.push(generatePack('BP2'));
     packs.push(generatePack('BP2-Reinforcements'));
@@ -119,10 +119,11 @@ function generatePacks(currentSet){
   return packs;
 }
 
-setInterval(() => {
-  let playerReadyCount = 0;
+setInterval(function(){
+  var playerReadyCount = 0;
   for (var i in PLAYER_LIST){ //check all players are ready
     var player = PLAYER_LIST[i];
+    //console.log('checking player:', player);
     if (player.isReady){
       playerReadyCount ++;
     }
@@ -130,9 +131,9 @@ setInterval(() => {
 
   if (playerReadyCount === players){ //everyone is ready
     //swap currentPacks into outgoingPacks
-    let outgoingPacks = [];
-    let count = 0;
-    for (let l in PLAYER_LIST){
+    var outgoingPacks = [];
+    var count = 0;
+    for (var l in PLAYER_LIST){
       outgoingPacks.push(PLAYER_LIST[l].outgoingPack);
       PLAYER_LIST[l].outgoingPack = [];
     }
@@ -144,20 +145,19 @@ setInterval(() => {
       outgoingPacks = [outgoingPacks.pop(), ...outgoingPacks];
     }
 
-    for (let m in PLAYER_LIST){
+    for (var m in PLAYER_LIST){
       PLAYER_LIST[m].currentPack = outgoingPacks[count];
       PLAYER_LIST[m].isReady = false;
       count ++;
     }
 
-    for (let n in PLAYER_LIST){
+    for (var n in PLAYER_LIST){
       //check if its time to open a new pack
       //why this is in a for loop that breaks at index 0 if triggered I'm not sure
-      if (PLAYER_LIST[n].currentPack.length === 0){
-        //players still without packs after swap
+      if (PLAYER_LIST[n].currentPack.length === 0){ //players still without packs after swap
 
         //every one opens a new pack
-        for (let k in PLAYER_LIST) {
+        for (var k in PLAYER_LIST){
           PLAYER_LIST[k].currentPack = PLAYER_LIST[k].packs.pop();
         }
         //swap direction packs are being swapped
@@ -165,13 +165,13 @@ setInterval(() => {
         break;
       }
     }
-    for (let j in SOCKET_LIST){ //sends updated data
-      const socket = SOCKET_LIST[j];
+    for (var j in SOCKET_LIST){ //sends updated data
+      var socket = SOCKET_LIST[j];
       socket.emit('drawPack', PLAYER_LIST[j].currentPack);
     }
   }
-  for (let n in SOCKET_LIST){ //sends updated data
-    const sock = SOCKET_LIST[n];
-    sock.emit('updateData', PLAYER_LIST[n]);
+  for (var j in SOCKET_LIST){ //sends updated data
+    var socket = SOCKET_LIST[j];
+    socket.emit('updateData', PLAYER_LIST[j]);
   }
 },1000/25);
