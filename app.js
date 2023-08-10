@@ -60,17 +60,21 @@ io.sockets.on('connection', function(socket){
     socket.id = sessionId;
     SOCKET_LIST[sessionId] = socket;
       if (PLAYER_LIST[sessionId]) {
+        console.log('existing user re-connects');
           //player exists in session
           player = PLAYER_LIST[sessionId];
       } else {
-          if(playerCount <= players) {
+          if (playerCount <= players) {
+            console.log('new player has joined')
               player = Player(sessionId);
               player.currentPack = player.packs.pop();
               PLAYER_LIST[sessionId] = player;
+          } else {
+            console.log('new player could not join because player limit was reached')
           }
       }
     //draw your current pack
-    socket.emit('drawPack', player.currentPack);
+    if (player) socket.emit('drawPack', player.currentPack);
   });
 
   socket.on('disconnect', function(){
