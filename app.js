@@ -53,27 +53,29 @@ var Player = function(id){
 var io = require('socket.io')(serv, {});
 
 io.sockets.on('connection', function(socket){
-  console.log('socket connection');
-  if(playerCount > players){ //someone dc'd
-    socket.id = disconnected_id;
-    SOCKET_LIST[socket.id] = socket;
-    var player = PLAYER_LIST[socket.id];
-    //console.log("player: " + player);
-  } else { //new connection
-    socket.id = Math.random();
-    SOCKET_LIST[socket.id] = socket;
-    var player = Player(socket.id);
-    player.currentPack = player.packs.pop();
-    PLAYER_LIST[socket.id] = player;
-    //console.log("player: " + player);
-  }
-  //draw initial pack
-  socket.emit('drawPack', player.currentPack);
+  var player;
+  socket.emit('validateUser');
+
+  socket.on('userValidation', ({ sessionId }) => {
+    socket.id = sessionId;
+    SOCKET_LIST[sessionId] = socket;
+      if (PLAYER_LIST[sessionId]) {
+          //player exists in session
+          player = PLAYER_LIST[sessionId];
+      } else {
+          if(playerCount <= players) {
+              player = Player(sessionId);
+              player.currentPack = player.packs.pop();
+              PLAYER_LIST[sessionId] = player;
+          }
+      }
+    //draw your current pack
+    socket.emit('drawPack', player.currentPack);
+  });
 
   socket.on('disconnect', function(){
     disconnected_id = socket.id
-    playerCount --;
-    console.log('socket disconnection')
+    console.log('socket disconnection ', socket.id);
   });
 
   socket.on('cardChosen', function(data){
