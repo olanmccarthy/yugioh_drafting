@@ -8,8 +8,8 @@
         //var context = document.getElementById('ctx').getContext('2d');
         var chosen = false;
         var currentPack = [];
+        var sessionId;
         socket.on('validateUser', () => {
-            let sessionId;
             if (localStorage.getItem("sessionId")) {
                 sessionId = localStorage.getItem("sessionId");
             } else {
@@ -71,7 +71,7 @@
 
         function exportDeck(){
             console.log("exporting!");
-            socket.emit('exportDeck', {})
+            socket.emit('exportDeck', { sessionId })
         }
         function onClick(id){
             if (!chosen && (parseInt(id) < currentPack.length)) {
@@ -79,7 +79,7 @@
                 console.log(currentPack);
                 img = document.getElementById(`${id}`);
                 img.style.cssText = "opacity: 0.5;";
-                socket.emit('cardChosen', { cardChosen: id})
+                socket.emit('cardChosen', { cardChosen: id, sessionId })
                 chosen = true;
             }
         }

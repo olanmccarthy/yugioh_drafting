@@ -78,21 +78,29 @@ io.sockets.on('connection', function(socket){
     console.log('socket disconnection ', socket.id);
   });
 
-  socket.on('cardChosen', function(data){
+  socket.on('cardChosen', function({ cardChosen, sessionId }){
     //console.log('player', player.id, ' choose ', data.cardChosen);
+    if (!player) {
+      player = PLAYER_LIST[sessionId];
+    }
     if (!player.isReady){
-      player.deck.push(player.currentPack[data.cardChosen]);
-      player.currentPack.splice(data.cardChosen, 1);
+      player.deck.push(player.currentPack[cardChosen]);
+      player.currentPack.splice(cardChosen, 1);
       player.outgoingPack = player.currentPack;
       player.currentPack = [];
       player.isReady = true;
     }
   })
 
-  socket.on('exportDeck', function(){
+  socket.on('exportDeck', function({ sessionId }){
     var ids = [];
     let main = "#created by ...\n#main\n";
     let extra = "#extra\n!side\n";
+
+    if (!player) {
+      player = PLAYER_LIST[sessionId];
+    }
+
     player.deck.forEach(card => {
       try {
         if (card.isExtra) {
