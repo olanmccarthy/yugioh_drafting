@@ -11,6 +11,10 @@
     "BP2": {
       "setName": "BP2",
       "amountOfPacks": 3
+    },
+    "BP3": {
+      "setName": "BP3",
+      "amountOfPacks": 3
     }
   }
 }

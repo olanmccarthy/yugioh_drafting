@@ -18,7 +18,7 @@ var pathName = "./sets/" + setName + ".json"
 var currentSet = masterSet.sets[setName];
 
 app.get('/', function(req, res) {
-  if (setName === 'BP2') {
+  if (setName === 'BP2' || setName === 'BP3') {
     res.sendFile(__dirname + '/client/bp2.html')
   } else {
     res.sendFile(__dirname + '/client/index.html')
